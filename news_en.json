@@ -1,5 +1,17 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (07/14~07/20)",
+        "summary": "",
+        "postId": 8961,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2025-07-21 10:27:39",
+        "displayTime": "2025-07-23 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250721/4IwUdwnR.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250721/4IwUdwnR_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/8961"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (07/07~07/13)",
         "summary": "",
         "postId": 8947,
@@ -123,19 +135,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250701/munW6ybq.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250701/munW6ybq_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/8866"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Terms of Service and Rules of Conduct Revision ",
-        "summary": "",
-        "postId": 8864,
-        "category": "notice",
-        "labels": [
-            "label_pc"
-        ],
-        "createdAt": "2025-06-30 04:36:15",
-        "displayTime": "2025-07-02 00:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250630/ehm1AhZt.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250630/ehm1AhZt_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/8864"
     }
 ]
