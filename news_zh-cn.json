@@ -12,6 +12,20 @@
         "newsUrl": "https://pubg.com/zh-cn/news/8990"
     },
     {
+        "title": "PNC 2025决赛门票赠品的相关通知",
+        "summary": "PNC 2025决赛门票赠品的相关通知",
+        "postId": 8995,
+        "category": "notice",
+        "labels": [
+            "label_pc"
+        ],
+        "createdAt": "2025-07-30 13:56:58",
+        "displayTime": "2025-07-30 04:52:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250730/Gp4jspcE.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250730/Gp4jspcE_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/8995"
+    },
+    {
         "title": "【每周违规账号公示】 7/14 ~ 7/20",
         "summary": "【每周违规账号公示】 7/14 ~ 7/20",
         "postId": 8961,
@@ -120,17 +134,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250707/DpwEa1UX.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250707/DpwEa1UX_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/8865"
-    },
-    {
-        "title": "【每周违规账号公示】 6/23 ~ 6/29",
-        "summary": "【每周违规账号公示】 6/23 ~ 6/29",
-        "postId": 8866,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2025-07-02 07:42:02",
-        "displayTime": "2025-07-02 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250702/siUChezw.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250702/siUChezw_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/8866"
     }
 ]
