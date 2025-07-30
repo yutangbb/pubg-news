@@ -1,5 +1,17 @@
 [
     {
+        "title": "【每周违规账号公示】 7/21 ~ 7/27",
+        "summary": "【每周违规账号公示】 7/21 ~ 7/27",
+        "postId": 8990,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2025-07-30 08:29:00",
+        "displayTime": "2025-07-30 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250730/kFSOj7F8.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250730/kFSOj7F8_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/8990"
+    },
+    {
         "title": "【每周违规账号公示】 7/14 ~ 7/20",
         "summary": "【每周违规账号公示】 7/14 ~ 7/20",
         "postId": 8961,
@@ -120,19 +132,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250702/siUChezw.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250702/siUChezw_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/8866"
-    },
-    {
-        "title": "《PUBG》服务条款和行为准则修订",
-        "summary": "",
-        "postId": 8864,
-        "category": "notice",
-        "labels": [
-            "label_pc"
-        ],
-        "createdAt": "2025-06-30 04:36:15",
-        "displayTime": "2025-07-02 00:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250630/ehm1AhZt.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250630/ehm1AhZt_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/8864"
     }
 ]
