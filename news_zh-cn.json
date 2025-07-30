@@ -1,5 +1,17 @@
 [
     {
+        "title": "【每周违规账号公示】 7/14 ~ 7/20",
+        "summary": "【每周违规账号公示】 7/14 ~ 7/20",
+        "postId": 8961,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2025-07-30 05:59:27",
+        "displayTime": "2025-07-23 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250730/0guTzjlP.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250730/0guTzjlP_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/8961"
+    },
+    {
         "title": "【每周违规账号公示】 7/07 ~ 7/13",
         "summary": "【每周违规账号公示】 7/07 ~ 7/13",
         "postId": 8947,
@@ -122,20 +134,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250630/ehm1AhZt.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250630/ehm1AhZt_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/8864"
-    },
-    {
-        "title": "PUBG反作弊工作计划",
-        "summary": "PUBG反作弊工作计划",
-        "postId": 8848,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-06-28 01:06:09",
-        "displayTime": "2025-06-28 14:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250628/4bPkquf7.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250628/4bPkquf7_thumb.png",
-        "newsUrl": "https://pubg.com/zh-cn/news/8848"
     }
 ]
