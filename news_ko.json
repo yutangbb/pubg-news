@@ -1,5 +1,17 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (07/21~07/27)",
+        "summary": "",
+        "postId": 8990,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2025-07-30 02:53:43",
+        "displayTime": "2025-07-30 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250730/8BnMiaH5.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250730/8BnMiaH5_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/8990"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (07/07~07/13)",
         "summary": "",
         "postId": 8947,
@@ -122,20 +134,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250630/ehm1AhZt.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250630/ehm1AhZt_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/8864"
-    },
-    {
-        "title": "PUBG: 배틀그라운드 안티치트 로드맵",
-        "summary": "",
-        "postId": 8848,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-06-27 14:11:22",
-        "displayTime": "2025-06-28 14:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250627/rsyrULWP.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250627/rsyrULWP_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/8848"
     }
 ]
