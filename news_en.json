@@ -1,5 +1,17 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (07/28~08/03)",
+        "summary": "",
+        "postId": 9018,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2025-08-04 10:51:09",
+        "displayTime": "2025-08-06 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250804/Dnjmh5TL.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250804/Dnjmh5TL_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9018"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (07/21~07/27)",
         "summary": "",
         "postId": 8990,
@@ -120,20 +132,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250706/QulFtfd3.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250706/QulFtfd3_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/8865"
-    },
-    {
-        "title": "PUBG Brings the Heat ft. chocoTaco on Twitch Rivals",
-        "summary": "PUBG is bringing the heat to Twitch Rivals on Friday, July 11 starting at 12PM PDT (19:00 UTC)!",
-        "postId": 8882,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-07-04 07:20:08",
-        "displayTime": "2025-07-04 17:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250704/pTcFQQ7s.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250704/pTcFQQ7s_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/8882"
     }
 ]
