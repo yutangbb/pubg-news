@@ -1,5 +1,20 @@
 [
     {
+        "title": "[开发者日志] 精确射手步枪(DMR)平衡性调整",
+        "summary": "[开发者日志] 精确射手步枪(DMR)平衡性调整",
+        "postId": 9000,
+        "category": "dev_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-08-08 06:25:43",
+        "displayTime": "2025-08-08 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250808/33RfuB9j.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250808/33RfuB9j_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/9000"
+    },
+    {
         "title": "【每周违规账号公示】 7/28 ~ 8/3",
         "summary": "【每周违规账号公示】 7/28 ~ 8/3",
         "postId": 9018,
@@ -117,20 +132,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250708/ut88ogzc.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250708/ut88ogzc_thumb.png",
         "newsUrl": "https://pubg.com/zh-cn/news/8872"
-    },
-    {
-        "title": "36.2版本更新公告",
-        "summary": "一起来了解一下36.2版本的新功能和优化内容吧！",
-        "postId": 8871,
-        "category": "patch_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-07-08 05:35:20",
-        "displayTime": "2025-07-08 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250708/SWrBv8Lj.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250708/SWrBv8Lj_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/8871"
     }
 ]

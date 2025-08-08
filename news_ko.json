@@ -1,5 +1,20 @@
 [
     {
+        "title": "[개발일지] DMR 리밸런스",
+        "summary": "",
+        "postId": 9000,
+        "category": "dev_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-08-06 02:50:33",
+        "displayTime": "2025-08-08 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250806/Rd9Wbr41.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250806/Rd9Wbr41_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9000"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (07/28~08/03)",
         "summary": "",
         "postId": 9018,
@@ -120,17 +135,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250707/vwNqZLSr.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250707/vwNqZLSr_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/8865"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (06/23~06/29)",
-        "summary": "",
-        "postId": 8866,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2025-07-02 06:13:09",
-        "displayTime": "2025-07-02 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250702/owr2GjDG.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250702/owr2GjDG_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/8866"
     }
 ]

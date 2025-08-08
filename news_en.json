@@ -1,5 +1,20 @@
 [
     {
+        "title": "Dev Letter: DMR Rebalance",
+        "summary": "",
+        "postId": 9000,
+        "category": "dev_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-07-31 12:06:04",
+        "displayTime": "2025-08-08 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250731/WvsU0pcp.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250731/WvsU0pcp_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9000"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (07/28~08/03)",
         "summary": "",
         "postId": 9018,
@@ -118,19 +133,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250707/xUSqbNJS.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250707/xUSqbNJS_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/8871"
-    },
-    {
-        "title": "PUBG UGC Alpha",
-        "summary": "",
-        "postId": 8865,
-        "category": "notice",
-        "labels": [
-            "label_pc"
-        ],
-        "createdAt": "2025-06-30 19:45:35",
-        "displayTime": "2025-07-07 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250706/QulFtfd3.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250706/QulFtfd3_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/8865"
     }
 ]
