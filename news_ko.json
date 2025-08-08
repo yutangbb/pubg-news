@@ -1,5 +1,20 @@
 [
     {
+        "title": "펍지 위클리 시리즈: 페이즈 2 대회 안내",
+        "summary": "",
+        "postId": 9034,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_esports"
+        ],
+        "createdAt": "2025-08-07 06:45:38",
+        "displayTime": "2025-08-08 10:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250807/odWpXutZ.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250807/odWpXutZ_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/9034"
+    },
+    {
         "title": "[개발일지] DMR 리밸런스",
         "summary": "",
         "postId": 9000,
@@ -121,19 +136,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250707/037zaZmf.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250707/037zaZmf_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/8871"
-    },
-    {
-        "title": "PUBG UGC 알파",
-        "summary": "",
-        "postId": 8865,
-        "category": "notice",
-        "labels": [
-            "label_pc"
-        ],
-        "createdAt": "2025-07-07 02:17:01",
-        "displayTime": "2025-07-07 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250707/vwNqZLSr.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250707/vwNqZLSr_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/8865"
     }
 ]
