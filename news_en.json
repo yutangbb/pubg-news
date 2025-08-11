@@ -1,5 +1,20 @@
 [
     {
+        "title": "Dev Letter: Introducing a New Anti-Cheat Solution",
+        "summary": "",
+        "postId": 9001,
+        "category": "dev_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-07-31 12:08:25",
+        "displayTime": "2025-08-11 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250731/az6sclyq.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250731/az6sclyq_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9001"
+    },
+    {
         "title": "Dev Letter: DMR Rebalance",
         "summary": "",
         "postId": 9000,
@@ -118,20 +133,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250706/ncAwkiKR.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250706/ncAwkiKR_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/8872"
-    },
-    {
-        "title": "Patch Notes - Update 36.2",
-        "summary": "Introducing Update 36.2: Discover all the latest features and improvements!",
-        "postId": 8871,
-        "category": "patch_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-07-01 15:43:16",
-        "displayTime": "2025-07-08 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250707/xUSqbNJS.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250707/xUSqbNJS_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/8871"
     }
 ]

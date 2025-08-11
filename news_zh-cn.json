@@ -1,5 +1,20 @@
 [
     {
+        "title": "[开发者日志] 全新反作弊功能公告",
+        "summary": "[开发者日志] 全新反作弊功能公告",
+        "postId": 9001,
+        "category": "dev_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-08-11 05:49:44",
+        "displayTime": "2025-08-11 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/o6rVRtTh.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/o6rVRtTh_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/9001"
+    },
+    {
         "title": "[开发者日志] 精确射手步枪(DMR)平衡性调整",
         "summary": "[开发者日志] 精确射手步枪(DMR)平衡性调整",
         "postId": 9000,
@@ -117,20 +132,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250708/WiXMkLF2.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250708/WiXMkLF2_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/8875"
-    },
-    {
-        "title": "地图轮换报告 - 36.2",
-        "summary": "地图轮换报告 - 36.2",
-        "postId": 8872,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-07-08 05:28:18",
-        "displayTime": "2025-07-08 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250708/ut88ogzc.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250708/ut88ogzc_thumb.png",
-        "newsUrl": "https://pubg.com/zh-cn/news/8872"
     }
 ]

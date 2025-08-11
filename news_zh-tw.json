@@ -1,5 +1,20 @@
 [
     {
+        "title": "開發者信件：隆重介紹新型反作弊解決方案",
+        "summary": "",
+        "postId": 9001,
+        "category": "dev_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-08-11 06:51:01",
+        "displayTime": "2025-08-11 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/5J9fwBFF.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/5J9fwBFF_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/9001"
+    },
+    {
         "title": "開發者信件：精準射手步槍平衡調整",
         "summary": "",
         "postId": 9000,
@@ -27,7 +42,7 @@
         "newsUrl": "https://pubg.com/zh-tw/news/9018"
     },
     {
-        "title": "《絕地求生》反外掛行動！每週封鎖帳號名單 (07/21~07/27)",
+        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (07/21~07/27)",
         "summary": "",
         "postId": 8990,
         "category": "notice",
@@ -118,20 +133,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250707/Zw4TCvvW.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250707/Zw4TCvvW_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/8872"
-    },
-    {
-        "title": "更新項目 - 版本 36.2",
-        "summary": "為您介紹版本 36.2，探索所有最新功能與改進！",
-        "postId": 8871,
-        "category": "patch_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-07-08 03:12:42",
-        "displayTime": "2025-07-08 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250708/2FrFSqKa.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250708/2FrFSqKa_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/8871"
     }
 ]

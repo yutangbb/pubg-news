@@ -1,5 +1,20 @@
 [
     {
+        "title": "[개발일지] 신규 안티치트 기능 도입 안내",
+        "summary": "",
+        "postId": 9001,
+        "category": "dev_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-08-08 08:32:28",
+        "displayTime": "2025-08-11 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250808/UAmJpAo7.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250808/UAmJpAo7_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9001"
+    },
+    {
         "title": "펍지 위클리 시리즈: 페이즈 2 대회 안내",
         "summary": "",
         "postId": 9034,
@@ -121,20 +136,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250707/PtHDEbkA.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250707/PtHDEbkA_thumb.png",
         "newsUrl": "https://pubg.com/ko/news/8872"
-    },
-    {
-        "title": "패치 노트 - 업데이트 36.2",
-        "summary": "업데이트 36.2에서 신규 기능 및 개선 사항을 만나보세요.",
-        "postId": 8871,
-        "category": "patch_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-07-07 11:58:52",
-        "displayTime": "2025-07-08 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250707/037zaZmf.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250707/037zaZmf_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/8871"
     }
 ]
