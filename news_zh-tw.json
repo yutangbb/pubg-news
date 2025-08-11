@@ -1,5 +1,20 @@
 [
     {
+        "title": "開發者信件：精準射手步槍平衡調整",
+        "summary": "",
+        "postId": 9000,
+        "category": "dev_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-08-11 04:11:19",
+        "displayTime": "2025-08-08 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/MRecDvKN.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/MRecDvKN_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/9000"
+    },
+    {
         "title": "《絕地求生》反外掛行動！每週封鎖帳號名單 (07/28~08/03)",
         "summary": "",
         "postId": 9018,
@@ -118,19 +133,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250708/2FrFSqKa.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250708/2FrFSqKa_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/8871"
-    },
-    {
-        "title": "PUBG UGC Alpha",
-        "summary": "",
-        "postId": 8865,
-        "category": "notice",
-        "labels": [
-            "label_pc"
-        ],
-        "createdAt": "2025-07-07 03:37:25",
-        "displayTime": "2025-07-07 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250707/gPFdUZmm.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250707/gPFdUZmm_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/8865"
     }
 ]
