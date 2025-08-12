@@ -1,5 +1,35 @@
 [
     {
+        "title": "맵 서비스 리포트 - 업데이트 37.1",
+        "summary": "",
+        "postId": 9003,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-08-06 12:48:36",
+        "displayTime": "2025-08-12 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250806/CdAkYiYk.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250806/CdAkYiYk_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/9003"
+    },
+    {
+        "title": "패치 노트 - 업데이트 37.1",
+        "summary": "업데이트 37.1에서 신규 기능 및 개선 사항을 만나보세요.",
+        "postId": 9002,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-08-09 15:21:48",
+        "displayTime": "2025-08-12 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250809/L1DOXzmu.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250809/L1DOXzmu_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9002"
+    },
+    {
         "title": "[개발일지] 신규 안티치트 기능 도입 안내",
         "summary": "",
         "postId": 9001,
@@ -106,35 +136,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250709/XNwvvf9B.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250709/XNwvvf9B_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/8868"
-    },
-    {
-        "title": "2025년 7월 상점 안내",
-        "summary": "",
-        "postId": 8875,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-07-07 10:04:58",
-        "displayTime": "2025-07-08 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250707/Xsp0vPYW.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250707/Xsp0vPYW_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/8875"
-    },
-    {
-        "title": "맵 서비스 리포트 - 업데이트 36.2",
-        "summary": "",
-        "postId": 8872,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-07-07 13:47:25",
-        "displayTime": "2025-07-08 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250707/PtHDEbkA.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250707/PtHDEbkA_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/8872"
     }
 ]

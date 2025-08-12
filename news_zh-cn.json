@@ -1,5 +1,35 @@
 [
     {
+        "title": "地图轮换报告 – 37.1",
+        "summary": "地图轮换报告 – 37.1",
+        "postId": 9003,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-08-12 04:38:15",
+        "displayTime": "2025-08-12 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250812/vRglTGj3.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250812/vRglTGj3_thumb.png",
+        "newsUrl": "https://pubg.com/zh-cn/news/9003"
+    },
+    {
+        "title": "37.1版本更新公告",
+        "summary": "在37.1版本更新中体验新功能和优化内容吧！",
+        "postId": 9002,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-08-12 04:33:37",
+        "displayTime": "2025-08-12 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250812/co2TI4K6.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250812/co2TI4K6_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/9002"
+    },
+    {
         "title": "[开发者日志] 全新反作弊功能公告",
         "summary": "[开发者日志] 全新反作弊功能公告",
         "postId": 9001,
@@ -102,35 +132,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250709/J2Rt40AL.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250709/J2Rt40AL_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/8887"
-    },
-    {
-        "title": "PUBG x aespa",
-        "summary": "PUBG x aespa联动开启！尽情感受多元宇宙的魅力吧！",
-        "postId": 8868,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-07-09 05:08:57",
-        "displayTime": "2025-07-09 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250709/C0lL11A6.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250709/C0lL11A6_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/8868"
-    },
-    {
-        "title": "2025年7月商店公告",
-        "summary": "欢迎查阅2025年7月商店公告！",
-        "postId": 8875,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-07-08 05:48:37",
-        "displayTime": "2025-07-08 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250708/WiXMkLF2.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250708/WiXMkLF2_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/8875"
     }
 ]

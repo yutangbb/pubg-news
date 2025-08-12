@@ -1,5 +1,35 @@
 [
     {
+        "title": "Map Service Report - Update 37.1",
+        "summary": "",
+        "postId": 9003,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-07-31 12:13:19",
+        "displayTime": "2025-08-12 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250731/LOSlxI6h.jpeg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250731/LOSlxI6h_thumb.jpeg",
+        "newsUrl": "https://pubg.com/en/news/9003"
+    },
+    {
+        "title": "Patch Notes - Update 37.1",
+        "summary": "Introducing Update 37.1: Discover all the latest features and improvements!",
+        "postId": 9002,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-07-31 12:10:28",
+        "displayTime": "2025-08-12 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/pyd6GR1F.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/pyd6GR1F_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9002"
+    },
+    {
         "title": "Dev Letter: Introducing a New Anti-Cheat Solution",
         "summary": "",
         "postId": 9001,
@@ -103,35 +133,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250706/igOyiyzd.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250706/igOyiyzd_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/8868"
-    },
-    {
-        "title": "July Store Update 2025",
-        "summary": "Welcome to the seventh Store Update of 2025!",
-        "postId": 8875,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-07-02 04:32:13",
-        "displayTime": "2025-07-08 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250707/ujdRin14.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250707/ujdRin14_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/8875"
-    },
-    {
-        "title": "Map Service Report - Update 36.2",
-        "summary": "",
-        "postId": 8872,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-07-01 15:45:36",
-        "displayTime": "2025-07-08 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250706/ncAwkiKR.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250706/ncAwkiKR_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/8872"
     }
 ]

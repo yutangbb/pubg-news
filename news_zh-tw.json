@@ -1,5 +1,35 @@
 [
     {
+        "title": "地圖營運報告 - 版本 37.1",
+        "summary": "",
+        "postId": 9003,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-08-11 08:14:03",
+        "displayTime": "2025-08-12 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/nJRzOg0t.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/nJRzOg0t_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/9003"
+    },
+    {
+        "title": "更新項目 - 版本 37.1",
+        "summary": "為您介紹版本 37.1，探索所有最新功能與改進！",
+        "postId": 9002,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-08-12 03:07:01",
+        "displayTime": "2025-08-12 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250812/MEPcfleI.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250812/MEPcfleI_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/9002"
+    },
+    {
         "title": "開發者信件：隆重介紹新型反作弊解決方案",
         "summary": "",
         "postId": 9001,
@@ -103,35 +133,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250709/pUIzG37A.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250709/pUIzG37A_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/8868"
-    },
-    {
-        "title": "2025 年 07 月商店更新",
-        "summary": "歡迎來到 2025 年第七次商店更新！",
-        "postId": 8875,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-07-07 08:59:55",
-        "displayTime": "2025-07-08 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250707/yEVjnQ3Y.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250707/yEVjnQ3Y_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/8875"
-    },
-    {
-        "title": "地圖營運報告 - 版本 36.2",
-        "summary": "",
-        "postId": 8872,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-07-07 04:47:56",
-        "displayTime": "2025-07-08 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250707/Zw4TCvvW.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250707/Zw4TCvvW_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/8872"
     }
 ]
