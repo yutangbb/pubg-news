@@ -1,5 +1,20 @@
 [
     {
+        "title": "2025년 8월 상점 안내",
+        "summary": "2025년 8월 상점 안내에 오신 것을 환영합니다!",
+        "postId": 8999,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-08-11 06:01:16",
+        "displayTime": "2025-08-12 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/qQSCnsHd.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/qQSCnsHd_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/8999"
+    },
+    {
         "title": "맵 서비스 리포트 - 업데이트 37.1",
         "summary": "",
         "postId": 9003,
@@ -121,20 +136,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250708/WHVBVH3f.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250708/WHVBVH3f_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/8887"
-    },
-    {
-        "title": "PUBG x aespa",
-        "summary": "PUBG x aespa 콜라보레이션과 함께 다중 우주의 매력을 마음껏 느껴보세요!",
-        "postId": 8868,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-07-08 08:45:45",
-        "displayTime": "2025-07-09 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250709/XNwvvf9B.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250709/XNwvvf9B_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/8868"
     }
 ]
