@@ -1,5 +1,19 @@
 [
     {
+        "title": "Tune Into the Next Global Showdown: Esports World Cup 2025!",
+        "summary": "Here’s everything you need to know about the EWC: PUBG Tournament.",
+        "postId": 9054,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2025-08-12 12:17:39",
+        "displayTime": "2025-08-12 12:17:27",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250812/jTANJq2Q.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250812/jTANJq2Q_thumb.png",
+        "newsUrl": "https://pubg.com/en/news/9054"
+    },
+    {
         "title": "August Store Update 2025",
         "summary": "Welcome to the eighth Store Update of 2025!",
         "postId": 8999,
@@ -121,17 +135,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250714/3FodgSZX.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250714/3FodgSZX_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/8947"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (06/30~07/06)",
-        "summary": "",
-        "postId": 8887,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2025-07-07 08:37:33",
-        "displayTime": "2025-07-09 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250707/YPu8PSli.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250707/YPu8PSli_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/8887"
     }
 ]

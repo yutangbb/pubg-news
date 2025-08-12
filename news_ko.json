@@ -1,5 +1,19 @@
 [
     {
+        "title": "다음 글로벌 대회, 이스포츠 월드컵 2025을 소개합니다!",
+        "summary": "EWC 2025에 참가하는 배틀그라운드 토너먼트에 대한 정보를 알아보세요!",
+        "postId": 9054,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2025-08-12 12:20:36",
+        "displayTime": "2025-08-12 12:17:27",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250812/UMwX5PGS.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250812/UMwX5PGS_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/9054"
+    },
+    {
         "title": "2025년 8월 상점 안내",
         "summary": "2025년 8월 상점 안내에 오신 것을 환영합니다!",
         "postId": 8999,
@@ -124,17 +138,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250716/tfmXOtUX.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250716/tfmXOtUX_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/8947"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (06/30~07/06)",
-        "summary": "",
-        "postId": 8887,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2025-07-08 08:39:24",
-        "displayTime": "2025-07-09 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250708/WHVBVH3f.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250708/WHVBVH3f_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/8887"
     }
 ]
