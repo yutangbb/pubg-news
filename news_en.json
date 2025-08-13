@@ -1,5 +1,34 @@
 [
     {
+        "title": "Console Service Update: Moving to Current-Gen and Ending Legacy Support",
+        "summary": "",
+        "postId": 9005,
+        "category": "notice",
+        "labels": [
+            "label_console"
+        ],
+        "createdAt": "2025-07-31 12:17:48",
+        "displayTime": "2025-08-13 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250731/7Vq0RqfF.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250731/7Vq0RqfF_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9005"
+    },
+    {
+        "title": "PUBG x Bugatti",
+        "summary": "Command the Battlegrounds with incomparable elegance and performance. Meet PUBG x Bugatti.",
+        "postId": 9004,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-07-31 12:16:13",
+        "displayTime": "2025-08-13 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250731/xlj6AHi4.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250731/xlj6AHi4_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9004"
+    },
+    {
         "title": "Tune Into the Next Global Showdown: Esports World Cup 2025!",
         "summary": "Here’s everything you need to know about the EWC: PUBG Tournament.",
         "postId": 9054,
@@ -111,29 +140,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250728/KwXjy6sf.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250728/KwXjy6sf_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/8990"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (07/14~07/20)",
-        "summary": "",
-        "postId": 8961,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2025-07-21 10:27:39",
-        "displayTime": "2025-07-23 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250721/4IwUdwnR.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250721/4IwUdwnR_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/8961"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (07/07~07/13)",
-        "summary": "",
-        "postId": 8947,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2025-07-14 06:49:47",
-        "displayTime": "2025-07-16 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250714/3FodgSZX.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250714/3FodgSZX_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/8947"
     }
 ]
