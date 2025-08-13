@@ -1,5 +1,17 @@
 [
     {
+        "title": "【每周违规账号公示】 8/4 ~ 8/10",
+        "summary": "【每周违规账号公示】 8/4 ~ 8/10",
+        "postId": 9041,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2025-08-13 08:58:02",
+        "displayTime": "2025-08-13 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250813/zvzK75ni.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250813/zvzK75ni_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/9041"
+    },
+    {
         "title": "PUBG x 布加迪",
         "summary": "快用布加迪无与伦比的格调与表现征服战场吧 ！",
         "postId": 9004,
@@ -126,17 +138,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250730/Gp4jspcE.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250730/Gp4jspcE_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/8995"
-    },
-    {
-        "title": "【每周违规账号公示】 7/14 ~ 7/20",
-        "summary": "【每周违规账号公示】 7/14 ~ 7/20",
-        "postId": 8961,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2025-07-30 05:59:27",
-        "displayTime": "2025-07-23 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250730/0guTzjlP.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250730/0guTzjlP_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/8961"
     }
 ]
