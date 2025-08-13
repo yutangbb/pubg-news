@@ -1,5 +1,17 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (08/04~08/10)",
+        "summary": "",
+        "postId": 9041,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2025-08-12 07:05:01",
+        "displayTime": "2025-08-13 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250812/M4cuhKsR.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250812/M4cuhKsR_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9041"
+    },
+    {
         "title": "Console 서비스 업데이트: 현세대 전환 및 구세대 지원 종료",
         "summary": "",
         "postId": 9005,
@@ -131,17 +143,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250806/Rd9Wbr41.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250806/Rd9Wbr41_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9000"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (07/28~08/03)",
-        "summary": "",
-        "postId": 9018,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2025-08-06 02:20:21",
-        "displayTime": "2025-08-06 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250806/mp0FiNY1.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250806/mp0FiNY1_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9018"
     }
 ]

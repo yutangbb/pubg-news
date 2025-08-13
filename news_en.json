@@ -1,5 +1,17 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (08/04~08/10)",
+        "summary": "",
+        "postId": 9041,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2025-08-11 09:11:47",
+        "displayTime": "2025-08-13 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/K43VI6rl.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/K43VI6rl_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9041"
+    },
+    {
         "title": "Console Service Update: Moving to Current-Gen and Ending Legacy Support",
         "summary": "",
         "postId": 9005,
@@ -128,17 +140,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250804/Dnjmh5TL.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250804/Dnjmh5TL_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9018"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (07/21~07/27)",
-        "summary": "",
-        "postId": 8990,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2025-07-28 07:28:53",
-        "displayTime": "2025-07-30 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250728/KwXjy6sf.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250728/KwXjy6sf_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/8990"
     }
 ]
