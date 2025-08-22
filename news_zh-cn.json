@@ -1,5 +1,17 @@
 [
     {
+        "title": "【每周违规账号公示】 8/11 ~ 8/17",
+        "summary": "【每周违规账号公示】 8/11 ~ 8/17",
+        "postId": 9063,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2025-08-22 02:27:58",
+        "displayTime": "2025-08-20 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250822/mt3dLU7X.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250822/mt3dLU7X_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/9063"
+    },
+    {
         "title": "【每周违规账号公示】 8/4 ~ 8/10",
         "summary": "【每周违规账号公示】 8/4 ~ 8/10",
         "postId": 9041,
@@ -124,19 +136,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250730/kFSOj7F8.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250730/kFSOj7F8_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/8990"
-    },
-    {
-        "title": "PNC 2025决赛门票赠品的相关通知",
-        "summary": "PNC 2025决赛门票赠品的相关通知",
-        "postId": 8995,
-        "category": "notice",
-        "labels": [
-            "label_pc"
-        ],
-        "createdAt": "2025-07-30 13:56:58",
-        "displayTime": "2025-07-30 04:52:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250730/Gp4jspcE.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250730/Gp4jspcE_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/8995"
     }
 ]
