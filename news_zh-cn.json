@@ -1,5 +1,17 @@
 [
     {
+        "title": "【每周违规账号公示】 8/18 ~ 8/24",
+        "summary": "【每周违规账号公示】 8/18 ~ 8/24",
+        "postId": 9108,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2025-08-27 08:09:49",
+        "displayTime": "2025-08-27 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250827/n08N1SXP.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250827/n08N1SXP_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/9108"
+    },
+    {
         "title": "【每周违规账号公示】 8/11 ~ 8/17",
         "summary": "【每周违规账号公示】 8/11 ~ 8/17",
         "postId": 9063,
@@ -124,17 +136,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250806/XFY34Ky2.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250806/XFY34Ky2_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/9018"
-    },
-    {
-        "title": "【每周违规账号公示】 7/21 ~ 7/27",
-        "summary": "【每周违规账号公示】 7/21 ~ 7/27",
-        "postId": 8990,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2025-07-30 08:29:00",
-        "displayTime": "2025-07-30 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250730/kFSOj7F8.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250730/kFSOj7F8_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/8990"
     }
 ]
