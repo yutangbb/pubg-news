@@ -1,5 +1,17 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (08/18~08/24)",
+        "summary": "",
+        "postId": 9108,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2025-08-25 08:22:29",
+        "displayTime": "2025-08-27 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250825/5kpku0tb.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250825/5kpku0tb_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9108"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (08/11~08/17)",
         "summary": "",
         "postId": 9063,
@@ -125,20 +137,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250731/az6sclyq.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250731/az6sclyq_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9001"
-    },
-    {
-        "title": "Dev Letter: DMR Rebalance",
-        "summary": "",
-        "postId": 9000,
-        "category": "dev_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-07-31 12:06:04",
-        "displayTime": "2025-08-08 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250731/WvsU0pcp.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250731/WvsU0pcp_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9000"
     }
 ]
