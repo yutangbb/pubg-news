@@ -1,5 +1,19 @@
 [
     {
+        "title": "[PGS 9 & PGS 10] 24 teams. One last global clash before PGC 2025!",
+        "summary": "24 teams from around the world will clash at PGS 9 & PGS 10!",
+        "postId": 9130,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2025-09-01 08:07:13",
+        "displayTime": "2025-09-01 08:06:52",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250901/wh5JouV7.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250901/wh5JouV7_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9130"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (08/18~08/24)",
         "summary": "",
         "postId": 9108,
@@ -73,7 +87,7 @@
             "label_esports"
         ],
         "createdAt": "2025-08-12 12:17:39",
-        "displayTime": "2025-08-12 12:17:27",
+        "displayTime": "2025-08-12 12:17:00",
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250812/jTANJq2Q.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250812/jTANJq2Q_thumb.png",
         "newsUrl": "https://pubg.com/en/news/9054"
@@ -122,20 +136,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/pyd6GR1F.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/pyd6GR1F_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9002"
-    },
-    {
-        "title": "Dev Letter: Introducing a New Anti-Cheat Solution",
-        "summary": "",
-        "postId": 9001,
-        "category": "dev_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-07-31 12:08:25",
-        "displayTime": "2025-08-11 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250731/az6sclyq.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250731/az6sclyq_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9001"
     }
 ]

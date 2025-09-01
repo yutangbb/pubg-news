@@ -1,5 +1,19 @@
 [
     {
+        "title": "PGC 2025를 앞둔 마지막 전장, PGS 9 & PGS 10이 다가옵니다!",
+        "summary": "전 세계 24개 팀이 PGS 9 & PGS 10에서 격돌합니다!",
+        "postId": 9130,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2025-09-01 08:07:13",
+        "displayTime": "2025-09-01 08:06:52",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250901/FH8g83ai.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250901/FH8g83ai_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9130"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (08/11~08/17)",
         "summary": "",
         "postId": 9063,
@@ -61,7 +75,7 @@
             "label_esports"
         ],
         "createdAt": "2025-08-12 12:20:36",
-        "displayTime": "2025-08-12 12:17:27",
+        "displayTime": "2025-08-12 12:17:00",
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250812/UMwX5PGS.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250812/UMwX5PGS_thumb.png",
         "newsUrl": "https://pubg.com/ko/news/9054"
@@ -125,20 +139,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250808/UAmJpAo7.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250808/UAmJpAo7_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9001"
-    },
-    {
-        "title": "펍지 위클리 시리즈: 페이즈 2 대회 안내",
-        "summary": "",
-        "postId": 9034,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_esports"
-        ],
-        "createdAt": "2025-08-07 06:45:38",
-        "displayTime": "2025-08-08 10:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250807/odWpXutZ.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250807/odWpXutZ_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/9034"
     }
 ]
