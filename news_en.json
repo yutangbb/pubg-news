@@ -1,5 +1,20 @@
 [
     {
+        "title": "Update on Actions Against DMA-Based Hacks and Other Cheats",
+        "summary": "",
+        "postId": 9126,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-08-29 12:17:49",
+        "displayTime": "2025-09-04 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250829/gYpjcNCv.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250829/gYpjcNCv_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9126"
+    },
+    {
         "title": "[PGS 9 & PGS 10] 24 teams. One last global clash before PGC 2025!",
         "summary": "24 teams from around the world will clash at PGS 9 & PGS 10!",
         "postId": 9130,
@@ -121,20 +136,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250731/LOSlxI6h.jpeg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250731/LOSlxI6h_thumb.jpeg",
         "newsUrl": "https://pubg.com/en/news/9003"
-    },
-    {
-        "title": "Patch Notes - Update 37.1",
-        "summary": "Introducing Update 37.1: Discover all the latest features and improvements!",
-        "postId": 9002,
-        "category": "patch_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-07-31 12:10:28",
-        "displayTime": "2025-08-12 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/pyd6GR1F.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/pyd6GR1F_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9002"
     }
 ]

@@ -1,5 +1,20 @@
 [
     {
+        "title": "DMA 기반 불법 프로그램 대응 및 추가 제재 안내",
+        "summary": "",
+        "postId": 9126,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-09-01 07:50:39",
+        "displayTime": "2025-09-04 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250901/AqxAcZE9.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250901/AqxAcZE9_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9126"
+    },
+    {
         "title": "PGC 2025를 앞둔 마지막 전장, PGS 9 & PGS 10이 다가옵니다!",
         "summary": "전 세계 24개 팀이 PGS 9 & PGS 10에서 격돌합니다!",
         "postId": 9130,
@@ -124,20 +139,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250809/L1DOXzmu.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250809/L1DOXzmu_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9002"
-    },
-    {
-        "title": "[개발일지] 신규 안티치트 기능 도입 안내",
-        "summary": "",
-        "postId": 9001,
-        "category": "dev_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-08-08 08:32:28",
-        "displayTime": "2025-08-11 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250808/UAmJpAo7.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250808/UAmJpAo7_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9001"
     }
 ]
