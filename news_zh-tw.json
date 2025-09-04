@@ -1,5 +1,20 @@
 [
     {
+        "title": "針對 DMA 式作弊與其他作弊所採取行動的新消息",
+        "summary": "",
+        "postId": 9126,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-09-04 06:27:21",
+        "displayTime": "2025-09-04 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250904/MDeXJDKq.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250904/MDeXJDKq_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/9126"
+    },
+    {
         "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (08/18~08/24)",
         "summary": "",
         "postId": 9108,
@@ -123,20 +138,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/5J9fwBFF.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/5J9fwBFF_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/9001"
-    },
-    {
-        "title": "開發者信件：精準射手步槍平衡調整",
-        "summary": "",
-        "postId": 9000,
-        "category": "dev_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-08-11 04:11:19",
-        "displayTime": "2025-08-08 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/MRecDvKN.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/MRecDvKN_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/9000"
     }
 ]
