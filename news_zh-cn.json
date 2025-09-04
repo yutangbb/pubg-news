@@ -1,5 +1,17 @@
 [
     {
+        "title": "【每周违规账号公示】 8/25 ~ 8/31",
+        "summary": "【每周违规账号公示】 8/25 ~ 8/31",
+        "postId": 9143,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2025-09-04 07:16:03",
+        "displayTime": "2025-09-04 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250904/hr4XMvDC.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250904/hr4XMvDC_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/9143"
+    },
+    {
         "title": "基于DMA的未授权程序对策及追加封禁公告",
         "summary": "基于DMA的未授权程序对策及追加封禁公告",
         "postId": 9126,
@@ -124,20 +136,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/o6rVRtTh.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/o6rVRtTh_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/9001"
-    },
-    {
-        "title": "[开发者日志] 精确射手步枪(DMR)平衡性调整",
-        "summary": "[开发者日志] 精确射手步枪(DMR)平衡性调整",
-        "postId": 9000,
-        "category": "dev_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-08-08 06:25:43",
-        "displayTime": "2025-08-08 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250808/33RfuB9j.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250808/33RfuB9j_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/9000"
     }
 ]
