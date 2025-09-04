@@ -1,5 +1,17 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (08/25~08/31)",
+        "summary": "",
+        "postId": 9143,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2025-09-02 11:58:48",
+        "displayTime": "2025-09-04 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250902/8QWCe59S.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250902/8QWCe59S_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9143"
+    },
+    {
         "title": "Update on Actions Against DMA-Based Hacks and Other Cheats",
         "summary": "",
         "postId": 9126,
@@ -121,20 +133,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250731/Z0jNCd9Q.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250731/Z0jNCd9Q_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/8999"
-    },
-    {
-        "title": "Map Service Report - Update 37.1",
-        "summary": "",
-        "postId": 9003,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-07-31 12:13:19",
-        "displayTime": "2025-08-12 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250731/LOSlxI6h.jpeg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250731/LOSlxI6h_thumb.jpeg",
-        "newsUrl": "https://pubg.com/en/news/9003"
     }
 ]

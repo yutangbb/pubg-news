@@ -1,5 +1,17 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (08/25~08/31)",
+        "summary": "",
+        "postId": 9143,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2025-09-03 04:57:13",
+        "displayTime": "2025-09-04 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250903/BUK1CF1K.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250903/BUK1CF1K_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9143"
+    },
+    {
         "title": "DMA 기반 불법 프로그램 대응 및 추가 제재 안내",
         "summary": "",
         "postId": 9126,
@@ -124,20 +136,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250806/CdAkYiYk.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250806/CdAkYiYk_thumb.png",
         "newsUrl": "https://pubg.com/ko/news/9003"
-    },
-    {
-        "title": "패치 노트 - 업데이트 37.1",
-        "summary": "업데이트 37.1에서 신규 기능 및 개선 사항을 만나보세요.",
-        "postId": 9002,
-        "category": "patch_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-08-09 15:21:48",
-        "displayTime": "2025-08-12 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250809/L1DOXzmu.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250809/L1DOXzmu_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9002"
     }
 ]
