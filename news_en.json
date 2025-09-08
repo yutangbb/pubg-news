@@ -1,5 +1,19 @@
 [
     {
+        "title": "This November, PUBG UNITED 2025 comes to Bangkok, Thailand!",
+        "summary": "This November, PUBG UNITED 2025 comes to Bangkok, Thailand!",
+        "postId": 9164,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2025-09-08 07:42:54",
+        "displayTime": "2025-09-08 08:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250908/9CoD4fIH.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250908/9CoD4fIH_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9164"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (08/25~08/31)",
         "summary": "",
         "postId": 9143,
@@ -118,20 +132,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250812/jTANJq2Q.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250812/jTANJq2Q_thumb.png",
         "newsUrl": "https://pubg.com/en/news/9054"
-    },
-    {
-        "title": "August Store Update 2025",
-        "summary": "Welcome to the eighth Store Update of 2025!",
-        "postId": 8999,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-07-31 11:16:55",
-        "displayTime": "2025-08-12 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250731/Z0jNCd9Q.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250731/Z0jNCd9Q_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/8999"
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "오는 11월, 태국 방콕에서 PUBG UNITED 2025가 팬 여러분을 찾아옵니다!",
+        "summary": "오는 11월, 태국 방콕에서 PUBG UNITED 2025가 팬 여러분을 찾아옵니다!",
+        "postId": 9164,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2025-09-08 07:42:54",
+        "displayTime": "2025-09-08 08:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250908/wF4wnd8U.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250908/wF4wnd8U_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9164"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (08/25~08/31)",
         "summary": "",
         "postId": 9143,
@@ -121,20 +135,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/qQSCnsHd.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/qQSCnsHd_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/8999"
-    },
-    {
-        "title": "맵 서비스 리포트 - 업데이트 37.1",
-        "summary": "",
-        "postId": 9003,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-08-06 12:48:36",
-        "displayTime": "2025-08-12 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250806/CdAkYiYk.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250806/CdAkYiYk_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/9003"
     }
 ]
