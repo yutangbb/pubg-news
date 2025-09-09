@@ -15,6 +15,21 @@
         "newsUrl": "https://pubg.com/zh-cn/news/9088"
     },
     {
+        "title": "37.2版本更新公告",
+        "summary": "在37.2版本更新中体验新功能和优化内容吧！",
+        "postId": 9087,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-09-09 06:37:09",
+        "displayTime": "2025-09-09 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250909/77zCy0lN.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250909/77zCy0lN_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/9087"
+    },
+    {
         "title": "【每周违规账号公示】 8/25 ~ 8/31",
         "summary": "【每周违规账号公示】 8/25 ~ 8/31",
         "postId": 9143,
@@ -121,20 +136,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250812/vRglTGj3.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250812/vRglTGj3_thumb.png",
         "newsUrl": "https://pubg.com/zh-cn/news/9003"
-    },
-    {
-        "title": "37.1版本更新公告",
-        "summary": "在37.1版本更新中体验新功能和优化内容吧！",
-        "postId": 9002,
-        "category": "patch_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-08-12 04:33:37",
-        "displayTime": "2025-08-12 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250812/co2TI4K6.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250812/co2TI4K6_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/9002"
     }
 ]
