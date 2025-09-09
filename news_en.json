@@ -1,5 +1,20 @@
 [
     {
+        "title": "September Store Update 2025",
+        "summary": "Welcome to the ninth Store Update of 2025!",
+        "postId": 9123,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-08-29 07:07:48",
+        "displayTime": "2025-09-09 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250903/neZFqVI6.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250903/neZFqVI6_thumb.png",
+        "newsUrl": "https://pubg.com/en/news/9123"
+    },
+    {
         "title": "Map Service Report - Update 37.2",
         "summary": "",
         "postId": 9088,
@@ -119,19 +134,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/K43VI6rl.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/K43VI6rl_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9041"
-    },
-    {
-        "title": "Console Service Update: Moving to Current-Gen and Ending Legacy Support",
-        "summary": "",
-        "postId": 9005,
-        "category": "notice",
-        "labels": [
-            "label_console"
-        ],
-        "createdAt": "2025-07-31 12:17:48",
-        "displayTime": "2025-08-13 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250731/7Vq0RqfF.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250731/7Vq0RqfF_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9005"
     }
 ]

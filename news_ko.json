@@ -1,5 +1,20 @@
 [
     {
+        "title": "2025년 9월 상점 안내",
+        "summary": "2025년 9월 상점 안내에 오신 것을 환영합니다!",
+        "postId": 9123,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-09-09 04:07:17",
+        "displayTime": "2025-09-09 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250909/hJ5sy1or.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250909/hJ5sy1or_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/9123"
+    },
+    {
         "title": "맵 서비스 리포트 - 업데이트 37.2",
         "summary": "",
         "postId": 9088,
@@ -121,20 +136,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/7b34rtft.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/7b34rtft_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9005"
-    },
-    {
-        "title": "PUBG x 부가티",
-        "summary": "부가티의 비교 불가한 품격과 퍼포먼스로 전장을 지배해 보세요.",
-        "postId": 9004,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-08-11 05:13:16",
-        "displayTime": "2025-08-13 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/g6wkWGhS.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/g6wkWGhS_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9004"
     }
 ]

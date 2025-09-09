@@ -1,5 +1,20 @@
 [
     {
+        "title": "2025年9月商店公告",
+        "summary": "欢迎查看2025年9月商店公告！",
+        "postId": 9123,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-09-09 06:43:37",
+        "displayTime": "2025-09-09 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250909/yOf8KhHG.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250909/yOf8KhHG_thumb.png",
+        "newsUrl": "https://pubg.com/zh-cn/news/9123"
+    },
+    {
         "title": "地图轮换报告 – 37.2",
         "summary": "地图轮换报告 – 37.2",
         "postId": 9088,
@@ -121,20 +136,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250812/VzRzRFlk.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250812/VzRzRFlk_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/8999"
-    },
-    {
-        "title": "地图轮换报告 – 37.1",
-        "summary": "地图轮换报告 – 37.1",
-        "postId": 9003,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-08-12 04:38:15",
-        "displayTime": "2025-08-12 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250812/vRglTGj3.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250812/vRglTGj3_thumb.png",
-        "newsUrl": "https://pubg.com/zh-cn/news/9003"
     }
 ]

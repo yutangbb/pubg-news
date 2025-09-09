@@ -1,5 +1,20 @@
 [
     {
+        "title": "2025 年 9 月商店更新",
+        "summary": "歡迎來到 2025 年第九次商店更新！",
+        "postId": 9123,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-09-09 02:39:56",
+        "displayTime": "2025-09-09 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250909/jXVF447s.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250909/jXVF447s_thumb.png",
+        "newsUrl": "https://pubg.com/zh-tw/news/9123"
+    },
+    {
         "title": "地圖營運報告 - 版本 37.2",
         "summary": "",
         "postId": 9088,
@@ -120,20 +135,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250812/QmzTpm80.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250812/QmzTpm80_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/9004"
-    },
-    {
-        "title": "2025 年 8 月商店更新",
-        "summary": "歡迎來到 2025 年第八次商店更新！",
-        "postId": 8999,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-08-11 08:59:04",
-        "displayTime": "2025-08-12 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/nUdAOHou.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/nUdAOHou_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/8999"
     }
 ]
