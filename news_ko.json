@@ -1,5 +1,35 @@
 [
     {
+        "title": "맵 서비스 리포트 - 업데이트 37.2",
+        "summary": "",
+        "postId": 9088,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-09-03 03:04:58",
+        "displayTime": "2025-09-09 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250903/WDGmxu9m.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250903/WDGmxu9m_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/9088"
+    },
+    {
+        "title": "패치 노트 - 업데이트 37.2",
+        "summary": "업데이트 37.2에서 신규 기능 및 개선 사항을 만나보세요.",
+        "postId": 9087,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-09-07 12:20:07",
+        "displayTime": "2025-09-09 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250908/7TUqxzj4.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250908/7TUqxzj4_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9087"
+    },
+    {
         "title": "오는 11월, 태국 방콕에서 PUBG UNITED 2025가 팬 여러분을 찾아옵니다!",
         "summary": "오는 11월, 태국 방콕에서 PUBG UNITED 2025가 팬 여러분을 찾아옵니다!",
         "postId": 9164,
@@ -106,34 +136,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/g6wkWGhS.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/g6wkWGhS_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9004"
-    },
-    {
-        "title": "다음 글로벌 대회, 이스포츠 월드컵 2025을 소개합니다!",
-        "summary": "EWC 2025에 참가하는 배틀그라운드 토너먼트에 대한 정보를 알아보세요!",
-        "postId": 9054,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2025-08-12 12:20:36",
-        "displayTime": "2025-08-12 12:17:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250812/UMwX5PGS.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250812/UMwX5PGS_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/9054"
-    },
-    {
-        "title": "2025년 8월 상점 안내",
-        "summary": "2025년 8월 상점 안내에 오신 것을 환영합니다!",
-        "postId": 8999,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-08-11 06:01:16",
-        "displayTime": "2025-08-12 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/qQSCnsHd.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/qQSCnsHd_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/8999"
     }
 ]

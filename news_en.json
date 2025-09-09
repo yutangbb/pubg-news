@@ -1,5 +1,35 @@
 [
     {
+        "title": "Map Service Report - Update 37.2",
+        "summary": "",
+        "postId": 9088,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-08-21 03:58:50",
+        "displayTime": "2025-09-09 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250903/OvSHEiAF.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250903/OvSHEiAF_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9088"
+    },
+    {
+        "title": "Patch Notes - Update 37.2",
+        "summary": "Introducing Update 37.2: Discover all the latest features and improvements!",
+        "postId": 9087,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-08-21 03:54:25",
+        "displayTime": "2025-09-09 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250908/uwpHNyK2.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250908/uwpHNyK2_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9087"
+    },
+    {
         "title": "This November, PUBG UNITED 2025 comes to Bangkok, Thailand!",
         "summary": "This November, PUBG UNITED 2025 comes to Bangkok, Thailand!",
         "postId": 9164,
@@ -103,34 +133,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250731/7Vq0RqfF.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250731/7Vq0RqfF_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9005"
-    },
-    {
-        "title": "PUBG x Bugatti",
-        "summary": "Command the Battlegrounds with incomparable elegance and performance. Meet PUBG x Bugatti.",
-        "postId": 9004,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-07-31 12:16:13",
-        "displayTime": "2025-08-13 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250731/xlj6AHi4.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250731/xlj6AHi4_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9004"
-    },
-    {
-        "title": "Tune Into the Next Global Showdown: Esports World Cup 2025!",
-        "summary": "Here’s everything you need to know about the EWC: PUBG Tournament.",
-        "postId": 9054,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2025-08-12 12:17:39",
-        "displayTime": "2025-08-12 12:17:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250812/jTANJq2Q.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250812/jTANJq2Q_thumb.png",
-        "newsUrl": "https://pubg.com/en/news/9054"
     }
 ]

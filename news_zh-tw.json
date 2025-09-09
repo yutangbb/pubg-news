@@ -1,5 +1,35 @@
 [
     {
+        "title": "地圖營運報告 - 版本 37.2",
+        "summary": "",
+        "postId": 9088,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-09-09 02:10:55",
+        "displayTime": "2025-09-09 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250909/hx7oxTwx.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250909/hx7oxTwx_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/9088"
+    },
+    {
+        "title": "更新項目 - 版本 37.2",
+        "summary": "為您介紹版本 37.2，探索所有最新功能與改進！",
+        "postId": 9087,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-09-09 03:21:57",
+        "displayTime": "2025-09-09 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250909/xaYAtVuL.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250909/xaYAtVuL_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/9087"
+    },
+    {
         "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (08/25~08/31)",
         "summary": "",
         "postId": 9143,
@@ -105,35 +135,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/nUdAOHou.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/nUdAOHou_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/8999"
-    },
-    {
-        "title": "地圖營運報告 - 版本 37.1",
-        "summary": "",
-        "postId": 9003,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-08-11 08:14:03",
-        "displayTime": "2025-08-12 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/nJRzOg0t.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/nJRzOg0t_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/9003"
-    },
-    {
-        "title": "更新項目 - 版本 37.1",
-        "summary": "為您介紹版本 37.1，探索所有最新功能與改進！",
-        "postId": 9002,
-        "category": "patch_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-08-12 03:07:01",
-        "displayTime": "2025-08-12 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250812/MEPcfleI.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250812/MEPcfleI_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/9002"
     }
 ]

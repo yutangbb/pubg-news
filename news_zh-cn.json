@@ -1,5 +1,20 @@
 [
     {
+        "title": "地图轮换报告 – 37.2",
+        "summary": "地图轮换报告 – 37.2",
+        "postId": 9088,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-09-08 11:31:35",
+        "displayTime": "2025-09-09 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250908/YG82oQa7.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250908/YG82oQa7_thumb.png",
+        "newsUrl": "https://pubg.com/zh-cn/news/9088"
+    },
+    {
         "title": "【每周违规账号公示】 8/25 ~ 8/31",
         "summary": "【每周违规账号公示】 8/25 ~ 8/31",
         "postId": 9143,
@@ -121,20 +136,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250812/co2TI4K6.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250812/co2TI4K6_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/9002"
-    },
-    {
-        "title": "[开发者日志] 全新反作弊功能公告",
-        "summary": "[开发者日志] 全新反作弊功能公告",
-        "postId": 9001,
-        "category": "dev_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-08-11 05:49:44",
-        "displayTime": "2025-08-11 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/o6rVRtTh.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/o6rVRtTh_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/9001"
     }
 ]
