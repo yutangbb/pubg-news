@@ -1,5 +1,17 @@
 [
     {
+        "title": "【每周违规账号公示】 9/1 ~ 9/7",
+        "summary": "【每周违规账号公示】 9/1 ~ 9/7",
+        "postId": 9168,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2025-09-10 08:25:28",
+        "displayTime": "2025-09-10 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250910/8uwEphYm.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250910/8uwEphYm_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/9168"
+    },
+    {
         "title": "PUBG x G-DRAGON",
         "summary": "与 PUBG x G-DRAGON 联名一起，尽情感受极致魅力吧！",
         "postId": 9089,
@@ -121,20 +133,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250813/zvzK75ni.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250813/zvzK75ni_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/9041"
-    },
-    {
-        "title": "PUBG x 布加迪",
-        "summary": "快用布加迪无与伦比的格调与表现征服战场吧 ！",
-        "postId": 9004,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-08-13 06:07:28",
-        "displayTime": "2025-08-13 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250813/pM4CX4IA.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250813/pM4CX4IA_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/9004"
     }
 ]
