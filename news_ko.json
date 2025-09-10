@@ -1,5 +1,17 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (09/01~09/07)",
+        "summary": "",
+        "postId": 9168,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2025-09-10 05:28:38",
+        "displayTime": "2025-09-10 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250910/I8OTX6z7.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250910/I8OTX6z7_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9168"
+    },
+    {
         "title": "PUBG x G-DRAGON",
         "summary": "PUBG x G-DRAGON 콜라보레이션과 함께 파워풀한 매력을 마음껏 느껴보세요!",
         "postId": 9089,
@@ -125,17 +137,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250820/akL3ui4J.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250820/akL3ui4J_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9063"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (08/04~08/10)",
-        "summary": "",
-        "postId": 9041,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2025-08-12 07:05:01",
-        "displayTime": "2025-08-13 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250812/M4cuhKsR.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250812/M4cuhKsR_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9041"
     }
 ]

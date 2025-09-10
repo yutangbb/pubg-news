@@ -1,5 +1,17 @@
 [
     {
+        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (09/01~09/07)",
+        "summary": "",
+        "postId": 9168,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2025-09-09 02:43:45",
+        "displayTime": "2025-09-10 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250909/VMqVcR6c.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250909/VMqVcR6c_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/9168"
+    },
+    {
         "title": "PUBG x G-DRAGON",
         "summary": "一起感受 PUBG x G-DRAGON 聯名的 POWER！",
         "postId": 9089,
@@ -121,19 +133,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250812/vXjTVHxF.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250812/vXjTVHxF_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/9041"
-    },
-    {
-        "title": "家機版服務更新：轉移至最新世代並結束舊版支援",
-        "summary": "",
-        "postId": 9005,
-        "category": "notice",
-        "labels": [
-            "label_console"
-        ],
-        "createdAt": "2025-08-12 09:10:44",
-        "displayTime": "2025-08-13 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250812/qbbE09Fc.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250812/qbbE09Fc_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/9005"
     }
 ]
