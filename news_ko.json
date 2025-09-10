@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG x G-DRAGON",
+        "summary": "PUBG x G-DRAGON 콜라보레이션과 함께 파워풀한 매력을 마음껏 느껴보세요!",
+        "postId": 9089,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-09-09 05:05:20",
+        "displayTime": "2025-09-10 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250909/jfuUwGnN.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250909/jfuUwGnN_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9089"
+    },
+    {
         "title": "2025년 9월 상점 안내",
         "summary": "2025년 9월 상점 안내에 오신 것을 환영합니다!",
         "postId": 9123,
@@ -122,19 +137,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250812/M4cuhKsR.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250812/M4cuhKsR_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9041"
-    },
-    {
-        "title": "Console 서비스 업데이트: 현세대 전환 및 구세대 지원 종료",
-        "summary": "",
-        "postId": 9005,
-        "category": "notice",
-        "labels": [
-            "label_console"
-        ],
-        "createdAt": "2025-08-11 04:25:54",
-        "displayTime": "2025-08-13 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/7b34rtft.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/7b34rtft_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9005"
     }
 ]

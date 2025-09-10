@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG x G-DRAGON",
+        "summary": "Feel the POWER with the PUBG x G-DRAGON collaboration!",
+        "postId": 9089,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-08-21 04:00:45",
+        "displayTime": "2025-09-10 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250909/FjpYBsTa.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250909/FjpYBsTa_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9089"
+    },
+    {
         "title": "September Store Update 2025",
         "summary": "Welcome to the ninth Store Update of 2025!",
         "postId": 9123,
@@ -122,17 +137,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250818/ILq2v82e.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250818/ILq2v82e_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9063"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (08/04~08/10)",
-        "summary": "",
-        "postId": 9041,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2025-08-11 09:11:47",
-        "displayTime": "2025-08-13 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/K43VI6rl.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250811/K43VI6rl_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9041"
     }
 ]
