@@ -1,5 +1,19 @@
 [
     {
+        "title": "Console 플랫폼에서의 안티치트 대응 현황 안내",
+        "summary": "",
+        "postId": 9179,
+        "category": "notice",
+        "labels": [
+            "label_console"
+        ],
+        "createdAt": "2025-09-15 04:50:29",
+        "displayTime": "2025-09-19 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250915/PkdilE52.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250915/PkdilE52_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9179"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (09/08~09/14)",
         "summary": "",
         "postId": 9198,
@@ -123,19 +137,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250901/AqxAcZE9.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250901/AqxAcZE9_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9126"
-    },
-    {
-        "title": "PGC 2025를 앞둔 마지막 전장, PGS 9 & PGS 10이 다가옵니다!",
-        "summary": "전 세계 24개 팀이 PGS 9 & PGS 10에서 격돌합니다!",
-        "postId": 9130,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2025-09-01 08:07:13",
-        "displayTime": "2025-09-01 08:06:52",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250901/FH8g83ai.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250901/FH8g83ai_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9130"
     }
 ]

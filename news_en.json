@@ -1,5 +1,19 @@
 [
     {
+        "title": "Recent Anti-Cheat Measures on Console Platforms",
+        "summary": "",
+        "postId": 9179,
+        "category": "notice",
+        "labels": [
+            "label_console"
+        ],
+        "createdAt": "2025-09-12 07:26:40",
+        "displayTime": "2025-09-19 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250916/n7AWqE1y.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250916/n7AWqE1y_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9179"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (09/08~09/14)",
         "summary": "",
         "postId": 9198,
@@ -123,19 +137,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250829/gYpjcNCv.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250829/gYpjcNCv_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9126"
-    },
-    {
-        "title": "[PGS 9 & PGS 10] 24 teams. One last global clash before PGC 2025!",
-        "summary": "24 teams from around the world will clash at PGS 9 & PGS 10!",
-        "postId": 9130,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2025-09-01 08:07:13",
-        "displayTime": "2025-09-01 08:06:52",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250901/wh5JouV7.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250901/wh5JouV7_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9130"
     }
 ]
