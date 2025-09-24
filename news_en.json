@@ -1,5 +1,17 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (09/15~09/21)",
+        "summary": "",
+        "postId": 9223,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2025-09-23 01:56:27",
+        "displayTime": "2025-09-24 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250923/SdLhOglW.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250923/SdLhOglW_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9223"
+    },
+    {
         "title": "Recent Anti-Cheat Measures on Console Platforms",
         "summary": "",
         "postId": 9179,
@@ -122,20 +134,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250902/8QWCe59S.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250902/8QWCe59S_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9143"
-    },
-    {
-        "title": "Update on Actions Against DMA-Based Hacks and Other Cheats",
-        "summary": "",
-        "postId": 9126,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-08-29 12:17:49",
-        "displayTime": "2025-09-04 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250829/gYpjcNCv.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250829/gYpjcNCv_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9126"
     }
 ]

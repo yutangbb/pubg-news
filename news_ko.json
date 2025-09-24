@@ -1,5 +1,17 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (09/15~09/21)",
+        "summary": "",
+        "postId": 9223,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2025-09-24 04:26:03",
+        "displayTime": "2025-09-24 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250924/pnRPS8yK.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250924/pnRPS8yK_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9223"
+    },
+    {
         "title": "Console 플랫폼에서의 안티치트 대응 현황 안내",
         "summary": "",
         "postId": 9179,
@@ -122,20 +134,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250903/BUK1CF1K.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250903/BUK1CF1K_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9143"
-    },
-    {
-        "title": "DMA 기반 불법 프로그램 대응 및 추가 제재 안내",
-        "summary": "",
-        "postId": 9126,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-09-01 07:50:39",
-        "displayTime": "2025-09-04 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250901/AqxAcZE9.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250901/AqxAcZE9_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9126"
     }
 ]
