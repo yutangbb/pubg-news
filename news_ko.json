@@ -1,5 +1,19 @@
 [
     {
+        "title": "PUBG Global Championship 2025 (PGC 2025) 가 돌아옵니다!",
+        "summary": "전 세계에서 선발된 최강의 32개 팀이 단 한 팀의 챔피언 자리를 두고 3주간의 치열한 여정을 펼칩니다.",
+        "postId": 9229,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2025-09-24 07:50:47",
+        "displayTime": "2025-09-25 08:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250924/ct8JV5QD.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250924/ct8JV5QD_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9229"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (09/15~09/21)",
         "summary": "",
         "postId": 9223,
@@ -122,17 +136,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250908/wF4wnd8U.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250908/wF4wnd8U_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9164"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (08/25~08/31)",
-        "summary": "",
-        "postId": 9143,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2025-09-03 04:57:13",
-        "displayTime": "2025-09-04 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250903/BUK1CF1K.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250903/BUK1CF1K_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9143"
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "PUBG Global Championship 2025 (PGC 2025) is Back!",
+        "summary": "The top 33 teams from across the global will fight for glory, prestige, and the ultimate chicken dinner.",
+        "postId": 9229,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2025-09-24 07:50:47",
+        "displayTime": "2025-09-25 08:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250924/13Y5Nasc.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250924/13Y5Nasc_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9229"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (09/15~09/21)",
         "summary": "",
         "postId": 9223,
@@ -122,17 +136,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250908/9CoD4fIH.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250908/9CoD4fIH_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9164"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (08/25~08/31)",
-        "summary": "",
-        "postId": 9143,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2025-09-02 11:58:48",
-        "displayTime": "2025-09-04 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250902/8QWCe59S.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250902/8QWCe59S_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9143"
     }
 ]
