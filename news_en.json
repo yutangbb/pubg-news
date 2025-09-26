@@ -1,5 +1,20 @@
 [
     {
+        "title": "Dev Letter: Fighting Cheats Outside the Game",
+        "summary": "",
+        "postId": 9210,
+        "category": "dev_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-09-19 17:42:47",
+        "displayTime": "2025-09-26 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250919/4x4FbZkZ.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250919/4x4FbZkZ_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9210"
+    },
+    {
         "title": "PUBG Global Championship 2025 (PGC 2025) is Back!",
         "summary": "The top 33 teams from across the global will fight for glory, prestige, and the ultimate chicken dinner.",
         "postId": 9229,
@@ -122,19 +137,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250908/uwpHNyK2.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250908/uwpHNyK2_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9087"
-    },
-    {
-        "title": "This November, PUBG UNITED 2025 comes to Bangkok, Thailand!",
-        "summary": "This November, PUBG UNITED 2025 comes to Bangkok, Thailand!",
-        "postId": 9164,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2025-09-08 07:42:54",
-        "displayTime": "2025-09-08 08:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250908/9CoD4fIH.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250908/9CoD4fIH_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9164"
     }
 ]

@@ -1,5 +1,20 @@
 [
     {
+        "title": "[개발일지] 불법 프로그램 차단을 위한 외부 대응 현황",
+        "summary": "",
+        "postId": 9210,
+        "category": "dev_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-09-26 01:16:08",
+        "displayTime": "2025-09-26 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250926/QEZEqTlu.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250926/QEZEqTlu_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9210"
+    },
+    {
         "title": "PUBG Global Championship 2025 (PGC 2025) 가 돌아옵니다!",
         "summary": "전 세계에서 선발된 최강의 32개 팀이 단 한 팀의 챔피언 자리를 두고 3주간의 치열한 여정을 펼칩니다.",
         "postId": 9229,
@@ -122,19 +137,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250908/7TUqxzj4.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250908/7TUqxzj4_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9087"
-    },
-    {
-        "title": "오는 11월, 태국 방콕에서 PUBG UNITED 2025가 팬 여러분을 찾아옵니다!",
-        "summary": "오는 11월, 태국 방콕에서 PUBG UNITED 2025가 팬 여러분을 찾아옵니다!",
-        "postId": 9164,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2025-09-08 07:42:54",
-        "displayTime": "2025-09-08 08:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250908/wF4wnd8U.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250908/wF4wnd8U_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9164"
     }
 ]
