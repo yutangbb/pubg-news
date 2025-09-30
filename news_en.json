@@ -1,5 +1,19 @@
 [
     {
+        "title": "PGS 9 & PGS 10: Everything You Need to Know",
+        "summary": "The Road to Glory Continues: PGS 9 and PGS 10 Arrives in Malaysia!",
+        "postId": 9261,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2025-09-30 05:39:36",
+        "displayTime": "2025-09-30 08:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250930/AbisvEWW.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250930/AbisvEWW_thumb.png",
+        "newsUrl": "https://pubg.com/en/news/9261"
+    },
+    {
         "title": "Dev Letter: Fighting Cheats Outside the Game",
         "summary": "",
         "postId": 9210,
@@ -122,20 +136,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250903/OvSHEiAF.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250903/OvSHEiAF_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9088"
-    },
-    {
-        "title": "Patch Notes - Update 37.2",
-        "summary": "Introducing Update 37.2: Discover all the latest features and improvements!",
-        "postId": 9087,
-        "category": "patch_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-08-21 03:54:25",
-        "displayTime": "2025-09-09 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250908/uwpHNyK2.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250908/uwpHNyK2_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9087"
     }
 ]

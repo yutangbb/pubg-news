@@ -1,5 +1,19 @@
 [
     {
+        "title": "PGS 9 & PGS 10: 꼭 알아야 할 모든 것",
+        "summary": "영광을 향한 여정은 계속된다: PGS 9 & PGS 10, 말레이시아 상륙!",
+        "postId": 9261,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2025-09-30 05:39:36",
+        "displayTime": "2025-09-30 08:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250930/17DYrEmy.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250930/17DYrEmy_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/9261"
+    },
+    {
         "title": "[개발일지] 불법 프로그램 차단을 위한 외부 대응 현황",
         "summary": "",
         "postId": 9210,
@@ -122,20 +136,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250903/WDGmxu9m.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250903/WDGmxu9m_thumb.png",
         "newsUrl": "https://pubg.com/ko/news/9088"
-    },
-    {
-        "title": "패치 노트 - 업데이트 37.2",
-        "summary": "업데이트 37.2에서 신규 기능 및 개선 사항을 만나보세요.",
-        "postId": 9087,
-        "category": "patch_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-09-07 12:20:07",
-        "displayTime": "2025-09-09 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250908/7TUqxzj4.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250908/7TUqxzj4_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9087"
     }
 ]
