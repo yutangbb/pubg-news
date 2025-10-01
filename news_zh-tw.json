@@ -1,5 +1,20 @@
 [
     {
+        "title": "開發者信件：對抗遊戲外的作弊",
+        "summary": "",
+        "postId": 9210,
+        "category": "dev_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-10-01 06:20:14",
+        "displayTime": "2025-09-26 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251001/NruKWGG7.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251001/NruKWGG7_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/9210"
+    },
+    {
         "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (09/15~09/21)",
         "summary": "",
         "postId": 9223,
@@ -120,20 +135,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250904/Z8lCaOEg.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250904/Z8lCaOEg_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/9143"
-    },
-    {
-        "title": "針對 DMA 式作弊與其他作弊所採取行動的新消息",
-        "summary": "",
-        "postId": 9126,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-09-04 06:27:21",
-        "displayTime": "2025-09-04 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250904/MDeXJDKq.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250904/MDeXJDKq_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/9126"
     }
 ]
