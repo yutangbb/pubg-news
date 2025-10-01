@@ -1,5 +1,17 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (09/22~09/28)",
+        "summary": "",
+        "postId": 9252,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2025-09-29 08:20:57",
+        "displayTime": "2025-10-01 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250929/P3jC2A0p.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250929/P3jC2A0p_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9252"
+    },
+    {
         "title": "PGS 9 & PGS 10: Everything You Need to Know",
         "summary": "The Road to Glory Continues: PGS 9 and PGS 10 Arrives in Malaysia!",
         "postId": 9261,
@@ -121,20 +133,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250903/neZFqVI6.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250903/neZFqVI6_thumb.png",
         "newsUrl": "https://pubg.com/en/news/9123"
-    },
-    {
-        "title": "Map Service Report - Update 37.2",
-        "summary": "",
-        "postId": 9088,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-08-21 03:58:50",
-        "displayTime": "2025-09-09 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250903/OvSHEiAF.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250903/OvSHEiAF_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9088"
     }
 ]

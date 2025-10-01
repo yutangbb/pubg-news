@@ -1,5 +1,17 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (09/22~09/28)",
+        "summary": "",
+        "postId": 9252,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2025-10-01 04:28:26",
+        "displayTime": "2025-10-01 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251001/d88Jnrru.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251001/d88Jnrru_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9252"
+    },
+    {
         "title": "PGS 9 & PGS 10: 꼭 알아야 할 모든 것",
         "summary": "영광을 향한 여정은 계속된다: PGS 9 & PGS 10, 말레이시아 상륙!",
         "postId": 9261,
@@ -121,20 +133,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250909/hJ5sy1or.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250909/hJ5sy1or_thumb.png",
         "newsUrl": "https://pubg.com/ko/news/9123"
-    },
-    {
-        "title": "맵 서비스 리포트 - 업데이트 37.2",
-        "summary": "",
-        "postId": 9088,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-09-03 03:04:58",
-        "displayTime": "2025-09-09 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250903/WDGmxu9m.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250903/WDGmxu9m_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/9088"
     }
 ]
