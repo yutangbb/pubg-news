@@ -1,5 +1,19 @@
 [
     {
+        "title": "PGS 9 & PGS 10: Everything You Need to Know",
+        "summary": "The Road to Glory Continues: PGS 9 and PGS 10 Arrives in Malaysia!",
+        "postId": 9261,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2025-09-30 05:39:36",
+        "displayTime": "2025-10-02 01:52:53",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250930/AbisvEWW.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250930/AbisvEWW_thumb.png",
+        "newsUrl": "https://pubg.com/en/news/9261"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (09/22~09/28)",
         "summary": "",
         "postId": 9252,
@@ -10,20 +24,6 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250929/P3jC2A0p.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250929/P3jC2A0p_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9252"
-    },
-    {
-        "title": "PGS 9 & PGS 10: Everything You Need to Know",
-        "summary": "The Road to Glory Continues: PGS 9 and PGS 10 Arrives in Malaysia!",
-        "postId": 9261,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2025-09-30 05:39:36",
-        "displayTime": "2025-09-30 08:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250930/AbisvEWW.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250930/AbisvEWW_thumb.png",
-        "newsUrl": "https://pubg.com/en/news/9261"
     },
     {
         "title": "Dev Letter: Fighting Cheats Outside the Game",

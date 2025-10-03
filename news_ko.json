@@ -1,5 +1,19 @@
 [
     {
+        "title": "PGS 9 & PGS 10: 꼭 알아야 할 모든 것",
+        "summary": "영광을 향한 여정은 계속된다: PGS 9 & PGS 10, 말레이시아 상륙!",
+        "postId": 9261,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2025-09-30 05:39:36",
+        "displayTime": "2025-10-02 01:52:53",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250930/17DYrEmy.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250930/17DYrEmy_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/9261"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (09/22~09/28)",
         "summary": "",
         "postId": 9252,
@@ -10,20 +24,6 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251001/d88Jnrru.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251001/d88Jnrru_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9252"
-    },
-    {
-        "title": "PGS 9 & PGS 10: 꼭 알아야 할 모든 것",
-        "summary": "영광을 향한 여정은 계속된다: PGS 9 & PGS 10, 말레이시아 상륙!",
-        "postId": 9261,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2025-09-30 05:39:36",
-        "displayTime": "2025-09-30 08:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250930/17DYrEmy.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250930/17DYrEmy_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/9261"
     },
     {
         "title": "[개발일지] 불법 프로그램 차단을 위한 외부 대응 현황",
