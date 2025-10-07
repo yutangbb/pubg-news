@@ -1,5 +1,17 @@
 [
     {
+        "title": "【每周违规账号公示】 9/22~ 9/28",
+        "summary": "【每周违规账号公示】 9/22~ 9/28",
+        "postId": 9252,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2025-10-07 06:18:16",
+        "displayTime": "2025-10-01 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251007/GGJYf2p8.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251007/GGJYf2p8_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/9252"
+    },
+    {
         "title": "[开发者日志] 未授权程序外部应对现状",
         "summary": "[开发者日志] 未授权程序外部应对现状",
         "postId": 9210,
@@ -121,20 +133,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250904/hr4XMvDC.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250904/hr4XMvDC_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/9143"
-    },
-    {
-        "title": "基于DMA的未授权程序对策及追加封禁公告",
-        "summary": "基于DMA的未授权程序对策及追加封禁公告",
-        "postId": 9126,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-09-03 09:48:55",
-        "displayTime": "2025-09-04 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250903/Im0Mhvpv.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250903/Im0Mhvpv_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/9126"
     }
 ]
