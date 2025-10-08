@@ -1,5 +1,17 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (09/29~10/05)",
+        "summary": "",
+        "postId": 9287,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2025-10-06 06:50:42",
+        "displayTime": "2025-10-08 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251006/z7Cb4l87.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251006/z7Cb4l87_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9287"
+    },
+    {
         "title": "PGS 9 & PGS 10: Everything You Need to Know",
         "summary": "The Road to Glory Continues: PGS 9 and PGS 10 Arrives in Malaysia!",
         "postId": 9261,
@@ -118,20 +130,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250909/FjpYBsTa.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250909/FjpYBsTa_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9089"
-    },
-    {
-        "title": "September Store Update 2025",
-        "summary": "Welcome to the ninth Store Update of 2025!",
-        "postId": 9123,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-08-29 07:07:48",
-        "displayTime": "2025-09-09 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250903/neZFqVI6.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250903/neZFqVI6_thumb.png",
-        "newsUrl": "https://pubg.com/en/news/9123"
     }
 ]
