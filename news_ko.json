@@ -1,5 +1,33 @@
 [
     {
+        "title": "PGS 9 & PGS 10 드롭스 - 지금 바로 시청하고 보상 받으세요!",
+        "summary": "PGS 9 & PGS 10 이 돌아오면서 공식 드롭스도 함께 ON!",
+        "postId": 9295,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2025-10-12 04:27:00",
+        "displayTime": "2025-10-12 04:26:51",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251012/dDkVJSH8.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251012/dDkVJSH8_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9295"
+    },
+    {
+        "title": "PGS 9 공식 중계 및 공동 스트리밍 (co-streaming) 채널 안내",
+        "summary": "PGS 9, 더 많은 재미와 열기로 찾아옵니다! ",
+        "postId": 9294,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2025-10-12 04:23:21",
+        "displayTime": "2025-10-12 04:21:12",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251012/xvlfPaDi.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251012/xvlfPaDi_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9294"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (09/29~10/05)",
         "summary": "",
         "postId": 9287,
@@ -103,32 +131,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250917/pHDAwpEv.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250917/pHDAwpEv_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9198"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (09/01~09/07)",
-        "summary": "",
-        "postId": 9168,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2025-09-10 05:28:38",
-        "displayTime": "2025-09-10 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250910/I8OTX6z7.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250910/I8OTX6z7_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9168"
-    },
-    {
-        "title": "PUBG x G-DRAGON",
-        "summary": "PUBG x G-DRAGON 콜라보레이션과 함께 파워풀한 매력을 마음껏 느껴보세요!",
-        "postId": 9089,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-09-09 05:05:20",
-        "displayTime": "2025-09-10 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250909/jfuUwGnN.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250909/jfuUwGnN_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9089"
     }
 ]

@@ -1,5 +1,33 @@
 [
     {
+        "title": "How to Enjoy PGS 9 & PGS 10: Drops",
+        "summary": "PGS 9 & PGS 10 are here, and yes — Official Drops are BACK!",
+        "postId": 9295,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2025-10-12 04:27:00",
+        "displayTime": "2025-10-12 04:26:51",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251012/YuoHsfQt.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251012/YuoHsfQt_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9295"
+    },
+    {
+        "title": "PGS 9 Broadcast & Co-Streamers",
+        "summary": "It’s thrilled to keep the excitement going broadcast & co-streaming at PGS 9! ",
+        "postId": 9294,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2025-10-12 04:23:21",
+        "displayTime": "2025-10-12 04:21:12",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251012/IoRh80d3.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251012/IoRh80d3_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9294"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (09/29~10/05)",
         "summary": "",
         "postId": 9287,
@@ -103,32 +131,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250916/rvtH4mVn.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250916/rvtH4mVn_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9198"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (09/01~09/07)",
-        "summary": "",
-        "postId": 9168,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2025-09-08 09:57:34",
-        "displayTime": "2025-09-10 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250908/5ADajWat.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250908/5ADajWat_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9168"
-    },
-    {
-        "title": "PUBG x G-DRAGON",
-        "summary": "Feel the POWER with the PUBG x G-DRAGON collaboration!",
-        "postId": 9089,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-08-21 04:00:45",
-        "displayTime": "2025-09-10 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250909/FjpYBsTa.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250909/FjpYBsTa_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9089"
     }
 ]
