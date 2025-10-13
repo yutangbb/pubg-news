@@ -1,5 +1,20 @@
 [
     {
+        "title": "[개발일지] DMR 리밸런스 그 이후",
+        "summary": "",
+        "postId": 9275,
+        "category": "dev_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-10-10 06:50:24",
+        "displayTime": "2025-10-13 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251010/lNLt7z3k.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251010/lNLt7z3k_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9275"
+    },
+    {
         "title": "PGS 9 & PGS 10 드롭스 - 지금 바로 시청하고 보상 받으세요!",
         "summary": "PGS 9 & PGS 10 이 돌아오면서 공식 드롭스도 함께 ON!",
         "postId": 9295,
@@ -119,17 +134,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250915/PkdilE52.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250915/PkdilE52_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9179"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (09/08~09/14)",
-        "summary": "",
-        "postId": 9198,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2025-09-17 04:22:28",
-        "displayTime": "2025-09-17 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250917/pHDAwpEv.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250917/pHDAwpEv_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9198"
     }
 ]

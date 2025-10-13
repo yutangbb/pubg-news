@@ -1,5 +1,20 @@
 [
     {
+        "title": "[开发者日志] 精确射手步枪平衡性调整后续",
+        "summary": "[开发者日志] 精确射手步枪平衡性调整后续",
+        "postId": 9275,
+        "category": "dev_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-10-13 05:22:10",
+        "displayTime": "2025-10-13 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251013/hyDepZlQ.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251013/hyDepZlQ_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/9275"
+    },
+    {
         "title": "【每周违规账号公示】 9/29~ 10/05",
         "summary": "【每周违规账号公示】 9/29~ 10/05",
         "postId": 9287,
@@ -118,20 +133,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250908/YG82oQa7.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250908/YG82oQa7_thumb.png",
         "newsUrl": "https://pubg.com/zh-cn/news/9088"
-    },
-    {
-        "title": "37.2版本更新公告",
-        "summary": "在37.2版本更新中体验新功能和优化内容吧！",
-        "postId": 9087,
-        "category": "patch_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-09-09 06:37:09",
-        "displayTime": "2025-09-09 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250909/77zCy0lN.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250909/77zCy0lN_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/9087"
     }
 ]
