@@ -1,5 +1,35 @@
 [
     {
+        "title": "Map Service Report - Update 38.1",
+        "summary": "",
+        "postId": 9274,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-10-02 16:06:55",
+        "displayTime": "2025-10-14 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251013/PY7nBE88.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251013/PY7nBE88_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9274"
+    },
+    {
+        "title": "Patch Notes - Update 38.1",
+        "summary": "Introducing Update 38.1: Discover all the latest features and improvements!",
+        "postId": 9273,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-10-02 16:04:46",
+        "displayTime": "2025-10-14 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251002/YBBOAv8w.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251002/YBBOAv8w_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9273"
+    },
+    {
         "title": "Dev Letter: DMR Rebalance Follow-Up",
         "summary": "",
         "postId": 9275,
@@ -108,31 +138,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250924/13Y5Nasc.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250924/13Y5Nasc_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9229"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (09/15~09/21)",
-        "summary": "",
-        "postId": 9223,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2025-09-23 01:56:27",
-        "displayTime": "2025-09-24 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250923/SdLhOglW.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250923/SdLhOglW_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9223"
-    },
-    {
-        "title": "Recent Anti-Cheat Measures on Console Platforms",
-        "summary": "",
-        "postId": 9179,
-        "category": "notice",
-        "labels": [
-            "label_console"
-        ],
-        "createdAt": "2025-09-12 07:26:40",
-        "displayTime": "2025-09-19 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250916/n7AWqE1y.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250916/n7AWqE1y_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9179"
     }
 ]

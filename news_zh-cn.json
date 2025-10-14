@@ -1,5 +1,35 @@
 [
     {
+        "title": "地图轮换报告 – 38.1",
+        "summary": "地图轮换报告 – 38.1",
+        "postId": 9274,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-10-14 06:01:47",
+        "displayTime": "2025-10-14 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251014/lt3WXZwN.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251014/lt3WXZwN_thumb.png",
+        "newsUrl": "https://pubg.com/zh-cn/news/9274"
+    },
+    {
+        "title": "38.1版本更新公告",
+        "summary": "在38.1版本更新中体验新功能和优化内容吧！",
+        "postId": 9273,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-10-14 05:59:01",
+        "displayTime": "2025-10-14 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251014/1yk3gAQf.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251014/1yk3gAQf_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/9273"
+    },
+    {
         "title": "[开发者日志] 精确射手步枪平衡性调整后续",
         "summary": "[开发者日志] 精确射手步枪平衡性调整后续",
         "postId": 9275,
@@ -103,35 +133,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250910/NCOOQIfR.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250910/NCOOQIfR_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/9089"
-    },
-    {
-        "title": "2025年9月商店公告",
-        "summary": "欢迎查看2025年9月商店公告！",
-        "postId": 9123,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-09-09 06:43:37",
-        "displayTime": "2025-09-09 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250909/yOf8KhHG.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250909/yOf8KhHG_thumb.png",
-        "newsUrl": "https://pubg.com/zh-cn/news/9123"
-    },
-    {
-        "title": "地图轮换报告 – 37.2",
-        "summary": "地图轮换报告 – 37.2",
-        "postId": 9088,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-09-08 11:31:35",
-        "displayTime": "2025-09-09 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250908/YG82oQa7.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250908/YG82oQa7_thumb.png",
-        "newsUrl": "https://pubg.com/zh-cn/news/9088"
     }
 ]

@@ -1,5 +1,35 @@
 [
     {
+        "title": "地圖營運報告 - 版本 38.1",
+        "summary": "",
+        "postId": 9274,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-10-14 03:46:03",
+        "displayTime": "2025-10-14 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251014/X3cDmbpC.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251014/X3cDmbpC_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/9274"
+    },
+    {
+        "title": "更新項目 - 版本 38.1",
+        "summary": "為您介紹版本 38.1，探索所有最新功能與改進！",
+        "postId": 9273,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-10-14 04:33:05",
+        "displayTime": "2025-10-14 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251014/cMT7oZvz.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251014/cMT7oZvz_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/9273"
+    },
+    {
         "title": "開發者信件：精準射手步槍平衡調整後續更新",
         "summary": "",
         "postId": 9275,
@@ -102,35 +132,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250909/VMqVcR6c.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250909/VMqVcR6c_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/9168"
-    },
-    {
-        "title": "PUBG x G-DRAGON",
-        "summary": "一起感受 PUBG x G-DRAGON 聯名的 POWER！",
-        "postId": 9089,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-09-10 03:15:49",
-        "displayTime": "2025-09-10 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250910/VxUuOv0U.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250910/VxUuOv0U_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/9089"
-    },
-    {
-        "title": "2025 年 9 月商店更新",
-        "summary": "歡迎來到 2025 年第九次商店更新！",
-        "postId": 9123,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-09-09 02:39:56",
-        "displayTime": "2025-09-09 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250909/jXVF447s.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250909/jXVF447s_thumb.png",
-        "newsUrl": "https://pubg.com/zh-tw/news/9123"
     }
 ]
