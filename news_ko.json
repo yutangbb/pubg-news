@@ -1,5 +1,20 @@
 [
     {
+        "title": "2025년 10월 상점 안내",
+        "summary": " 2025년 10월 상점 안내에 오신 것을 환영합니다!",
+        "postId": 9265,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-10-14 05:27:41",
+        "displayTime": "2025-10-14 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251014/Zz71WLk4.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251014/Zz71WLk4_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9265"
+    },
+    {
         "title": "맵 서비스 리포트 - 업데이트 38.1",
         "summary": "",
         "postId": 9274,
@@ -124,19 +139,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250926/QEZEqTlu.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250926/QEZEqTlu_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9210"
-    },
-    {
-        "title": "PUBG Global Championship 2025 (PGC 2025) 가 돌아옵니다!",
-        "summary": "전 세계에서 선발된 최강의 32개 팀이 단 한 팀의 챔피언 자리를 두고 3주간의 치열한 여정을 펼칩니다.",
-        "postId": 9229,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2025-09-24 07:50:47",
-        "displayTime": "2025-09-25 08:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250924/ct8JV5QD.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250924/ct8JV5QD_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9229"
     }
 ]

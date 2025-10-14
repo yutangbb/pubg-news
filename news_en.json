@@ -1,5 +1,20 @@
 [
     {
+        "title": "October Store Update 2025",
+        "summary": "Welcome to the tenth Store Update of 2025!",
+        "postId": 9265,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-09-30 14:50:56",
+        "displayTime": "2025-10-14 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251001/xLeS0JCJ.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251001/xLeS0JCJ_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9265"
+    },
+    {
         "title": "Map Service Report - Update 38.1",
         "summary": "",
         "postId": 9274,
@@ -124,19 +139,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250919/4x4FbZkZ.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250919/4x4FbZkZ_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9210"
-    },
-    {
-        "title": "PUBG Global Championship 2025 (PGC 2025) is Back!",
-        "summary": "The top 33 teams from across the global will fight for glory, prestige, and the ultimate chicken dinner.",
-        "postId": 9229,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2025-09-24 07:50:47",
-        "displayTime": "2025-09-25 08:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250924/13Y5Nasc.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250924/13Y5Nasc_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9229"
     }
 ]

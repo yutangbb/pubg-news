@@ -1,5 +1,20 @@
 [
     {
+        "title": "2025年10月商店公告",
+        "summary": "欢迎查看2025年10月商店公告!",
+        "postId": 9265,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-10-14 06:23:39",
+        "displayTime": "2025-10-14 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251014/OTRKykFg.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251014/OTRKykFg_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/9265"
+    },
+    {
         "title": "地图轮换报告 – 38.1",
         "summary": "地图轮换报告 – 38.1",
         "postId": 9274,
@@ -118,20 +133,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250910/8uwEphYm.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250910/8uwEphYm_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/9168"
-    },
-    {
-        "title": "PUBG x G-DRAGON",
-        "summary": "与 PUBG x G-DRAGON 联名一起，尽情感受极致魅力吧！",
-        "postId": 9089,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-09-10 05:03:47",
-        "displayTime": "2025-09-10 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250910/NCOOQIfR.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250910/NCOOQIfR_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/9089"
     }
 ]
