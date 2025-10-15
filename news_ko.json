@@ -1,5 +1,17 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (10/06~10/12)",
+        "summary": "",
+        "postId": 9301,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2025-10-15 06:16:30",
+        "displayTime": "2025-10-15 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251015/5ENW3N3E.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251015/5ENW3N3E_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9301"
+    },
+    {
         "title": "2025년 10월 상점 안내",
         "summary": " 2025년 10월 상점 안내에 오신 것을 환영합니다!",
         "postId": 9265,
@@ -124,20 +136,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251001/d88Jnrru.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251001/d88Jnrru_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9252"
-    },
-    {
-        "title": "[개발일지] 불법 프로그램 차단을 위한 외부 대응 현황",
-        "summary": "",
-        "postId": 9210,
-        "category": "dev_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-09-26 01:16:08",
-        "displayTime": "2025-09-26 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250926/QEZEqTlu.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250926/QEZEqTlu_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9210"
     }
 ]

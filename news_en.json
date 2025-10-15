@@ -1,5 +1,17 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (10/06~10/12)",
+        "summary": "",
+        "postId": 9301,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2025-10-13 08:19:28",
+        "displayTime": "2025-10-15 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251013/XFHWFXiT.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251013/XFHWFXiT_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9301"
+    },
+    {
         "title": "October Store Update 2025",
         "summary": "Welcome to the tenth Store Update of 2025!",
         "postId": 9265,
@@ -124,20 +136,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250929/P3jC2A0p.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250929/P3jC2A0p_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9252"
-    },
-    {
-        "title": "Dev Letter: Fighting Cheats Outside the Game",
-        "summary": "",
-        "postId": 9210,
-        "category": "dev_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-09-19 17:42:47",
-        "displayTime": "2025-09-26 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250919/4x4FbZkZ.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250919/4x4FbZkZ_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9210"
     }
 ]

@@ -1,5 +1,17 @@
 [
     {
+        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (10/06~10/12)",
+        "summary": "",
+        "postId": 9301,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2025-10-15 06:49:47",
+        "displayTime": "2025-10-15 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251015/GMefmD9d.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251015/GMefmD9d_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/9301"
+    },
+    {
         "title": "2025 年 10 月商店更新",
         "summary": "歡迎來到 2025 年第十次商店更新！",
         "postId": 9265,
@@ -123,17 +135,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250923/ZgaMakCP.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250923/ZgaMakCP_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/9179"
-    },
-    {
-        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (09/08~09/14)",
-        "summary": "",
-        "postId": 9198,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2025-09-18 10:00:00",
-        "displayTime": "2025-09-17 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250918/lurevSyb.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250918/lurevSyb_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/9198"
     }
 ]
