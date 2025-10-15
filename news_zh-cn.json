@@ -1,5 +1,17 @@
 [
     {
+        "title": "【每周违规账号公示】 10/06~ 10/12",
+        "summary": "【每周违规账号公示】 10/06~ 10/12",
+        "postId": 9301,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2025-10-15 09:30:31",
+        "displayTime": "2025-10-15 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251015/9BIajwWT.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251015/9BIajwWT_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/9301"
+    },
+    {
         "title": "2025年10月商店公告",
         "summary": "欢迎查看2025年10月商店公告!",
         "postId": 9265,
@@ -121,17 +133,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250924/QjFufzZD.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250924/QjFufzZD_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/9198"
-    },
-    {
-        "title": "【每周违规账号公示】 9/1 ~ 9/7",
-        "summary": "【每周违规账号公示】 9/1 ~ 9/7",
-        "postId": 9168,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2025-09-10 08:25:28",
-        "displayTime": "2025-09-10 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250910/8uwEphYm.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250910/8uwEphYm_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/9168"
     }
 ]
