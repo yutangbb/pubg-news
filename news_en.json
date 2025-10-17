@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS Creators Now Join the KRAFTON Creator Network",
+        "summary": "",
+        "postId": 9315,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-10-16 14:56:47",
+        "displayTime": "2025-10-17 12:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251016/NOq1C5IN.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251016/NOq1C5IN_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9315"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (10/06~10/12)",
         "summary": "",
         "postId": 9301,
@@ -124,17 +139,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250930/AbisvEWW.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250930/AbisvEWW_thumb.png",
         "newsUrl": "https://pubg.com/en/news/9261"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (09/22~09/28)",
-        "summary": "",
-        "postId": 9252,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2025-09-29 08:20:57",
-        "displayTime": "2025-10-01 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250929/P3jC2A0p.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250929/P3jC2A0p_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9252"
     }
 ]
