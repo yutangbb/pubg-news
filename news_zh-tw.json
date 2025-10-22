@@ -1,5 +1,32 @@
 [
     {
+        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (10/13~10/19)",
+        "summary": "",
+        "postId": 9331,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2025-10-22 06:21:30",
+        "displayTime": "2025-10-22 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251022/3A41ehL3.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251022/3A41ehL3_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/9331"
+    },
+    {
+        "title": "街機模式：PUBG x Skibidi Toilet",
+        "summary": "",
+        "postId": 9270,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-10-21 07:58:10",
+        "displayTime": "2025-10-22 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251021/1In2ow9U.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251021/1In2ow9U_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/9270"
+    },
+    {
         "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (10/06~10/12)",
         "summary": "",
         "postId": 9301,
@@ -109,31 +136,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251001/NruKWGG7.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251001/NruKWGG7_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/9210"
-    },
-    {
-        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (09/15~09/21)",
-        "summary": "",
-        "postId": 9223,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2025-09-23 03:05:39",
-        "displayTime": "2025-09-24 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250923/7hf2s1wc.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250923/7hf2s1wc_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/9223"
-    },
-    {
-        "title": "近期在家機平台上實施的防作弊措施",
-        "summary": "",
-        "postId": 9179,
-        "category": "notice",
-        "labels": [
-            "label_console"
-        ],
-        "createdAt": "2025-09-23 02:52:29",
-        "displayTime": "2025-09-19 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250923/ZgaMakCP.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250923/ZgaMakCP_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/9179"
     }
 ]

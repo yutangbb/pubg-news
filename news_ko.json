@@ -1,5 +1,32 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (10/13~10/19)",
+        "summary": "",
+        "postId": 9331,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2025-10-22 06:00:00",
+        "displayTime": "2025-10-22 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251022/DPpSOLCe.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251022/DPpSOLCe_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9331"
+    },
+    {
+        "title": "아케이드: PUBG x Skibidi Toilet",
+        "summary": "",
+        "postId": 9270,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-10-21 03:14:28",
+        "displayTime": "2025-10-22 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251021/EQeBsFsY.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251021/EQeBsFsY_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9270"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (10/06~10/12)",
         "summary": "",
         "postId": 9301,
@@ -110,31 +137,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251008/gHOI6xKm.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251008/gHOI6xKm_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9287"
-    },
-    {
-        "title": "PGS 9 & PGS 10: 꼭 알아야 할 모든 것",
-        "summary": "영광을 향한 여정은 계속된다: PGS 9 & PGS 10, 말레이시아 상륙!",
-        "postId": 9261,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2025-09-30 05:39:36",
-        "displayTime": "2025-10-02 01:52:53",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250930/17DYrEmy.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250930/17DYrEmy_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/9261"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (09/22~09/28)",
-        "summary": "",
-        "postId": 9252,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2025-10-01 04:28:26",
-        "displayTime": "2025-10-01 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251001/d88Jnrru.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251001/d88Jnrru_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9252"
     }
 ]

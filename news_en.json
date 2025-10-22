@@ -1,5 +1,32 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (10/13~10/19)",
+        "summary": "",
+        "postId": 9331,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2025-10-20 11:05:32",
+        "displayTime": "2025-10-22 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251020/jtHlxAzc.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251020/jtHlxAzc_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9331"
+    },
+    {
+        "title": "Arcade: PUBG x Skibidi Toilet",
+        "summary": "",
+        "postId": 9270,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-10-02 05:39:02",
+        "displayTime": "2025-10-22 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251015/dy7W1yxy.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251015/dy7W1yxy_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9270"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS Creators Now Join the KRAFTON Creator Network",
         "summary": "",
         "postId": 9315,
@@ -113,31 +140,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251012/IoRh80d3.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251012/IoRh80d3_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9294"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (09/29~10/05)",
-        "summary": "",
-        "postId": 9287,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2025-10-06 06:50:42",
-        "displayTime": "2025-10-08 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251006/z7Cb4l87.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251006/z7Cb4l87_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9287"
-    },
-    {
-        "title": "PGS 9 & PGS 10: Everything You Need to Know",
-        "summary": "The Road to Glory Continues: PGS 9 and PGS 10 Arrives in Malaysia!",
-        "postId": 9261,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2025-09-30 05:39:36",
-        "displayTime": "2025-10-02 01:52:53",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250930/AbisvEWW.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250930/AbisvEWW_thumb.png",
-        "newsUrl": "https://pubg.com/en/news/9261"
     }
 ]
