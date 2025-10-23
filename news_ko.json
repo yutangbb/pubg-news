@@ -1,5 +1,19 @@
 [
     {
+        "title": "2025 PUBG 글로벌 파트너팀 2차 팀 에디션 스킨을 소개합니다!",
+        "summary": "2025 시즌 PUBG 글로벌 파트너 팀 에디션 스킨 두 번째 배치를 공개하게 되어 기쁩니다!",
+        "postId": 9338,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2025-10-23 06:08:51",
+        "displayTime": "2025-10-23 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251023/z8cDhCbI.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251023/z8cDhCbI_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/9338"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (10/13~10/19)",
         "summary": "",
         "postId": 9331,
@@ -125,17 +139,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251012/xvlfPaDi.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251012/xvlfPaDi_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9294"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (09/29~10/05)",
-        "summary": "",
-        "postId": 9287,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2025-10-08 06:04:42",
-        "displayTime": "2025-10-08 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251008/gHOI6xKm.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251008/gHOI6xKm_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9287"
     }
 ]

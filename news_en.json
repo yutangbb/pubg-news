@@ -1,5 +1,19 @@
 [
     {
+        "title": "Introducing the 2nd 2025 PUBG GLOBAL PARTNER TEAMS: Team Edition Skins!",
+        "summary": "We’re thrilled to reveal the second batch of PUBG Global Partner Team Edition Skins!",
+        "postId": 9338,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2025-10-23 06:08:51",
+        "displayTime": "2025-10-23 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251023/PUZ5ZTIL.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251023/PUZ5ZTIL_thumb.png",
+        "newsUrl": "https://pubg.com/en/news/9338"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (10/13~10/19)",
         "summary": "",
         "postId": 9331,
@@ -126,19 +140,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251012/YuoHsfQt.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251012/YuoHsfQt_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9295"
-    },
-    {
-        "title": "PGS 9 Broadcast & Co-Streamers",
-        "summary": "It’s thrilled to keep the excitement going broadcast & co-streaming at PGS 9! ",
-        "postId": 9294,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2025-10-12 04:23:21",
-        "displayTime": "2025-10-12 04:21:12",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251012/IoRh80d3.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251012/IoRh80d3_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9294"
     }
 ]
