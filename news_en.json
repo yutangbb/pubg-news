@@ -1,5 +1,19 @@
 [
     {
+        "title": "PGS 10 Broadcast & Co-Streamers",
+        "summary": "Don’t forget to check out details!",
+        "postId": 9339,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2025-10-23 08:24:48",
+        "displayTime": "2025-10-24 08:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251023/tCHfdrgo.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251023/tCHfdrgo_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9339"
+    },
+    {
         "title": "Introducing the 2nd 2025 PUBG GLOBAL PARTNER TEAMS: Team Edition Skins!",
         "summary": "We’re thrilled to reveal the second batch of PUBG Global Partner Team Edition Skins!",
         "postId": 9338,
@@ -126,19 +140,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251007/uRHBGnG7.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251007/uRHBGnG7_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9275"
-    },
-    {
-        "title": "How to Enjoy PGS 9 & PGS 10: Drops",
-        "summary": "PGS 9 & PGS 10 are here, and yes — Official Drops are BACK!",
-        "postId": 9295,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2025-10-12 04:27:00",
-        "displayTime": "2025-10-12 04:26:51",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251012/YuoHsfQt.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251012/YuoHsfQt_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9295"
     }
 ]
