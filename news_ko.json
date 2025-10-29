@@ -1,5 +1,17 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (10/20~10/26)",
+        "summary": "",
+        "postId": 9351,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2025-10-29 02:36:24",
+        "displayTime": "2025-10-29 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251029/Gtjnpmgk.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251029/Gtjnpmgk_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9351"
+    },
+    {
         "title": "PGS 10 공동 스트리밍 (co-streaming) 안내",
         "summary": "드랍스, 이벤트, 방송 채널 정보도 꼭 확인해보시고 대회를 즐겨주시기 바랍니다.",
         "postId": 9339,
@@ -125,19 +137,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251010/lNLt7z3k.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251010/lNLt7z3k_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9275"
-    },
-    {
-        "title": "PGS 9 & PGS 10 드롭스 - 지금 바로 시청하고 보상 받으세요!",
-        "summary": "PGS 9 & PGS 10 이 돌아오면서 공식 드롭스도 함께 ON!",
-        "postId": 9295,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2025-10-12 04:27:00",
-        "displayTime": "2025-10-12 04:26:51",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251012/dDkVJSH8.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251012/dDkVJSH8_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9295"
     }
 ]
