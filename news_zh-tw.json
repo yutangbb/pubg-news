@@ -1,5 +1,17 @@
 [
     {
+        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (10/20~10/26)",
+        "summary": "",
+        "postId": 9351,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2025-10-29 09:55:11",
+        "displayTime": "2025-10-29 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251029/79gqR1Vq.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251029/79gqR1Vq_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/9351"
+    },
+    {
         "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (10/13~10/19)",
         "summary": "",
         "postId": 9331,
@@ -121,20 +133,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251001/n5gw0hrf.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251001/n5gw0hrf_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/9252"
-    },
-    {
-        "title": "開發者信件：對抗遊戲外的作弊",
-        "summary": "",
-        "postId": 9210,
-        "category": "dev_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-10-01 06:20:14",
-        "displayTime": "2025-09-26 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251001/NruKWGG7.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251001/NruKWGG7_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/9210"
     }
 ]
