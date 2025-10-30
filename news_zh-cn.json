@@ -1,5 +1,17 @@
 [
     {
+        "title": "【每周违规账号公示】 10/20~ 10/26",
+        "summary": "【每周违规账号公示】 10/20~ 10/26",
+        "postId": 9351,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2025-10-30 08:19:58",
+        "displayTime": "2025-10-29 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251030/zFXI9yNR.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251030/zFXI9yNR_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/9351"
+    },
+    {
         "title": "街机模式：PUBG x 马桶人",
         "summary": "街机模式：PUBG x 马桶人",
         "postId": 9270,
@@ -124,17 +136,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250925/nK2lHxlF.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250925/nK2lHxlF_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/9210"
-    },
-    {
-        "title": "【每周违规账号公示】 9/15 ~ 9/21",
-        "summary": "【每周违规账号公示】 9/15 ~ 9/21",
-        "postId": 9223,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2025-09-24 10:17:43",
-        "displayTime": "2025-09-24 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250924/eX5xiV7K.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250924/eX5xiV7K_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/9223"
     }
 ]
