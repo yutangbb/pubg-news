@@ -1,5 +1,19 @@
 [
     {
+        "title": "Console Service Update: Transition Details & Special Rewards",
+        "summary": "",
+        "postId": 9355,
+        "category": "notice",
+        "labels": [
+            "label_console"
+        ],
+        "createdAt": "2025-10-28 08:22:30",
+        "displayTime": "2025-11-03 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251103/UnYAgb1n.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251103/UnYAgb1n_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9355"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (10/20~10/26)",
         "summary": "",
         "postId": 9351,
@@ -122,20 +136,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251013/PY7nBE88.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251013/PY7nBE88_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9274"
-    },
-    {
-        "title": "Patch Notes - Update 38.1",
-        "summary": "Introducing Update 38.1: Discover all the latest features and improvements!",
-        "postId": 9273,
-        "category": "patch_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-10-02 16:04:46",
-        "displayTime": "2025-10-14 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251002/YBBOAv8w.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251002/YBBOAv8w_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9273"
     }
 ]

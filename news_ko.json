@@ -1,5 +1,19 @@
 [
     {
+        "title": "Console 서비스 업데이트: 전환 세부 내용 및 특별 보상",
+        "summary": "",
+        "postId": 9355,
+        "category": "notice",
+        "labels": [
+            "label_console"
+        ],
+        "createdAt": "2025-11-03 07:10:51",
+        "displayTime": "2025-11-03 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251103/wfkmXzcs.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251103/wfkmXzcs_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/9355"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (10/20~10/26)",
         "summary": "",
         "postId": 9351,
@@ -122,20 +136,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251010/ywYMevry.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251010/ywYMevry_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9273"
-    },
-    {
-        "title": "[개발일지] DMR 리밸런스 그 이후",
-        "summary": "",
-        "postId": 9275,
-        "category": "dev_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-10-10 06:50:24",
-        "displayTime": "2025-10-13 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251010/lNLt7z3k.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251010/lNLt7z3k_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9275"
     }
 ]
