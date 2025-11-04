@@ -1,5 +1,20 @@
 [
     {
+        "title": "2025년 11월 상점 안내",
+        "summary": "2025년 11월 상점 안내에 오신 것을 환영합니다!",
+        "postId": 9340,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-11-04 03:16:30",
+        "displayTime": "2025-11-04 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/nz1urNRs.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/nz1urNRs_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9340"
+    },
+    {
         "title": "맵 서비스 리포트 - 업데이트 38.2",
         "summary": "",
         "postId": 9357,
@@ -121,20 +136,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251015/5ENW3N3E.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251015/5ENW3N3E_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9301"
-    },
-    {
-        "title": "2025년 10월 상점 안내",
-        "summary": " 2025년 10월 상점 안내에 오신 것을 환영합니다!",
-        "postId": 9265,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-10-14 05:27:41",
-        "displayTime": "2025-10-14 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251014/Zz71WLk4.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251014/Zz71WLk4_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9265"
     }
 ]

@@ -1,5 +1,20 @@
 [
     {
+        "title": "November Store Update 2025",
+        "summary": "Welcome to the eleventh Store Update of 2025!",
+        "postId": 9340,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-10-24 04:44:28",
+        "displayTime": "2025-11-04 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/BS4EQKSz.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/BS4EQKSz_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9340"
+    },
+    {
         "title": "Map Service Report - Update 38.2",
         "summary": "",
         "postId": 9357,
@@ -124,17 +139,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251016/NOq1C5IN.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251016/NOq1C5IN_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9315"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (10/06~10/12)",
-        "summary": "",
-        "postId": 9301,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2025-10-13 08:19:28",
-        "displayTime": "2025-10-15 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251013/XFHWFXiT.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251013/XFHWFXiT_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9301"
     }
 ]
