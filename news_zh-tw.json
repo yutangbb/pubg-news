@@ -1,5 +1,35 @@
 [
     {
+        "title": "地圖營運報告 - 版本 38.2",
+        "summary": "",
+        "postId": 9357,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-11-04 03:27:37",
+        "displayTime": "2025-11-04 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/5yNCaLHh.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/5yNCaLHh_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/9357"
+    },
+    {
+        "title": "更新項目 - 版本 38.2",
+        "summary": "",
+        "postId": 9356,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-11-04 05:59:33",
+        "displayTime": "2025-11-04 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/0rPD5OlV.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/0rPD5OlV_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/9356"
+    },
+    {
         "title": "家機版服務更新：轉移詳情及特殊獎勵",
         "summary": "",
         "postId": 9355,
@@ -108,32 +138,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251014/cMT7oZvz.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251014/cMT7oZvz_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/9273"
-    },
-    {
-        "title": "開發者信件：精準射手步槍平衡調整後續更新",
-        "summary": "",
-        "postId": 9275,
-        "category": "dev_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-10-14 03:31:59",
-        "displayTime": "2025-10-13 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251014/MW7fCAd4.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251014/MW7fCAd4_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/9275"
-    },
-    {
-        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (09/29~10/05)",
-        "summary": "",
-        "postId": 9287,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2025-10-14 02:14:01",
-        "displayTime": "2025-10-08 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251014/V1KzyBtQ.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251014/V1KzyBtQ_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/9287"
     }
 ]

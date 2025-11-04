@@ -1,5 +1,35 @@
 [
     {
+        "title": "Map Service Report - Update 38.2",
+        "summary": "",
+        "postId": 9357,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-10-28 08:27:32",
+        "displayTime": "2025-11-04 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251103/atEdWgjV.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251103/atEdWgjV_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9357"
+    },
+    {
+        "title": "Patch Notes - Update 38.2",
+        "summary": "Introducing Update 38.2: Discover all the latest features and improvements!",
+        "postId": 9356,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-10-28 08:26:28",
+        "displayTime": "2025-11-04 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/ozRwHqWM.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/ozRwHqWM_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9356"
+    },
+    {
         "title": "Console Service Update: Transition Details & Special Rewards",
         "summary": "",
         "postId": 9355,
@@ -106,35 +136,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251013/XFHWFXiT.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251013/XFHWFXiT_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9301"
-    },
-    {
-        "title": "October Store Update 2025",
-        "summary": "Welcome to the tenth Store Update of 2025!",
-        "postId": 9265,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-09-30 14:50:56",
-        "displayTime": "2025-10-14 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251001/xLeS0JCJ.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251001/xLeS0JCJ_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9265"
-    },
-    {
-        "title": "Map Service Report - Update 38.1",
-        "summary": "",
-        "postId": 9274,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-10-02 16:06:55",
-        "displayTime": "2025-10-14 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251013/PY7nBE88.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251013/PY7nBE88_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9274"
     }
 ]

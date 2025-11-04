@@ -1,5 +1,35 @@
 [
     {
+        "title": "地图轮换报告 – 38.2",
+        "summary": "地图轮换报告 – 38.2",
+        "postId": 9357,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-11-03 08:48:56",
+        "displayTime": "2025-11-04 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251103/E4hmcEkV.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251103/E4hmcEkV_thumb.png",
+        "newsUrl": "https://pubg.com/zh-cn/news/9357"
+    },
+    {
+        "title": "38.2 版本更新公告",
+        "summary": "在38.2版本更新中体验新功能和优化内容吧！",
+        "postId": 9356,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-11-04 06:09:13",
+        "displayTime": "2025-11-04 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/H04JVKZC.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/H04JVKZC_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/9356"
+    },
+    {
         "title": "【每周违规账号公示】 10/20~ 10/26",
         "summary": "【每周违规账号公示】 10/20~ 10/26",
         "postId": 9351,
@@ -109,32 +139,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251010/sL4FM26k.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251010/sL4FM26k_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/9287"
-    },
-    {
-        "title": "【每周违规账号公示】 9/22~ 9/28",
-        "summary": "【每周违规账号公示】 9/22~ 9/28",
-        "postId": 9252,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2025-10-07 06:18:16",
-        "displayTime": "2025-10-01 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251007/GGJYf2p8.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251007/GGJYf2p8_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/9252"
-    },
-    {
-        "title": "[开发者日志] 未授权程序外部应对现状",
-        "summary": "[开发者日志] 未授权程序外部应对现状",
-        "postId": 9210,
-        "category": "dev_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-09-25 07:19:40",
-        "displayTime": "2025-09-26 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250925/nK2lHxlF.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20250925/nK2lHxlF_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/9210"
     }
 ]

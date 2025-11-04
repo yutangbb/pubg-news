@@ -1,5 +1,35 @@
 [
     {
+        "title": "맵 서비스 리포트 - 업데이트 38.2",
+        "summary": "",
+        "postId": 9357,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-11-02 10:23:18",
+        "displayTime": "2025-11-04 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251102/utBu8zgg.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251102/utBu8zgg_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/9357"
+    },
+    {
+        "title": "패치 노트 - 업데이트 38.2",
+        "summary": "업데이트 38.2에서 신규 기능 및 개선 사항을 만나보세요.",
+        "postId": 9356,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-11-02 11:08:48",
+        "displayTime": "2025-11-04 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251102/RdWNSuuG.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251102/RdWNSuuG_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9356"
+    },
+    {
         "title": "Console 서비스 업데이트: 전환 세부 내용 및 특별 보상",
         "summary": "",
         "postId": 9355,
@@ -106,35 +136,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251014/Zz71WLk4.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251014/Zz71WLk4_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9265"
-    },
-    {
-        "title": "맵 서비스 리포트 - 업데이트 38.1",
-        "summary": "",
-        "postId": 9274,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-10-03 03:44:33",
-        "displayTime": "2025-10-14 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251003/2yNpaNaQ.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251003/2yNpaNaQ_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/9274"
-    },
-    {
-        "title": "패치 노트 - 업데이트 38.1",
-        "summary": "업데이트 38.1에서 신규 기능 및 개선 사항을 만나보세요.",
-        "postId": 9273,
-        "category": "patch_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-10-10 13:53:05",
-        "displayTime": "2025-10-14 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251010/ywYMevry.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251010/ywYMevry_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9273"
     }
 ]
