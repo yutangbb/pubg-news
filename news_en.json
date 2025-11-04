@@ -1,5 +1,19 @@
 [
     {
+        "title": "PGS Points & PGC Participating Teams",
+        "summary": "The journey to PUBG Global Championship (PGC) 2025 has reached its final stage!",
+        "postId": 9389,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2025-11-04 03:07:58",
+        "displayTime": "2025-11-04 08:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/8LaEdK3E.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/8LaEdK3E_thumb.png",
+        "newsUrl": "https://pubg.com/en/news/9389"
+    },
+    {
         "title": "November Store Update 2025",
         "summary": "Welcome to the eleventh Store Update of 2025!",
         "postId": 9340,
@@ -124,20 +138,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251015/dy7W1yxy.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251015/dy7W1yxy_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9270"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Creators Now Join the KRAFTON Creator Network",
-        "summary": "",
-        "postId": 9315,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-10-16 14:56:47",
-        "displayTime": "2025-10-17 12:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251016/NOq1C5IN.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251016/NOq1C5IN_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9315"
     }
 ]

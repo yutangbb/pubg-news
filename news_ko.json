@@ -1,5 +1,19 @@
 [
     {
+        "title": "PGS 포인트 & PGC 참가팀 안내",
+        "summary": "PUBG Global Series 10 (PGS 10)**이 종료되면서, 최종 PGS 포인트 순위와 함께 PGC 2025 진출팀이 확정되었습니다!",
+        "postId": 9389,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2025-11-04 03:07:58",
+        "displayTime": "2025-11-04 08:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/FeN4ChSp.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/FeN4ChSp_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/9389"
+    },
+    {
         "title": "2025년 11월 상점 안내",
         "summary": "2025년 11월 상점 안내에 오신 것을 환영합니다!",
         "postId": 9340,
@@ -124,17 +138,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251021/EQeBsFsY.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251021/EQeBsFsY_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9270"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (10/06~10/12)",
-        "summary": "",
-        "postId": 9301,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2025-10-15 06:16:30",
-        "displayTime": "2025-10-15 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251015/5ENW3N3E.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251015/5ENW3N3E_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9301"
     }
 ]
