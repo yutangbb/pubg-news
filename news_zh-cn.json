@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG x 保时捷",
+        "summary": "用保时捷的非凡表现和永恒设计征服绝地战场吧！",
+        "postId": 9358,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-11-05 05:02:37",
+        "displayTime": "2025-11-05 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251105/KRFMr9Dr.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251105/KRFMr9Dr_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/9358"
+    },
+    {
         "title": "2025年11月商店公告",
         "summary": "欢迎查看2025年11月商店公告！",
         "postId": 9340,
@@ -124,20 +139,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251014/lt3WXZwN.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251014/lt3WXZwN_thumb.png",
         "newsUrl": "https://pubg.com/zh-cn/news/9274"
-    },
-    {
-        "title": "38.1版本更新公告",
-        "summary": "在38.1版本更新中体验新功能和优化内容吧！",
-        "postId": 9273,
-        "category": "patch_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-10-14 05:59:01",
-        "displayTime": "2025-10-14 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251014/1yk3gAQf.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251014/1yk3gAQf_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/9273"
     }
 ]

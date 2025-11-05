@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG x 포르쉐",
+        "summary": "포르쉐의 정제된 퍼포먼스와 시대를 초월한 디자인으로 전장의 질주를 완성해 보세요.",
+        "postId": 9358,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-11-04 07:58:12",
+        "displayTime": "2025-11-05 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/sWIhPnOV.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/sWIhPnOV_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9358"
+    },
+    {
         "title": "펍지 글로벌 챔피언십 2025 승자 예측 이벤트에 지금 참여하세요!",
         "summary": "펍지 글로벌 챔피언십 2025 승자 예측 이벤트 시작!",
         "postId": 9396,
@@ -125,17 +140,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251023/z8cDhCbI.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251023/z8cDhCbI_thumb.png",
         "newsUrl": "https://pubg.com/ko/news/9338"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (10/13~10/19)",
-        "summary": "",
-        "postId": 9331,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2025-10-22 06:00:00",
-        "displayTime": "2025-10-22 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251022/DPpSOLCe.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251022/DPpSOLCe_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9331"
     }
 ]

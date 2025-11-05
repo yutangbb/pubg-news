@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG x Porsche",
+        "summary": "Experience the thrill of the Battlegrounds, perfected by Porsche’s refined performance and timeless design.",
+        "postId": 9358,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-10-28 08:30:04",
+        "displayTime": "2025-11-05 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251105/K8yX3m8d.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251105/K8yX3m8d_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9358"
+    },
+    {
         "title": "PGC 2025 Pick’em Challenge",
         "summary": "PGC 2025 Pick’em Challenge is now open!",
         "postId": 9396,
@@ -125,17 +140,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251023/PUZ5ZTIL.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251023/PUZ5ZTIL_thumb.png",
         "newsUrl": "https://pubg.com/en/news/9338"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (10/13~10/19)",
-        "summary": "",
-        "postId": 9331,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2025-10-20 11:05:32",
-        "displayTime": "2025-10-22 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251020/jtHlxAzc.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251020/jtHlxAzc_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9331"
     }
 ]
