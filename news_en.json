@@ -1,5 +1,19 @@
 [
     {
+        "title": "PGC 2025 Pick’em Challenge",
+        "summary": "PGC 2025 Pick’em Challenge is now open!",
+        "postId": 9396,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2025-11-04 12:36:00",
+        "displayTime": "2025-11-05 02:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/65rlrp7x.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/65rlrp7x_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9396"
+    },
+    {
         "title": "PGS Points & PGC Participating Teams",
         "summary": "The journey to PUBG Global Championship (PGC) 2025 has reached its final stage!",
         "postId": 9389,
@@ -123,20 +137,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251020/jtHlxAzc.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251020/jtHlxAzc_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9331"
-    },
-    {
-        "title": "Arcade: PUBG x Skibidi Toilet",
-        "summary": "",
-        "postId": 9270,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-10-02 05:39:02",
-        "displayTime": "2025-10-22 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251015/dy7W1yxy.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251015/dy7W1yxy_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9270"
     }
 ]

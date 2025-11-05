@@ -1,5 +1,19 @@
 [
     {
+        "title": "펍지 글로벌 챔피언십 2025 승자 예측 이벤트에 지금 참여하세요!",
+        "summary": "펍지 글로벌 챔피언십 2025 승자 예측 이벤트 시작!",
+        "postId": 9396,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2025-11-04 12:36:00",
+        "displayTime": "2025-11-05 02:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/mFVGPfx2.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/mFVGPfx2_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9396"
+    },
+    {
         "title": "PGS 포인트 & PGC 참가팀 안내",
         "summary": "PUBG Global Series 10 (PGS 10)**이 종료되면서, 최종 PGS 포인트 순위와 함께 PGC 2025 진출팀이 확정되었습니다!",
         "postId": 9389,
@@ -123,20 +137,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251022/DPpSOLCe.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251022/DPpSOLCe_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9331"
-    },
-    {
-        "title": "아케이드: PUBG x Skibidi Toilet",
-        "summary": "",
-        "postId": 9270,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-10-21 03:14:28",
-        "displayTime": "2025-10-22 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251021/EQeBsFsY.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251021/EQeBsFsY_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9270"
     }
 ]
