@@ -72,6 +72,18 @@
         "newsUrl": "https://pubg.com/zh-cn/news/9270"
     },
     {
+        "title": "【每周违规账号公示】 10/13~ 10/19",
+        "summary": "【每周违规账号公示】 10/13~ 10/19",
+        "postId": 9331,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2025-11-05 04:19:56",
+        "displayTime": "2025-10-22 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251105/alRcgkxI.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251105/alRcgkxI_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/9331"
+    },
+    {
         "title": "【每周违规账号公示】 10/06~ 10/12",
         "summary": "【每周违规账号公示】 10/06~ 10/12",
         "postId": 9301,
@@ -127,20 +139,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251014/1yk3gAQf.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251014/1yk3gAQf_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/9273"
-    },
-    {
-        "title": "[开发者日志] 精确射手步枪平衡性调整后续",
-        "summary": "[开发者日志] 精确射手步枪平衡性调整后续",
-        "postId": 9275,
-        "category": "dev_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-10-13 05:22:10",
-        "displayTime": "2025-10-13 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251013/hyDepZlQ.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251013/hyDepZlQ_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/9275"
     }
 ]
