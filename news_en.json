@@ -1,5 +1,19 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (10/27~11/02)",
+        "summary": "",
+        "postId": 9386,
+        "category": "notice",
+        "labels": [
+            "label_pc"
+        ],
+        "createdAt": "2025-11-03 08:04:00",
+        "displayTime": "2025-11-05 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/X8VMT8FS.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/X8VMT8FS_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9386"
+    },
+    {
         "title": "PUBG x Porsche",
         "summary": "Experience the thrill of the Battlegrounds, perfected by Porsche’s refined performance and timeless design.",
         "postId": 9358,
@@ -126,19 +140,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251023/tCHfdrgo.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251023/tCHfdrgo_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9339"
-    },
-    {
-        "title": "Introducing the 2nd 2025 PUBG GLOBAL PARTNER TEAMS: Team Edition Skins!",
-        "summary": "We’re thrilled to reveal the second batch of PUBG Global Partner Team Edition Skins!",
-        "postId": 9338,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2025-10-23 06:08:51",
-        "displayTime": "2025-10-23 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251023/PUZ5ZTIL.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251023/PUZ5ZTIL_thumb.png",
-        "newsUrl": "https://pubg.com/en/news/9338"
     }
 ]

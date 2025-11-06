@@ -1,5 +1,19 @@
 [
     {
+        "title": "【每周违规账号公示】 10/27~ 11/02",
+        "summary": "【每周违规账号公示】 10/27~ 11/02",
+        "postId": 9386,
+        "category": "notice",
+        "labels": [
+            "label_pc"
+        ],
+        "createdAt": "2025-11-05 08:08:10",
+        "displayTime": "2025-11-05 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251105/uiKblSZy.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251105/uiKblSZy_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/9386"
+    },
+    {
         "title": "PUBG x 保时捷",
         "summary": "用保时捷的非凡表现和永恒设计征服绝地战场吧！",
         "postId": 9358,
@@ -124,20 +138,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251014/OTRKykFg.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251014/OTRKykFg_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/9265"
-    },
-    {
-        "title": "地图轮换报告 – 38.1",
-        "summary": "地图轮换报告 – 38.1",
-        "postId": 9274,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-10-14 06:01:47",
-        "displayTime": "2025-10-14 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251014/lt3WXZwN.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251014/lt3WXZwN_thumb.png",
-        "newsUrl": "https://pubg.com/zh-cn/news/9274"
     }
 ]
