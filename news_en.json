@@ -1,5 +1,19 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (11/03~11/09)",
+        "summary": "",
+        "postId": 9412,
+        "category": "notice",
+        "labels": [
+            "label_pc"
+        ],
+        "createdAt": "2025-11-10 07:47:39",
+        "displayTime": "2025-11-12 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251110/8Ew7iCMj.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251110/8Ew7iCMj_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9412"
+    },
+    {
         "title": "PUBG UNITED 2025 Head to Thailand!",
         "summary": "We are uniting these two worlds under one stage",
         "postId": 9427,
@@ -128,17 +142,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251103/UnYAgb1n.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251103/UnYAgb1n_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9355"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (10/20~10/26)",
-        "summary": "",
-        "postId": 9351,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2025-10-28 04:56:37",
-        "displayTime": "2025-10-29 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251028/sLXFP0yQ.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251028/sLXFP0yQ_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9351"
     }
 ]
