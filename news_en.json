@@ -1,5 +1,19 @@
 [
     {
+        "title": "PUBG UNITED 2025 Head to Thailand!",
+        "summary": "We are uniting these two worlds under one stage",
+        "postId": 9427,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2025-11-12 01:36:34",
+        "displayTime": "2025-11-12 02:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251112/LVuSi8tA.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251112/LVuSi8tA_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9427"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (10/27~11/02)",
         "summary": "",
         "postId": 9386,
@@ -126,19 +140,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251028/sLXFP0yQ.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251028/sLXFP0yQ_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9351"
-    },
-    {
-        "title": "PGS 10 Broadcast & Co-Streamers",
-        "summary": "Don’t forget to check out details!",
-        "postId": 9339,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2025-10-23 08:24:48",
-        "displayTime": "2025-10-24 08:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251023/tCHfdrgo.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251023/tCHfdrgo_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9339"
     }
 ]
