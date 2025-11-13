@@ -1,5 +1,19 @@
 [
     {
+        "title": "PC 《絕地求生》反作弊行動！每週封鎖帳號名單 (11/03~11/09)",
+        "summary": "",
+        "postId": 9412,
+        "category": "notice",
+        "labels": [
+            "label_pc"
+        ],
+        "createdAt": "2025-11-13 06:31:34",
+        "displayTime": "2025-11-12 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251113/hfws4Vyb.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251113/hfws4Vyb_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/9412"
+    },
+    {
         "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (10/27~11/02)",
         "summary": "",
         "postId": 9386,
@@ -125,17 +139,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251021/1In2ow9U.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251021/1In2ow9U_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/9270"
-    },
-    {
-        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (10/06~10/12)",
-        "summary": "",
-        "postId": 9301,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2025-10-15 06:49:47",
-        "displayTime": "2025-10-15 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251015/GMefmD9d.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251015/GMefmD9d_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/9301"
     }
 ]
