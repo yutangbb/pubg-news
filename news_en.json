@@ -1,5 +1,20 @@
 [
     {
+        "title": "Dev Letter: Anti-Cheat Improvements and Actions for Fair Play",
+        "summary": "",
+        "postId": 9411,
+        "category": "dev_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-11-09 13:41:10",
+        "displayTime": "2025-11-14 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251109/Ala0Ijiw.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251109/Ala0Ijiw_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9411"
+    },
+    {
         "title": "Welcome to the Official PUBG UNITED 2025 Website!",
         "summary": "One World, Two Champions. All in One Place.\n",
         "postId": 9436,
@@ -127,20 +142,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251103/atEdWgjV.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251103/atEdWgjV_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9357"
-    },
-    {
-        "title": " Patch Notes - Update 38.2",
-        "summary": " Introducing Update 38.2: Discover all the latest features and improvements!",
-        "postId": 9356,
-        "category": "patch_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-10-28 08:26:28",
-        "displayTime": "2025-11-04 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/ozRwHqWM.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/ozRwHqWM_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9356"
     }
 ]

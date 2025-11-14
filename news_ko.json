@@ -1,5 +1,20 @@
 [
     {
+        "title": "[개발일지] 공정한 게임 플레이 환경을 위한 안티치트 개선 및 대응 현황",
+        "summary": "",
+        "postId": 9411,
+        "category": "dev_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-11-13 02:01:34",
+        "displayTime": "2025-11-14 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251113/DF8onnyY.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251113/DF8onnyY_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9411"
+    },
+    {
         "title": "PUBG UNITED 2025 공식 웹사이트 오픈!",
         "summary": "One World, Two Champions. 모두가 하나되는 공간.",
         "postId": 9436,
@@ -127,20 +142,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251102/utBu8zgg.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251102/utBu8zgg_thumb.png",
         "newsUrl": "https://pubg.com/ko/news/9357"
-    },
-    {
-        "title": "패치 노트 - 업데이트 38.2",
-        "summary": "업데이트 38.2에서 신규 기능 및 개선 사항을 만나보세요.",
-        "postId": 9356,
-        "category": "patch_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-11-02 11:08:48",
-        "displayTime": "2025-11-04 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251102/RdWNSuuG.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251102/RdWNSuuG_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9356"
     }
 ]
