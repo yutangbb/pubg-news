@@ -1,5 +1,19 @@
 [
     {
+        "title": "PUBG Players Masters Invitational comes to Seoul this December",
+        "summary": "We’re excited to host the PUBG Players Masters Invitational in Seoul",
+        "postId": 9440,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2025-11-17 05:50:11",
+        "displayTime": "2025-11-17 08:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251117/8bi856Ao.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251117/8bi856Ao_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9440"
+    },
+    {
         "title": "Get ready for this weekend’s PUBG Race: West!",
         "summary": "PUBG Race returns for a special EMEA vs Americas tournament! ",
         "postId": 9438,
@@ -126,20 +140,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251111/Kj7QBByu.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251111/Kj7QBByu_thumb.png",
         "newsUrl": "https://pubg.com/en/news/9389"
-    },
-    {
-        "title": "November Store Update 2025",
-        "summary": "Welcome to the eleventh Store Update of 2025!",
-        "postId": 9340,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-10-24 04:44:28",
-        "displayTime": "2025-11-04 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/BS4EQKSz.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/BS4EQKSz_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9340"
     }
 ]

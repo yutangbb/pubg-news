@@ -1,5 +1,19 @@
 [
     {
+        "title": "PUBG Players Masters Invitational, 12월 서울 개최",
+        "summary": "PUBG Players Masters Invitational이 서울에서 개최됩니다. ",
+        "postId": 9440,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2025-11-17 05:50:11",
+        "displayTime": "2025-11-17 08:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251117/7JTZnbuO.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251117/7JTZnbuO_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9440"
+    },
+    {
         "title": "[개발일지] 공정한 게임 플레이 환경을 위한 안티치트 개선 및 대응 현황",
         "summary": "",
         "postId": 9411,
@@ -127,20 +141,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/nz1urNRs.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/nz1urNRs_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9340"
-    },
-    {
-        "title": "맵 서비스 리포트 - 업데이트 38.2",
-        "summary": "",
-        "postId": 9357,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-11-02 10:23:18",
-        "displayTime": "2025-11-04 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251102/utBu8zgg.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251102/utBu8zgg_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/9357"
     }
 ]
