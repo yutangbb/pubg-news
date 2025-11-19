@@ -1,5 +1,19 @@
 [
     {
+        "title": "【每周违规账号公示】 11/10~ 11/16",
+        "summary": "【每周违规账号公示】 11/10~ 11/16",
+        "postId": 9442,
+        "category": "notice",
+        "labels": [
+            "label_pc"
+        ],
+        "createdAt": "2025-11-19 09:08:26",
+        "displayTime": "2025-11-19 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251119/nGjirl9P.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251119/nGjirl9P_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/9442"
+    },
+    {
         "title": "【开发者日志】反作弊优化和公平游戏措施",
         "summary": "【开发者日志】反作弊优化和公平游戏措施",
         "postId": 9411,
@@ -128,17 +142,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251021/mRtJUiFU.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251021/mRtJUiFU_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/9270"
-    },
-    {
-        "title": "【每周违规账号公示】 10/13~ 10/19",
-        "summary": "【每周违规账号公示】 10/13~ 10/19",
-        "postId": 9331,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2025-11-05 04:19:56",
-        "displayTime": "2025-10-22 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251105/alRcgkxI.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251105/alRcgkxI_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/9331"
     }
 ]
