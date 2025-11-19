@@ -1,5 +1,19 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (11/10~11/16)",
+        "summary": "",
+        "postId": 9442,
+        "category": "notice",
+        "labels": [
+            "label_pc"
+        ],
+        "createdAt": "2025-11-17 07:33:46",
+        "displayTime": "2025-11-19 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251117/YhrQf1tR.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251117/YhrQf1tR_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9442"
+    },
+    {
         "title": "PUBG Players Masters Invitational comes to Seoul this December",
         "summary": "We’re excited to host the PUBG Players Masters Invitational in Seoul",
         "postId": 9440,
@@ -126,19 +140,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/65rlrp7x.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/65rlrp7x_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9396"
-    },
-    {
-        "title": "PGS Points & PGC Participating Teams",
-        "summary": "The journey to PUBG Global Championship (PGC) 2025 has reached its final stage!",
-        "postId": 9389,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2025-11-04 03:07:58",
-        "displayTime": "2025-11-04 08:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251111/Kj7QBByu.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251111/Kj7QBByu_thumb.png",
-        "newsUrl": "https://pubg.com/en/news/9389"
     }
 ]

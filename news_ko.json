@@ -1,5 +1,19 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (11/10~11/16)",
+        "summary": "",
+        "postId": 9442,
+        "category": "notice",
+        "labels": [
+            "label_pc"
+        ],
+        "createdAt": "2025-11-19 06:46:59",
+        "displayTime": "2025-11-19 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251119/NSPmkrGv.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251119/NSPmkrGv_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9442"
+    },
+    {
         "title": "PUBG Players Masters Invitational, 12월 서울 개최",
         "summary": "PUBG Players Masters Invitational이 서울에서 개최됩니다. ",
         "postId": 9440,
@@ -126,20 +140,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251111/atOf1098.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251111/atOf1098_thumb.png",
         "newsUrl": "https://pubg.com/ko/news/9389"
-    },
-    {
-        "title": "2025년 11월 상점 안내",
-        "summary": "2025년 11월 상점 안내에 오신 것을 환영합니다!",
-        "postId": 9340,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-11-04 03:16:30",
-        "displayTime": "2025-11-04 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/nz1urNRs.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/nz1urNRs_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9340"
     }
 ]
