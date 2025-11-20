@@ -1,5 +1,17 @@
 [
     {
+        "title": "PGC 2025 Grand Finals Ticket Open!",
+        "summary": "Ready to witness the ultimate battleground showdown live?",
+        "postId": 9447,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2025-11-19 12:45:04",
+        "displayTime": "2025-11-20 11:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251119/HOSNLChU.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251119/HOSNLChU_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9447"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (11/10~11/16)",
         "summary": "",
         "postId": 9442,
@@ -126,19 +138,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251105/K8yX3m8d.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251105/K8yX3m8d_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9358"
-    },
-    {
-        "title": "PGC 2025 Pick’em Challenge",
-        "summary": "PGC 2025 Pick’em Challenge is now open!",
-        "postId": 9396,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2025-11-04 12:36:00",
-        "displayTime": "2025-11-05 02:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/65rlrp7x.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/65rlrp7x_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9396"
     }
 ]
