@@ -1,5 +1,19 @@
 [
     {
+        "title": "펍지 글로벌 챔피언십 2025 공식 중계 채널 안내",
+        "summary": "펍지 글로벌 챔피언십 2025의 공식 중계 채널을 공개합니다!",
+        "postId": 9478,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2025-11-26 07:50:02",
+        "displayTime": "2025-11-26 08:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251126/gUyGOfFm.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251126/gUyGOfFm_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9478"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (11/17~11/23)",
         "summary": "",
         "postId": 9461,
@@ -123,20 +137,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251105/Wnxzwljb.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251105/Wnxzwljb_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9386"
-    },
-    {
-        "title": "PUBG x 포르쉐",
-        "summary": "포르쉐의 정제된 퍼포먼스와 시대를 초월한 디자인으로 전장의 질주를 완성해 보세요.",
-        "postId": 9358,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-11-04 07:58:12",
-        "displayTime": "2025-11-05 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/sWIhPnOV.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/sWIhPnOV_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9358"
     }
 ]
