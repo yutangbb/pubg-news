@@ -1,5 +1,19 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (11/17~11/23)",
+        "summary": "",
+        "postId": 9461,
+        "category": "notice",
+        "labels": [
+            "label_pc"
+        ],
+        "createdAt": "2025-11-24 09:23:21",
+        "displayTime": "2025-11-26 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251124/DqOJLzU7.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251124/DqOJLzU7_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9461"
+    },
+    {
         "title": "PGC 2025 Grand Finals Ticket Open!",
         "summary": "Ready to witness the ultimate battleground showdown live?",
         "postId": 9447,
@@ -123,20 +137,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/X8VMT8FS.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/X8VMT8FS_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9386"
-    },
-    {
-        "title": "PUBG x Porsche",
-        "summary": "Experience the thrill of the Battlegrounds, perfected by Porsche’s refined performance and timeless design.",
-        "postId": 9358,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-10-28 08:30:04",
-        "displayTime": "2025-11-05 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251105/K8yX3m8d.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251105/K8yX3m8d_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9358"
     }
 ]

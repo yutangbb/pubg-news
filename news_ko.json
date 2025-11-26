@@ -1,5 +1,19 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (11/17~11/23)",
+        "summary": "",
+        "postId": 9461,
+        "category": "notice",
+        "labels": [
+            "label_pc"
+        ],
+        "createdAt": "2025-11-26 02:43:37",
+        "displayTime": "2025-11-26 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251126/OuFR79PR.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251126/OuFR79PR_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9461"
+    },
+    {
         "title": "PGC 2025 그랜드 파이널 티켓 오픈 안내",
         "summary": "최고의 순간을 눈앞에서 마주할 준비 되셨나요?",
         "postId": 9447,
@@ -124,19 +138,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/sWIhPnOV.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/sWIhPnOV_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9358"
-    },
-    {
-        "title": "펍지 글로벌 챔피언십 2025 승자 예측 이벤트에 지금 참여하세요!",
-        "summary": "펍지 글로벌 챔피언십 2025 승자 예측 이벤트 시작!",
-        "postId": 9396,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2025-11-04 12:36:00",
-        "displayTime": "2025-11-05 02:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/mFVGPfx2.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/mFVGPfx2_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9396"
     }
 ]
