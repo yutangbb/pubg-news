@@ -1,5 +1,19 @@
 [
     {
+        "title": "PGC 2025 공동 스트리밍 (co-streaming) 안내",
+        "summary": "펍지 글로벌 챔피언십 2025에서는 전 세계의 멋진 스트리머들과 함께하는 공동 스트리밍이 진행됩니다!",
+        "postId": 9490,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2025-11-28 06:03:19",
+        "displayTime": "2025-11-28 06:01:25",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251128/zxoE2F2U.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251128/zxoE2F2U_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/9490"
+    },
+    {
         "title": "펍지 글로벌 챔피언십 2025 공식 중계 채널 안내",
         "summary": "펍지 글로벌 챔피언십 2025의 공식 중계 채널을 공개합니다!",
         "postId": 9478,
@@ -123,19 +137,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251112/75CVt5Qt.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251112/75CVt5Qt_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9427"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (10/27~11/02)",
-        "summary": "",
-        "postId": 9386,
-        "category": "notice",
-        "labels": [
-            "label_pc"
-        ],
-        "createdAt": "2025-11-05 06:39:45",
-        "displayTime": "2025-11-05 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251105/Wnxzwljb.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251105/Wnxzwljb_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9386"
     }
 ]

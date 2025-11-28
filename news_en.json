@@ -1,5 +1,19 @@
 [
     {
+        "title": "PGC 2025 Co-Streamers ",
+        "summary": "PGC 2025 is bringing fans closer than ever with an incredible global co-streaming lineup!",
+        "postId": 9490,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2025-11-28 06:03:19",
+        "displayTime": "2025-11-28 06:01:25",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251128/5gqhWxWS.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251128/5gqhWxWS_thumb.png",
+        "newsUrl": "https://pubg.com/en/news/9490"
+    },
+    {
         "title": "PGC 2025 Official Broadcasting Channels",
         "summary": "We’re thrilled to announce the official broadcast channels for the PUBG Global Championship 2025!",
         "postId": 9478,
@@ -123,19 +137,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251110/8Ew7iCMj.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251110/8Ew7iCMj_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9412"
-    },
-    {
-        "title": "PUBG UNITED 2025 Head to Thailand!",
-        "summary": "We are uniting these two worlds under one stage",
-        "postId": 9427,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2025-11-12 01:36:34",
-        "displayTime": "2025-11-12 02:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251112/LVuSi8tA.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251112/LVuSi8tA_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9427"
     }
 ]
