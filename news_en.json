@@ -1,5 +1,19 @@
 [
     {
+        "title": "Erangel Subzero: PGC 2025 Event Match",
+        "summary": "We’re excited to announce the special PGC 2025 Event Match, taking place on the winter-lit Erangel Subzero!",
+        "postId": 9496,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2025-11-30 09:18:54",
+        "displayTime": "2025-11-30 09:17:26",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251130/fj5TeTyT.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251130/fj5TeTyT_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9496"
+    },
+    {
         "title": "PGC 2025 Co-Streamers ",
         "summary": "PGC 2025 is bringing fans closer than ever with an incredible global co-streaming lineup!",
         "postId": 9490,
@@ -123,19 +137,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251113/Q8l1RvUh.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251113/Q8l1RvUh_thumb.png",
         "newsUrl": "https://pubg.com/en/news/9436"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (11/03~11/09)",
-        "summary": "",
-        "postId": 9412,
-        "category": "notice",
-        "labels": [
-            "label_pc"
-        ],
-        "createdAt": "2025-11-10 07:47:39",
-        "displayTime": "2025-11-12 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251110/8Ew7iCMj.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251110/8Ew7iCMj_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9412"
     }
 ]
