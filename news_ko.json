@@ -1,5 +1,20 @@
 [
     {
+        "title": "2025년 12월 상점 안내",
+        "summary": "2025년 12월 상점 안내에 오신 것을 환영합니다!",
+        "postId": 9468,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-12-02 04:51:42",
+        "displayTime": "2025-12-02 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251202/hFG8AmZZ.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251202/hFG8AmZZ_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9468"
+    },
+    {
         "title": "맵 서비스 리포트 - 업데이트 39.1",
         "summary": "",
         "postId": 9467,
@@ -124,20 +139,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251117/7JTZnbuO.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251117/7JTZnbuO_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9440"
-    },
-    {
-        "title": "[개발일지] 공정한 게임 플레이 환경을 위한 안티치트 개선 및 대응 현황",
-        "summary": "",
-        "postId": 9411,
-        "category": "dev_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-11-13 02:01:34",
-        "displayTime": "2025-11-14 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251113/DF8onnyY.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251113/DF8onnyY_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9411"
     }
 ]

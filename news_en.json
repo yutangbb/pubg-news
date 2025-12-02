@@ -1,5 +1,20 @@
 [
     {
+        "title": "December Store Update 2025",
+        "summary": "",
+        "postId": 9468,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-11-25 13:40:14",
+        "displayTime": "2025-12-02 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251201/57X1Arzx.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251201/57X1Arzx_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9468"
+    },
+    {
         "title": "Map Service Report - Update 39.1",
         "summary": "",
         "postId": 9467,
@@ -124,19 +139,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251117/8bi856Ao.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251117/8bi856Ao_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9440"
-    },
-    {
-        "title": "Get ready for this weekend’s PUBG Race: West!",
-        "summary": "PUBG Race returns for a special EMEA vs Americas tournament! ",
-        "postId": 9438,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2025-11-14 10:56:47",
-        "displayTime": "2025-11-14 10:56:44",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251114/wilFgNIU.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251114/wilFgNIU_thumb.png",
-        "newsUrl": "https://pubg.com/en/news/9438"
     }
 ]
