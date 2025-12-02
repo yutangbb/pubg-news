@@ -1,5 +1,20 @@
 [
     {
+        "title": "2025年12月商店公告",
+        "summary": "欢迎查看2025年12月商店公告！",
+        "postId": 9468,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-12-02 07:24:08",
+        "displayTime": "2025-12-02 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251202/fK0GU4h2.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251202/fK0GU4h2_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/9468"
+    },
+    {
         "title": "地图轮换报告 - 39.1",
         "summary": "地图轮换报告 - 39.1",
         "postId": 9467,
@@ -130,20 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251103/E4hmcEkV.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251103/E4hmcEkV_thumb.png",
         "newsUrl": "https://pubg.com/zh-cn/news/9357"
-    },
-    {
-        "title": "38.2 版本更新公告",
-        "summary": "在38.2版本更新中体验新功能和优化内容吧！",
-        "postId": 9356,
-        "category": "patch_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-11-04 06:09:13",
-        "displayTime": "2025-11-04 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/H04JVKZC.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/H04JVKZC_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/9356"
     }
 ]
