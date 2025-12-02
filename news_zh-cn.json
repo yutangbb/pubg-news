@@ -1,5 +1,35 @@
 [
     {
+        "title": "地图轮换报告 - 39.1",
+        "summary": "地图轮换报告 - 39.1",
+        "postId": 9467,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-12-02 04:01:14",
+        "displayTime": "2025-12-02 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251202/IYDSAXTf.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251202/IYDSAXTf_thumb.png",
+        "newsUrl": "https://pubg.com/zh-cn/news/9467"
+    },
+    {
+        "title": "39.1 版本更新公告",
+        "summary": "在39.1版本更新中体验新功能和优化内容吧！",
+        "postId": 9466,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-12-02 06:15:32",
+        "displayTime": "2025-12-02 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251202/QuwRpXuX.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251202/QuwRpXuX_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/9466"
+    },
+    {
         "title": "【每周违规账号公示】 11/10~ 11/16",
         "summary": "【每周违规账号公示】 11/10~ 11/16",
         "postId": 9442,
@@ -115,32 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/H04JVKZC.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/H04JVKZC_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/9356"
-    },
-    {
-        "title": "【每周违规账号公示】 10/20~ 10/26",
-        "summary": "【每周违规账号公示】 10/20~ 10/26",
-        "postId": 9351,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2025-10-30 08:19:58",
-        "displayTime": "2025-10-29 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251030/zFXI9yNR.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251030/zFXI9yNR_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/9351"
-    },
-    {
-        "title": "街机模式：PUBG x 马桶人",
-        "summary": "街机模式：PUBG x 马桶人",
-        "postId": 9270,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-10-21 09:35:07",
-        "displayTime": "2025-10-22 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251021/mRtJUiFU.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251021/mRtJUiFU_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/9270"
     }
 ]

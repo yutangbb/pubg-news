@@ -1,5 +1,35 @@
 [
     {
+        "title": "맵 서비스 리포트 - 업데이트 39.1",
+        "summary": "",
+        "postId": 9467,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-11-27 07:10:54",
+        "displayTime": "2025-12-02 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251127/ey6VcOmI.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251127/ey6VcOmI_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/9467"
+    },
+    {
+        "title": "패치 노트 - 업데이트 39.1",
+        "summary": "업데이트 39.1에서 신규 기능 및 개선 사항을 만나보세요.",
+        "postId": 9466,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-12-01 08:45:39",
+        "displayTime": "2025-12-02 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251202/HsI6tsfU.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251202/HsI6tsfU_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9466"
+    },
+    {
         "title": "에란겔 서브제로 PGC 2025 이벤트 매치",
         "summary": "겨울빛으로 물든 에란겔 서브제로에서 펼쳐질 PGC 2025 이벤트 매치 소식을 전해드립니다!",
         "postId": 9496,
@@ -109,33 +139,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251113/DF8onnyY.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251113/DF8onnyY_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9411"
-    },
-    {
-        "title": "PUBG UNITED 2025 공식 웹사이트 오픈!",
-        "summary": "One World, Two Champions. 모두가 하나되는 공간.",
-        "postId": 9436,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2025-11-13 02:41:34",
-        "displayTime": "2025-11-13 08:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251113/dVXjG3s1.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251113/dVXjG3s1_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/9436"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (11/03~11/09)",
-        "summary": "",
-        "postId": 9412,
-        "category": "notice",
-        "labels": [
-            "label_pc"
-        ],
-        "createdAt": "2025-11-12 05:04:49",
-        "displayTime": "2025-11-12 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251112/QhLoWtZO.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251112/QhLoWtZO_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9412"
     }
 ]

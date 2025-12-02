@@ -1,5 +1,35 @@
 [
     {
+        "title": "Map Service Report - Update 39.1",
+        "summary": "",
+        "postId": 9467,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-11-25 13:36:10",
+        "displayTime": "2025-12-02 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251202/pGywNBZq.jpeg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251202/pGywNBZq_thumb.jpeg",
+        "newsUrl": "https://pubg.com/en/news/9467"
+    },
+    {
+        "title": "Patch Notes - Update 39.1",
+        "summary": "Introducing Update 39.1: Discover all the latest features and improvements!",
+        "postId": 9466,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-11-25 13:35:33",
+        "displayTime": "2025-12-02 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251202/TwjnWuuM.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251202/TwjnWuuM_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9466"
+    },
+    {
         "title": "Erangel Subzero: PGC 2025 Event Match",
         "summary": "We’re excited to announce the special PGC 2025 Event Match, taking place on the winter-lit Erangel Subzero!",
         "postId": 9496,
@@ -108,34 +138,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251114/wilFgNIU.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251114/wilFgNIU_thumb.png",
         "newsUrl": "https://pubg.com/en/news/9438"
-    },
-    {
-        "title": "Dev Letter: Anti-Cheat Improvements and Actions for Fair Play",
-        "summary": "",
-        "postId": 9411,
-        "category": "dev_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-11-09 13:41:10",
-        "displayTime": "2025-11-14 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251109/Ala0Ijiw.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251109/Ala0Ijiw_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9411"
-    },
-    {
-        "title": "Welcome to the Official PUBG UNITED 2025 Website!",
-        "summary": "One World, Two Champions. All in One Place.\n",
-        "postId": 9436,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2025-11-13 02:41:34",
-        "displayTime": "2025-11-13 08:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251113/Q8l1RvUh.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251113/Q8l1RvUh_thumb.png",
-        "newsUrl": "https://pubg.com/en/news/9436"
     }
 ]
