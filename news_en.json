@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG | BALENCIAGA",
+        "summary": "Step into the world of PUBG, elevated by BALENCIAGA.",
+        "postId": 9469,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-11-25 13:42:56",
+        "displayTime": "2025-12-03 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251203/mV44oLsX.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251203/mV44oLsX_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9469"
+    },
+    {
         "title": "December Store Update 2025",
         "summary": "",
         "postId": 9468,
@@ -125,19 +140,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251117/YhrQf1tR.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251117/YhrQf1tR_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9442"
-    },
-    {
-        "title": "PUBG Players Masters Invitational comes to Seoul this December",
-        "summary": "We’re excited to host the PUBG Players Masters Invitational in Seoul",
-        "postId": 9440,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2025-11-17 05:50:11",
-        "displayTime": "2025-11-17 08:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251117/8bi856Ao.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251117/8bi856Ao_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9440"
     }
 ]

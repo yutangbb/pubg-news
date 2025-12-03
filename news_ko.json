@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG | 발렌시아가",
+        "summary": "발렌시아가 콜라보레이션과 함께 새로운 스타일을 완성해 보세요. ",
+        "postId": 9469,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-12-02 09:27:40",
+        "displayTime": "2025-12-03 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251202/lQL0kFZC.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251202/lQL0kFZC_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9469"
+    },
+    {
         "title": "2025년 12월 상점 안내",
         "summary": "2025년 12월 상점 안내에 오신 것을 환영합니다!",
         "postId": 9468,
@@ -125,19 +140,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251119/NSPmkrGv.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251119/NSPmkrGv_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9442"
-    },
-    {
-        "title": "PUBG Players Masters Invitational, 12월 서울 개최",
-        "summary": "PUBG Players Masters Invitational이 서울에서 개최됩니다. ",
-        "postId": 9440,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2025-11-17 05:50:11",
-        "displayTime": "2025-11-17 08:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251117/7JTZnbuO.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251117/7JTZnbuO_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9440"
     }
 ]
