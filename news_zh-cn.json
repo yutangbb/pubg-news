@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG | 巴黎世家",
+        "summary": "与巴黎世家一起，打造全新的时尚风格吧！",
+        "postId": 9469,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-12-03 09:04:22",
+        "displayTime": "2025-12-03 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251203/d4OTijOi.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251203/d4OTijOi_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/9469"
+    },
+    {
         "title": "2025年12月商店公告",
         "summary": "欢迎查看2025年12月商店公告！",
         "postId": 9468,
@@ -130,20 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/RMfeCHa0.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/RMfeCHa0_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/9340"
-    },
-    {
-        "title": "地图轮换报告 – 38.2",
-        "summary": "地图轮换报告 – 38.2",
-        "postId": 9357,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-11-03 08:48:56",
-        "displayTime": "2025-11-04 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251103/E4hmcEkV.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251103/E4hmcEkV_thumb.png",
-        "newsUrl": "https://pubg.com/zh-cn/news/9357"
     }
 ]
