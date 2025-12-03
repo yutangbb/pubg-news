@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (11/24~11/30)",
+        "summary": "",
+        "postId": 9500,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-12-03 06:20:21",
+        "displayTime": "2025-12-03 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251203/4OnUt4Qp.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251203/4OnUt4Qp_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9500"
+    },
+    {
         "title": "PUBG | 발렌시아가",
         "summary": "발렌시아가 콜라보레이션과 함께 새로운 스타일을 완성해 보세요. ",
         "postId": 9469,
@@ -126,19 +141,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251119/PBu7AvwF.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251119/PBu7AvwF_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9447"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (11/10~11/16)",
-        "summary": "",
-        "postId": 9442,
-        "category": "notice",
-        "labels": [
-            "label_pc"
-        ],
-        "createdAt": "2025-11-19 06:46:59",
-        "displayTime": "2025-11-19 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251119/NSPmkrGv.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251119/NSPmkrGv_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9442"
     }
 ]

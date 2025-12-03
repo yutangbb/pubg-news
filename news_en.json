@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (11/24~11/30)",
+        "summary": "",
+        "postId": 9500,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-12-01 07:30:58",
+        "displayTime": "2025-12-03 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251203/6Ppugwcy.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251203/6Ppugwcy_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9500"
+    },
+    {
         "title": "PUBG | BALENCIAGA",
         "summary": "Step into the world of PUBG, elevated by BALENCIAGA.",
         "postId": 9469,
@@ -126,19 +141,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251119/HOSNLChU.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251119/HOSNLChU_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9447"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (11/10~11/16)",
-        "summary": "",
-        "postId": 9442,
-        "category": "notice",
-        "labels": [
-            "label_pc"
-        ],
-        "createdAt": "2025-11-17 07:33:46",
-        "displayTime": "2025-11-19 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251117/YhrQf1tR.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251117/YhrQf1tR_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9442"
     }
 ]
