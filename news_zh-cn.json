@@ -1,5 +1,17 @@
 [
     {
+        "title": "服务条款和隐私政策更新 ",
+        "summary": "",
+        "postId": 9536,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2025-12-04 10:19:24",
+        "displayTime": "2025-12-05 04:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251204/WlLCpADn.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251204/WlLCpADn_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/9536"
+    },
+    {
         "title": "PUBG | 巴黎世家",
         "summary": "与巴黎世家一起，打造全新的时尚风格吧！",
         "postId": 9469,
@@ -130,20 +142,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251105/KRFMr9Dr.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251105/KRFMr9Dr_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/9358"
-    },
-    {
-        "title": "2025年11月商店公告",
-        "summary": "欢迎查看2025年11月商店公告！",
-        "postId": 9340,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-11-04 03:14:10",
-        "displayTime": "2025-11-04 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/RMfeCHa0.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251104/RMfeCHa0_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/9340"
     }
 ]

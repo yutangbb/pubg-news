@@ -1,5 +1,17 @@
 [
     {
+        "title": "이용약관 및 개인정보 처리방침 개정 안내 ",
+        "summary": "",
+        "postId": 9536,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2025-12-04 10:19:24",
+        "displayTime": "2025-12-05 04:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251204/WlLCpADn.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251204/WlLCpADn_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9536"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (11/24~11/30)",
         "summary": "",
         "postId": 9500,
@@ -129,17 +141,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251126/OuFR79PR.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251126/OuFR79PR_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9461"
-    },
-    {
-        "title": "PGC 2025 그랜드 파이널 티켓 오픈 안내",
-        "summary": "최고의 순간을 눈앞에서 마주할 준비 되셨나요?",
-        "postId": 9447,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2025-11-19 12:45:04",
-        "displayTime": "2025-11-20 11:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251119/PBu7AvwF.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251119/PBu7AvwF_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9447"
     }
 ]
