@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (12/01~12/07)",
+        "summary": "",
+        "postId": 9552,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-12-10 06:34:21",
+        "displayTime": "2025-12-10 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251210/GpoI0Udx.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251210/GpoI0Udx_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9552"
+    },
+    {
         "title": "이용약관 및 개인정보 처리방침 개정 안내 ",
         "summary": "",
         "postId": 9536,
@@ -127,19 +142,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251126/gUyGOfFm.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251126/gUyGOfFm_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9478"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (11/17~11/23)",
-        "summary": "",
-        "postId": 9461,
-        "category": "notice",
-        "labels": [
-            "label_pc"
-        ],
-        "createdAt": "2025-11-26 02:43:37",
-        "displayTime": "2025-11-26 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251126/OuFR79PR.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251126/OuFR79PR_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9461"
     }
 ]
