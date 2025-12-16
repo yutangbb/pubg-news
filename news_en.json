@@ -1,5 +1,19 @@
 [
     {
+        "title": "PUBG Players Masters Invitational Participating Teams & Players",
+        "summary": "We are excited to reveal the full list of participating teams and players for the PUBG Players Masters Invitational.",
+        "postId": 9628,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2025-12-16 05:20:56",
+        "displayTime": "2025-12-16 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251216/SFoRyjN5.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251216/SFoRyjN5_thumb.png",
+        "newsUrl": "https://pubg.com/en/news/9628"
+    },
+    {
         "title": " PUBG: BATTLEGROUNDS Weekly Bans Notice (12/01~12/07) ",
         "summary": "",
         "postId": 9552,
@@ -128,19 +142,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251128/5gqhWxWS.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251128/5gqhWxWS_thumb.png",
         "newsUrl": "https://pubg.com/en/news/9490"
-    },
-    {
-        "title": "PGC 2025 Official Broadcasting Channels",
-        "summary": "We’re thrilled to announce the official broadcast channels for the PUBG Global Championship 2025!",
-        "postId": 9478,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2025-11-26 07:50:02",
-        "displayTime": "2025-11-26 08:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251126/2qWTx8tu.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251126/2qWTx8tu_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9478"
     }
 ]

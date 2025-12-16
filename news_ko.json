@@ -1,5 +1,19 @@
 [
     {
+        "title": "PUBG Players Masters Invitational 참가 팀 및 선수 명단 안내",
+        "summary": "PUBG Players Masters Invitational에 출전하는 참가 팀 및 선수 명단을 공개합니다.",
+        "postId": 9628,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2025-12-16 05:20:56",
+        "displayTime": "2025-12-16 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251216/kyxMjUJD.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251216/kyxMjUJD_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/9628"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (12/01~12/07)",
         "summary": "",
         "postId": 9552,
@@ -128,19 +142,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251128/zxoE2F2U.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251128/zxoE2F2U_thumb.png",
         "newsUrl": "https://pubg.com/ko/news/9490"
-    },
-    {
-        "title": "펍지 글로벌 챔피언십 2025 공식 중계 채널 안내",
-        "summary": "펍지 글로벌 챔피언십 2025의 공식 중계 채널을 공개합니다!",
-        "postId": 9478,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2025-11-26 07:50:02",
-        "displayTime": "2025-11-26 08:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251126/gUyGOfFm.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251126/gUyGOfFm_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9478"
     }
 ]
