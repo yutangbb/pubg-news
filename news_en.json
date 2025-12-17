@@ -1,5 +1,19 @@
 [
     {
+        "title": "PUBG Players Masters Invitational Broadcast & Co-Streamers",
+        "summary": "We are excited to share the full broadcast and co-streaming details for the PUBG Players Masters Invitational",
+        "postId": 9638,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2025-12-17 08:16:55",
+        "displayTime": "2025-12-17 08:15:40",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251217/RkoA2KcB.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251217/RkoA2KcB_thumb.png",
+        "newsUrl": "https://pubg.com/en/news/9638"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (12/08~12/14)",
         "summary": "",
         "postId": 9625,
@@ -129,19 +143,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251202/TwjnWuuM.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251202/TwjnWuuM_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9466"
-    },
-    {
-        "title": "Erangel Subzero: PGC 2025 Event Match",
-        "summary": "We’re excited to announce the special PGC 2025 Event Match, taking place on the winter-lit Erangel Subzero!",
-        "postId": 9496,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2025-11-30 09:18:54",
-        "displayTime": "2025-11-30 09:17:26",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251130/fj5TeTyT.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251130/fj5TeTyT_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9496"
     }
 ]
