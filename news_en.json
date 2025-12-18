@@ -1,5 +1,19 @@
 [
     {
+        "title": "PUBG Esports 2026 Roadmap – A New Era Begins",
+        "summary": "A New Era Begins – PUBG Esports 2026",
+        "postId": 9642,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2025-12-18 04:43:50",
+        "displayTime": "2025-12-18 09:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251218/t4aaqUc5.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251218/t4aaqUc5_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9642"
+    },
+    {
         "title": "PUBG Players Masters Invitational Broadcast & Co-Streamers",
         "summary": "We are excited to share the full broadcast and co-streaming details for the PUBG Players Masters Invitational",
         "postId": 9638,
@@ -128,20 +142,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251202/pGywNBZq.jpeg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251202/pGywNBZq_thumb.jpeg",
         "newsUrl": "https://pubg.com/en/news/9467"
-    },
-    {
-        "title": "Patch Notes - Update 39.1",
-        "summary": "Introducing Update 39.1: Discover all the latest features and improvements!",
-        "postId": 9466,
-        "category": "patch_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-11-25 13:35:33",
-        "displayTime": "2025-12-02 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251202/TwjnWuuM.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251202/TwjnWuuM_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9466"
     }
 ]
