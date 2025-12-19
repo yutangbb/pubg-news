@@ -1,5 +1,20 @@
 [
     {
+        "title": "開發者信件：2025 年反作弊回顧與未來規劃",
+        "summary": "",
+        "postId": 9634,
+        "category": "dev_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-12-19 07:56:46",
+        "displayTime": "2025-12-19 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251219/C4yG2gwm.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251219/C4yG2gwm_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/9634"
+    },
+    {
         "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (12/08~12/14)",
         "summary": "",
         "postId": 9625,
@@ -129,19 +144,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251127/tHFdo2sf.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251127/tHFdo2sf_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/9461"
-    },
-    {
-        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (11/10~11/16)",
-        "summary": "",
-        "postId": 9442,
-        "category": "notice",
-        "labels": [
-            "label_pc"
-        ],
-        "createdAt": "2025-11-27 06:56:33",
-        "displayTime": "2025-11-19 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251127/KBoffQ1H.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251127/KBoffQ1H_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/9442"
     }
 ]
