@@ -1,5 +1,20 @@
 [
     {
+        "title": "[개발일지] 2025 안티치트 리뷰 및 향후 계획",
+        "summary": "",
+        "postId": 9634,
+        "category": "dev_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-12-18 03:16:03",
+        "displayTime": "2025-12-19 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251218/eDCRPCkD.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251218/eDCRPCkD_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9634"
+    },
+    {
         "title": "PUBG Esports 2026 로드맵 공개",
         "summary": "2026년, 배틀그라운드 이스포츠가 새로운 도약을 시작합니다",
         "postId": 9642,
@@ -127,20 +142,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251202/hFG8AmZZ.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251202/hFG8AmZZ_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9468"
-    },
-    {
-        "title": "맵 서비스 리포트 - 업데이트 39.1",
-        "summary": "",
-        "postId": 9467,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-11-27 07:10:54",
-        "displayTime": "2025-12-02 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251127/ey6VcOmI.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251127/ey6VcOmI_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/9467"
     }
 ]
