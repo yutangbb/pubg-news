@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (12/15~12/21)",
+        "summary": "",
+        "postId": 9655,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-12-24 02:07:32",
+        "displayTime": "2025-12-24 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251224/tMgVNQJC.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251224/tMgVNQJC_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9655"
+    },
+    {
         "title": "[개발일지] 2025 안티치트 리뷰 및 향후 계획",
         "summary": "",
         "postId": 9634,
@@ -127,20 +142,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251202/lQL0kFZC.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251202/lQL0kFZC_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9469"
-    },
-    {
-        "title": "2025년 12월 상점 안내",
-        "summary": "2025년 12월 상점 안내에 오신 것을 환영합니다!",
-        "postId": 9468,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-12-02 04:51:42",
-        "displayTime": "2025-12-02 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251202/hFG8AmZZ.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251202/hFG8AmZZ_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9468"
     }
 ]
