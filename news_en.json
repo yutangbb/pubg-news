@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (12/22~12/28)",
+        "summary": "",
+        "postId": 9665,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-12-29 06:39:43",
+        "displayTime": "2025-12-31 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251229/qiPlbJIX.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251229/qiPlbJIX_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9665"
+    },
+    {
         "title": "Spring Fest 2025 Returns",
         "summary": "",
         "postId": 9662,
@@ -127,20 +142,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251204/WlLCpADn.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251204/WlLCpADn_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9536"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (11/24~11/30)",
-        "summary": "",
-        "postId": 9500,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-12-01 07:30:58",
-        "displayTime": "2025-12-03 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251203/6Ppugwcy.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251203/6Ppugwcy_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9500"
     }
 ]

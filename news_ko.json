@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (12/22~12/28)",
+        "summary": "",
+        "postId": 9665,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-12-31 07:06:42",
+        "displayTime": "2025-12-31 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251231/0WpBYMOu.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251231/0WpBYMOu_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9665"
+    },
+    {
         "title": "2025 설맞이 대축제의 귀환",
         "summary": "",
         "postId": 9662,
@@ -127,20 +142,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251204/WlLCpADn.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251204/WlLCpADn_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9536"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (11/24~11/30)",
-        "summary": "",
-        "postId": 9500,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-12-03 06:20:21",
-        "displayTime": "2025-12-03 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251203/4OnUt4Qp.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251203/4OnUt4Qp_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9500"
     }
 ]
