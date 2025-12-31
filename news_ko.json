@@ -1,5 +1,20 @@
 [
     {
+        "title": "2025 설맞이 대축제의 귀환",
+        "summary": "",
+        "postId": 9662,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-12-30 08:10:14",
+        "displayTime": "2025-12-31 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251230/op2UcnNz.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251230/op2UcnNz_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/9662"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (12/15~12/21)",
         "summary": "",
         "postId": 9655,
@@ -127,20 +142,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251203/4OnUt4Qp.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251203/4OnUt4Qp_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9500"
-    },
-    {
-        "title": "PUBG | 발렌시아가",
-        "summary": "발렌시아가 콜라보레이션과 함께 새로운 스타일을 완성해 보세요. ",
-        "postId": 9469,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-12-02 09:27:40",
-        "displayTime": "2025-12-03 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251202/lQL0kFZC.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251202/lQL0kFZC_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9469"
     }
 ]
