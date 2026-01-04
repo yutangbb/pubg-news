@@ -1,5 +1,20 @@
 [
     {
+        "title": "【每周违规账号公示】 12/22~ 12/28",
+        "summary": "【每周违规账号公示】 12/22~ 12/28",
+        "postId": 9665,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-01-04 07:44:02",
+        "displayTime": "2025-12-31 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260104/KnaaKYLD.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260104/KnaaKYLD_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/9665"
+    },
+    {
         "title": "迎新春2025活动返场",
         "summary": "迎新春2025活动返场",
         "postId": 9662,
@@ -13,6 +28,21 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251229/yQLhvAe0.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251229/yQLhvAe0_thumb.png",
         "newsUrl": "https://pubg.com/zh-cn/news/9662"
+    },
+    {
+        "title": "【每周违规账号公示】 12/15~ 12/21",
+        "summary": "【每周违规账号公示】 12/15~ 12/21",
+        "postId": 9655,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-01-04 07:47:17",
+        "displayTime": "2025-12-24 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260104/HzKf5NRv.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260104/HzKf5NRv_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/9655"
     },
     {
         "title": "[开发者日志] 2025年反作弊回顾与未来计划",
@@ -115,35 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251202/fK0GU4h2.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251202/fK0GU4h2_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/9468"
-    },
-    {
-        "title": "地图轮换报告 - 39.1",
-        "summary": "地图轮换报告 - 39.1",
-        "postId": 9467,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-12-02 04:01:14",
-        "displayTime": "2025-12-02 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251202/IYDSAXTf.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251202/IYDSAXTf_thumb.png",
-        "newsUrl": "https://pubg.com/zh-cn/news/9467"
-    },
-    {
-        "title": "39.1 版本更新公告",
-        "summary": "在39.1版本更新中体验新功能和优化内容吧！",
-        "postId": 9466,
-        "category": "patch_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-12-02 06:15:32",
-        "displayTime": "2025-12-02 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251202/QuwRpXuX.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251202/QuwRpXuX_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/9466"
     }
 ]
