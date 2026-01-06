@@ -1,5 +1,20 @@
 [
     {
+        "title": "2026년 1월 상점 안내",
+        "summary": " 2026년 1월 상점 안내에 오신 것을 환영합니다!",
+        "postId": 9637,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-01-06 04:27:16",
+        "displayTime": "2026-01-06 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260106/9Mnrl48O.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260106/9Mnrl48O_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9637"
+    },
+    {
         "title": "맵 서비스 리포트 - 업데이트 39.2",
         "summary": "",
         "postId": 9636,
@@ -131,19 +146,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251217/phHeJier.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251217/phHeJier_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9625"
-    },
-    {
-        "title": "PUBG Players Masters Invitational 참가 팀 및 선수 명단 안내",
-        "summary": "PUBG Players Masters Invitational에 출전하는 참가 팀 및 선수 명단을 공개합니다.",
-        "postId": 9628,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2025-12-16 05:20:56",
-        "displayTime": "2025-12-16 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251216/kyxMjUJD.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251216/kyxMjUJD_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/9628"
     }
 ]

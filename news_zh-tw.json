@@ -1,5 +1,20 @@
 [
     {
+        "title": "2026 年 1 月商店更新",
+        "summary": "歡迎來到 2026 年的第一次商店更新！",
+        "postId": 9637,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-01-05 10:41:49",
+        "displayTime": "2026-01-06 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260105/rimcYN2F.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260105/rimcYN2F_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/9637"
+    },
+    {
         "title": "地圖營運報告 - 版本 39.2",
         "summary": "",
         "postId": 9636,
@@ -130,20 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251204/WlLCpADn.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251204/WlLCpADn_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/9536"
-    },
-    {
-        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (11/24~11/30)",
-        "summary": "",
-        "postId": 9500,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-12-03 07:07:18",
-        "displayTime": "2025-12-03 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251203/0yH2bLts.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251203/0yH2bLts_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/9500"
     }
 ]

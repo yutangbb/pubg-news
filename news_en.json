@@ -1,5 +1,20 @@
 [
     {
+        "title": "January Store Update 2026",
+        "summary": "Welcome to the first Store Update of 2026!",
+        "postId": 9637,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-12-17 05:27:38",
+        "displayTime": "2026-01-06 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251231/WZEQhmu5.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251231/WZEQhmu5_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9637"
+    },
+    {
         "title": "Map Service Report - Update 39.2",
         "summary": "",
         "postId": 9636,
@@ -131,19 +146,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251215/iSeESVJv.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251215/iSeESVJv_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9625"
-    },
-    {
-        "title": "PUBG Players Masters Invitational Participating Teams & Players",
-        "summary": "We are excited to reveal the full list of participating teams and players for the PUBG Players Masters Invitational.",
-        "postId": 9628,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2025-12-16 05:20:56",
-        "displayTime": "2025-12-16 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251216/SFoRyjN5.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251216/SFoRyjN5_thumb.png",
-        "newsUrl": "https://pubg.com/en/news/9628"
     }
 ]

@@ -1,5 +1,20 @@
 [
     {
+        "title": "2026年1月商店公告",
+        "summary": "欢迎查看2026年1月商店公告！",
+        "postId": 9637,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-01-05 11:44:08",
+        "displayTime": "2026-01-06 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260105/eJOWvhSK.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260105/eJOWvhSK_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/9637"
+    },
+    {
         "title": "地图轮换报告 - 39.2",
         "summary": "地图轮换报告 - 39.2",
         "postId": 9636,
@@ -130,20 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251204/WlLCpADn.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251204/WlLCpADn_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/9536"
-    },
-    {
-        "title": "【每周违规账号公示】 11/24~ 11/30",
-        "summary": "【每周违规账号公示】 11/24~ 11/30",
-        "postId": 9500,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-12-09 06:13:59",
-        "displayTime": "2025-12-03 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251209/z6wEaZPJ.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251209/z6wEaZPJ_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/9500"
     }
 ]
