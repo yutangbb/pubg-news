@@ -1,5 +1,35 @@
 [
     {
+        "title": "地圖營運報告 - 版本 39.2",
+        "summary": "",
+        "postId": 9636,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-01-05 10:53:02",
+        "displayTime": "2026-01-06 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260105/eNS36gB8.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260105/eNS36gB8_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/9636"
+    },
+    {
+        "title": "更新項目 - 版本 39.2",
+        "summary": "為您介紹版本 39.2，探索所有最新功能與改進！",
+        "postId": 9635,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-01-06 03:40:48",
+        "displayTime": "2026-01-06 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260106/JeOFW8e1.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260106/JeOFW8e1_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/9635"
+    },
+    {
         "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (12/22~12/28)",
         "summary": "",
         "postId": 9665,
@@ -115,35 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251203/0yH2bLts.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251203/0yH2bLts_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/9500"
-    },
-    {
-        "title": "PUBG | BALENCIAGA",
-        "summary": "踏入由 BALENCIAGA 提升的全新 PUBG 世界。",
-        "postId": 9469,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-12-03 07:02:24",
-        "displayTime": "2025-12-03 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251203/dF2RigPV.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251203/dF2RigPV_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/9469"
-    },
-    {
-        "title": "2025 年 12 月商店更新",
-        "summary": "",
-        "postId": 9468,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-12-02 04:09:22",
-        "displayTime": "2025-12-02 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251202/s1OWcbET.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251202/s1OWcbET_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/9468"
     }
 ]

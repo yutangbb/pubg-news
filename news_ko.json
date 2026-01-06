@@ -1,5 +1,35 @@
 [
     {
+        "title": "맵 서비스 리포트 - 업데이트 39.2",
+        "summary": "",
+        "postId": 9636,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-12-31 05:30:29",
+        "displayTime": "2026-01-06 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251231/lhRmzk6X.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251231/lhRmzk6X_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/9636"
+    },
+    {
+        "title": "패치 노트 - 업데이트 39.2",
+        "summary": "업데이트 39.2에서 신규 기능 및 개선 사항을 만나보세요.",
+        "postId": 9635,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-01-05 11:33:18",
+        "displayTime": "2026-01-06 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260105/JzRBbou7.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260105/JzRBbou7_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9635"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (12/22~12/28)",
         "summary": "",
         "postId": 9665,
@@ -115,32 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251216/kyxMjUJD.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251216/kyxMjUJD_thumb.png",
         "newsUrl": "https://pubg.com/ko/news/9628"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (12/01~12/07)",
-        "summary": "",
-        "postId": 9552,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-12-10 06:34:21",
-        "displayTime": "2025-12-10 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251210/GpoI0Udx.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251210/GpoI0Udx_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9552"
-    },
-    {
-        "title": "이용약관 및 개인정보 처리방침 개정 안내 ",
-        "summary": "",
-        "postId": 9536,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2025-12-04 10:19:24",
-        "displayTime": "2025-12-05 04:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251204/WlLCpADn.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251204/WlLCpADn_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9536"
     }
 ]

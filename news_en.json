@@ -1,5 +1,35 @@
 [
     {
+        "title": "Map Service Report - Update 39.2",
+        "summary": "",
+        "postId": 9636,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-12-17 05:25:08",
+        "displayTime": "2026-01-06 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251229/zPrxeDrS.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251229/zPrxeDrS_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9636"
+    },
+    {
+        "title": "Patch Notes - Update 39.2",
+        "summary": "Introducing Update 39.2: Discover all the latest features and improvements!",
+        "postId": 9635,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2025-12-17 05:22:24",
+        "displayTime": "2026-01-06 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260106/BMjJf93G.webp",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260106/BMjJf93G_thumb.webp",
+        "newsUrl": "https://pubg.com/en/news/9635"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (12/22~12/28)",
         "summary": "",
         "postId": 9665,
@@ -115,32 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251216/SFoRyjN5.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251216/SFoRyjN5_thumb.png",
         "newsUrl": "https://pubg.com/en/news/9628"
-    },
-    {
-        "title": " PUBG: BATTLEGROUNDS Weekly Bans Notice (12/01~12/07) ",
-        "summary": "",
-        "postId": 9552,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-12-08 08:40:29",
-        "displayTime": "2025-12-10 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251208/cYJzSx0N.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251208/cYJzSx0N_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9552"
-    },
-    {
-        "title": "Update to the Terms of Service and Privacy Policy ",
-        "summary": "",
-        "postId": 9536,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2025-12-04 10:19:24",
-        "displayTime": "2025-12-05 04:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251204/WlLCpADn.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251204/WlLCpADn_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9536"
     }
 ]
