@@ -1,5 +1,20 @@
 [
     {
+        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (12/29~01/04)",
+        "summary": "",
+        "postId": 9669,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-01-07 04:04:45",
+        "displayTime": "2026-01-07 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260107/zVUpXjTk.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260107/zVUpXjTk_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/9669"
+    },
+    {
         "title": "2026 年 1 月商店更新",
         "summary": "歡迎來到 2026 年的第一次商店更新！",
         "postId": 9637,
@@ -133,17 +148,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251219/CJcQ7FV4.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251219/CJcQ7FV4_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/9552"
-    },
-    {
-        "title": "服務條款與隱私權政策更新 ",
-        "summary": "",
-        "postId": 9536,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2025-12-04 10:19:24",
-        "displayTime": "2025-12-05 04:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251204/WlLCpADn.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251204/WlLCpADn_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/9536"
     }
 ]
