@@ -1,5 +1,20 @@
 [
     {
+        "title": "【每周违规账号公示】 2025/12/29~ 2026/1/4",
+        "summary": "【每周违规账号公示】 2025/12/29~ 2026/1/4",
+        "postId": 9669,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-01-08 06:43:40",
+        "displayTime": "2026-01-07 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260108/4VfVRHDs.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260108/4VfVRHDs_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/9669"
+    },
+    {
         "title": "2026年1月商店公告",
         "summary": "欢迎查看2026年1月商店公告！",
         "postId": 9637,
@@ -133,17 +148,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251217/islxK6jE.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251217/islxK6jE_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/9552"
-    },
-    {
-        "title": "服务条款和隐私政策更新 ",
-        "summary": "",
-        "postId": 9536,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2025-12-04 10:19:24",
-        "displayTime": "2025-12-05 04:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251204/WlLCpADn.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251204/WlLCpADn_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/9536"
     }
 ]
