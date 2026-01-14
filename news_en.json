@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (01/05~01/11)",
+        "summary": "",
+        "postId": 9682,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-01-12 06:55:37",
+        "displayTime": "2026-01-14 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260112/oShxlvH1.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260112/oShxlvH1_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9682"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (12/29~01/04)",
         "summary": "",
         "postId": 9669,
@@ -132,19 +147,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251218/l3TWE9p2.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251218/l3TWE9p2_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9642"
-    },
-    {
-        "title": "PUBG Players Masters Invitational Broadcast & Co-Streamers",
-        "summary": "We are excited to share the full broadcast and co-streaming details for the PUBG Players Masters Invitational",
-        "postId": 9638,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2025-12-17 08:16:55",
-        "displayTime": "2025-12-17 08:15:40",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251217/RkoA2KcB.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251217/RkoA2KcB_thumb.png",
-        "newsUrl": "https://pubg.com/en/news/9638"
     }
 ]

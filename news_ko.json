@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (01/05~01/11)",
+        "summary": "",
+        "postId": 9682,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-01-12 09:01:11",
+        "displayTime": "2026-01-14 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260112/heTMAHoE.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260112/heTMAHoE_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9682"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (12/29~01/04)",
         "summary": "",
         "postId": 9669,
@@ -132,19 +147,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251218/tS2oMagD.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251218/tS2oMagD_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9642"
-    },
-    {
-        "title": "PUBG Players Masters Invitational 공식 중계 및 공동 스트리밍(co-streaming) 채널 안내",
-        "summary": "다가오는 PUBG Players Masters Invitational의 중계 및 코스트리밍 정보 안내드립니다.\n\n",
-        "postId": 9638,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2025-12-17 08:16:55",
-        "displayTime": "2025-12-17 08:15:40",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251217/nxWElykX.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251217/nxWElykX_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/9638"
     }
 ]
