@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (01/12~01/18)",
+        "summary": "",
+        "postId": 9693,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-01-20 06:44:09",
+        "displayTime": "2026-01-21 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260120/8GLGse3T.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260120/8GLGse3T_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9693"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (01/05~01/11)",
         "summary": "",
         "postId": 9682,
@@ -133,19 +148,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251218/eDCRPCkD.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251218/eDCRPCkD_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9634"
-    },
-    {
-        "title": "PUBG Esports 2026 로드맵 공개",
-        "summary": "2026년, 배틀그라운드 이스포츠가 새로운 도약을 시작합니다",
-        "postId": 9642,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2025-12-18 04:45:11",
-        "displayTime": "2025-12-18 09:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251218/tS2oMagD.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251218/tS2oMagD_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9642"
     }
 ]
