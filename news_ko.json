@@ -1,5 +1,20 @@
 [
     {
+        "title": "2026 PWS: PHASE 1 예선 참가 안내",
+        "summary": "",
+        "postId": 9697,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_esports"
+        ],
+        "createdAt": "2026-01-23 04:56:29",
+        "displayTime": "2026-01-26 04:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260123/8ELt5Ebt.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260123/8ELt5Ebt_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/9697"
+    },
+    {
         "title": "한국 배틀그라운드 이스포츠 2026 연간 일정 안내",
         "summary": "",
         "postId": 9694,
@@ -132,20 +147,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251230/op2UcnNz.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251230/op2UcnNz_thumb.png",
         "newsUrl": "https://pubg.com/ko/news/9662"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (12/15~12/21)",
-        "summary": "",
-        "postId": 9655,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-12-24 02:07:32",
-        "displayTime": "2025-12-24 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251224/tMgVNQJC.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251224/tMgVNQJC_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9655"
     }
 ]
