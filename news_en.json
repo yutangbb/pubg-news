@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (01/19~01/25) ",
+        "summary": "",
+        "postId": 9700,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-01-26 09:08:25",
+        "displayTime": "2026-01-28 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260126/8rQjIW5X.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260126/8rQjIW5X_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9700"
+    },
+    {
         "title": "Weekly Bans Notice (01/12~01/18)",
         "summary": "",
         "postId": 9693,
@@ -133,20 +148,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251223/zGxFfEae.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251223/zGxFfEae_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9655"
-    },
-    {
-        "title": "Dev Letter: 2025 Anti-Cheat Review and Future Plans",
-        "summary": "",
-        "postId": 9634,
-        "category": "dev_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-12-17 05:18:50",
-        "displayTime": "2025-12-19 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251217/sNyZThYr.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251217/sNyZThYr_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9634"
     }
 ]

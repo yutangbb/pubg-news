@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (01/19~01/25)",
+        "summary": "",
+        "postId": 9700,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-01-28 03:16:42",
+        "displayTime": "2026-01-28 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260128/BMPg2Pq8.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260128/BMPg2Pq8_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9700"
+    },
+    {
         "title": "2026 PWS: PHASE 1 예선 참가 안내",
         "summary": "",
         "postId": 9697,
@@ -132,20 +147,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251231/0WpBYMOu.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251231/0WpBYMOu_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9665"
-    },
-    {
-        "title": "2025 설맞이 대축제의 귀환",
-        "summary": "",
-        "postId": 9662,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-12-30 08:10:14",
-        "displayTime": "2025-12-31 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251230/op2UcnNz.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251230/op2UcnNz_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/9662"
     }
 ]
