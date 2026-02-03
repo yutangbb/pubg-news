@@ -1,5 +1,20 @@
 [
     {
+        "title": "2026年2月商店公告",
+        "summary": "欢迎查看2026年2月商店公告！",
+        "postId": 9692,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-02-03 05:24:14",
+        "displayTime": "2026-02-03 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260203/HSYl3ZJ2.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260203/HSYl3ZJ2_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/9692"
+    },
+    {
         "title": "地图轮换报告 – 40.1",
         "summary": "地图轮换报告 – 40.1",
         "postId": 9691,
@@ -133,20 +148,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260104/KnaaKYLD.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260104/KnaaKYLD_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/9665"
-    },
-    {
-        "title": "迎新春2025活动返场",
-        "summary": "迎新春2025活动返场",
-        "postId": 9662,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-12-29 05:42:19",
-        "displayTime": "2025-12-31 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251229/yQLhvAe0.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251229/yQLhvAe0_thumb.png",
-        "newsUrl": "https://pubg.com/zh-cn/news/9662"
     }
 ]
