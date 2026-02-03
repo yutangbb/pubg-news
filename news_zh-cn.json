@@ -1,5 +1,35 @@
 [
     {
+        "title": "地图轮换报告 – 40.1",
+        "summary": "地图轮换报告 – 40.1",
+        "postId": 9691,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-02-03 05:19:48",
+        "displayTime": "2026-02-03 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260203/nPtVSrj4.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260203/nPtVSrj4_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/9691"
+    },
+    {
+        "title": "40.1 版本更新公告",
+        "summary": "在 40.1 版本更新中体验新功能和优化内容吧！",
+        "postId": 9690,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-02-03 05:34:01",
+        "displayTime": "2026-02-03 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260203/dnydFW7N.webp",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260203/dnydFW7N_thumb.webp",
+        "newsUrl": "https://pubg.com/zh-cn/news/9690"
+    },
+    {
         "title": "【每周违规账号公示】1/12~ 1/18",
         "summary": "【每周违规账号公示】1/12~ 1/18",
         "postId": 9693,
@@ -118,35 +148,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251229/yQLhvAe0.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251229/yQLhvAe0_thumb.png",
         "newsUrl": "https://pubg.com/zh-cn/news/9662"
-    },
-    {
-        "title": "【每周违规账号公示】 12/15~ 12/21",
-        "summary": "【每周违规账号公示】 12/15~ 12/21",
-        "postId": 9655,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-01-04 07:47:17",
-        "displayTime": "2025-12-24 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260104/HzKf5NRv.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260104/HzKf5NRv_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/9655"
-    },
-    {
-        "title": "[开发者日志] 2025年反作弊回顾与未来计划",
-        "summary": "[开发者日志] 2025年反作弊回顾与未来计划",
-        "postId": 9634,
-        "category": "dev_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-12-19 06:09:18",
-        "displayTime": "2025-12-19 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251219/waZu1m4c.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251219/waZu1m4c_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/9634"
     }
 ]

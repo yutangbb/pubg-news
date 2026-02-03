@@ -1,5 +1,35 @@
 [
     {
+        "title": "Map Service Report - Update 40.1",
+        "summary": "",
+        "postId": 9691,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-01-19 05:31:49",
+        "displayTime": "2026-02-03 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260130/jvwulW4I.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260130/jvwulW4I_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9691"
+    },
+    {
+        "title": "Patch Notes - Update 40.1",
+        "summary": "Introducing Update 40.1: Discover all the latest features and improvements!",
+        "postId": 9690,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-01-19 05:30:53",
+        "displayTime": "2026-02-03 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260202/OEvi2e0P.webp",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260202/OEvi2e0P_thumb.webp",
+        "newsUrl": "https://pubg.com/en/news/9690"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (01/19~01/25) ",
         "summary": "",
         "postId": 9700,
@@ -118,35 +148,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251229/qiPlbJIX.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251229/qiPlbJIX_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9665"
-    },
-    {
-        "title": "Spring Fest 2025 Returns",
-        "summary": "",
-        "postId": 9662,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-12-23 15:36:20",
-        "displayTime": "2025-12-31 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251229/nhghNhMB.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251229/nhghNhMB_thumb.png",
-        "newsUrl": "https://pubg.com/en/news/9662"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (12/15~12/21)",
-        "summary": "",
-        "postId": 9655,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-12-23 01:43:16",
-        "displayTime": "2025-12-24 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251223/zGxFfEae.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251223/zGxFfEae_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9655"
     }
 ]
