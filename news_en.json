@@ -1,5 +1,20 @@
 [
     {
+        "title": "Spring Fest 2026",
+        "summary": "",
+        "postId": 9707,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-01-27 05:09:39",
+        "displayTime": "2026-02-04 05:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260127/WfpZmv53.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260127/WfpZmv53_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9707"
+    },
+    {
         "title": "February Store Update 2026",
         "summary": "Welcome to the second Store Update of 2026!",
         "postId": 9692,
@@ -133,20 +148,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251229/zPrxeDrS.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251229/zPrxeDrS_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9636"
-    },
-    {
-        "title": "Patch Notes - Update 39.2",
-        "summary": "Introducing Update 39.2: Discover all the latest features and improvements!",
-        "postId": 9635,
-        "category": "patch_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-12-17 05:22:24",
-        "displayTime": "2026-01-06 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260106/BMjJf93G.webp",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260106/BMjJf93G_thumb.webp",
-        "newsUrl": "https://pubg.com/en/news/9635"
     }
 ]
