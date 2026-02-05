@@ -1,5 +1,20 @@
 [
     {
+        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (01/26~02/01)",
+        "summary": "",
+        "postId": 9715,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-02-05 03:34:33",
+        "displayTime": "2026-02-04 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260205/f4HCJcNM.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260205/f4HCJcNM_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/9715"
+    },
+    {
         "title": "春節 2026",
         "summary": "",
         "postId": 9707,
@@ -133,20 +148,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260105/rimcYN2F.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260105/rimcYN2F_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/9637"
-    },
-    {
-        "title": "地圖營運報告 - 版本 39.2",
-        "summary": "",
-        "postId": 9636,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-01-05 10:53:02",
-        "displayTime": "2026-01-06 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260105/eNS36gB8.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260105/eNS36gB8_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/9636"
     }
 ]
