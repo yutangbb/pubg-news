@@ -1,5 +1,19 @@
 [
     {
+        "title": "2026 배틀그라운드 이스포츠: 더 커진 시즌, 더 가까워진 이스포츠",
+        "summary": "",
+        "postId": 9756,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2026-02-06 09:20:20",
+        "displayTime": "2026-02-09 11:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260209/Do79CEtO.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260209/Do79CEtO_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/9756"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (01/26~02/01)",
         "summary": "",
         "postId": 9715,
@@ -132,20 +146,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260120/8GLGse3T.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260120/8GLGse3T_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9693"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (01/05~01/11)",
-        "summary": "",
-        "postId": 9682,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-01-12 09:01:11",
-        "displayTime": "2026-01-14 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260112/heTMAHoE.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260112/heTMAHoE_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9682"
     }
 ]
