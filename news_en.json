@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (02/02~02/08)",
+        "summary": "",
+        "postId": 9757,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-02-09 09:35:38",
+        "displayTime": "2026-02-11 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260209/OPjqvMb2.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260209/OPjqvMb2_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9757"
+    },
+    {
         "title": " PUBG: BATTLEGROUNDS Weekly Bans Notice (01/26~02/01) ",
         "summary": "",
         "postId": 9715,
@@ -133,20 +148,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260105/ovQJPWiE.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260105/ovQJPWiE_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9669"
-    },
-    {
-        "title": "January Store Update 2026",
-        "summary": "Welcome to the first Store Update of 2026!",
-        "postId": 9637,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2025-12-17 05:27:38",
-        "displayTime": "2026-01-06 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251231/WZEQhmu5.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20251231/WZEQhmu5_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9637"
     }
 ]
