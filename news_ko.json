@@ -1,5 +1,19 @@
 [
     {
+        "title": "배틀그라운드 이스포츠 2026 글로벌 파트너 팀 안내",
+        "summary": "",
+        "postId": 9760,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2026-02-11 02:29:43",
+        "displayTime": "2026-02-11 07:28:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260211/7VAnAfQE.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260211/7VAnAfQE_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/9760"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (02/02~02/08)",
         "summary": "",
         "postId": 9757,
@@ -13,6 +27,21 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260211/tNp4S0YO.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260211/tNp4S0YO_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9757"
+    },
+    {
+        "title": "[개발일지] 커뮤니티 피드백 기반 안티치트 대응 계획",
+        "summary": "",
+        "postId": 9761,
+        "category": "dev_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-02-11 07:18:12",
+        "displayTime": "2026-02-11 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260211/AhAZMSge.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260211/AhAZMSge_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9761"
     },
     {
         "title": "2026 배틀그라운드 이스포츠: 더 커진 시즌, 더 가까워진 이스포츠",
@@ -117,34 +146,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260128/BMPg2Pq8.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260128/BMPg2Pq8_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9700"
-    },
-    {
-        "title": "2026 PWS: PHASE 1 예선 참가 안내",
-        "summary": "",
-        "postId": 9697,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_esports"
-        ],
-        "createdAt": "2026-01-23 04:56:29",
-        "displayTime": "2026-01-26 04:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260123/8ELt5Ebt.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260123/8ELt5Ebt_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/9697"
-    },
-    {
-        "title": "한국 배틀그라운드 이스포츠 2026 연간 일정 안내",
-        "summary": "",
-        "postId": 9694,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2026-01-21 06:01:53",
-        "displayTime": "2026-01-23 04:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260123/fTYn0Zg2.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260123/fTYn0Zg2_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/9694"
     }
 ]

@@ -15,6 +15,21 @@
         "newsUrl": "https://pubg.com/en/news/9757"
     },
     {
+        "title": "[Dev Letter] Anti-Cheat Action Plan Based on Community Feedback",
+        "summary": "",
+        "postId": 9761,
+        "category": "dev_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-02-11 07:18:12",
+        "displayTime": "2026-02-11 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260211/AhAZMSge.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260211/AhAZMSge_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9761"
+    },
+    {
         "title": " PUBG: BATTLEGROUNDS Weekly Bans Notice (01/26~02/01) ",
         "summary": "",
         "postId": 9715,
@@ -133,20 +148,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260112/oShxlvH1.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260112/oShxlvH1_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9682"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (12/29~01/04)",
-        "summary": "",
-        "postId": 9669,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-01-05 07:12:13",
-        "displayTime": "2026-01-07 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260105/ovQJPWiE.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260105/ovQJPWiE_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9669"
     }
 ]
