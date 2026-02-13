@@ -1,5 +1,19 @@
 [
     {
+        "title": "2026 펍지 글로벌 시리즈 — 상반기 참가팀 안내",
+        "summary": "",
+        "postId": 9768,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2026-02-13 04:51:41",
+        "displayTime": "2026-02-13 07:22:35",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260213/poOwHIAa.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260213/poOwHIAa_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/9768"
+    },
+    {
         "title": "배틀그라운드 이스포츠 2026 글로벌 파트너 팀 안내",
         "summary": "",
         "postId": 9760,
@@ -131,20 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260202/GLQKWWT8.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260202/GLQKWWT8_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9690"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (01/19~01/25)",
-        "summary": "",
-        "postId": 9700,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-01-28 03:16:42",
-        "displayTime": "2026-01-28 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260128/BMPg2Pq8.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260128/BMPg2Pq8_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9700"
     }
 ]

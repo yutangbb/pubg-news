@@ -1,5 +1,35 @@
 [
     {
+        "title": "【每周违规账号公示】2/2~ 2/8",
+        "summary": "【每周违规账号公示】2/2~ 2/8",
+        "postId": 9757,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-02-13 06:54:52",
+        "displayTime": "2026-02-11 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260213/7gh7aoV7.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260213/7gh7aoV7_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/9757"
+    },
+    {
+        "title": "【每周违规账号公示】1/26~ 2/1",
+        "summary": "【每周违规账号公示】1/26~ 2/1",
+        "postId": 9715,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-02-13 06:55:56",
+        "displayTime": "2026-02-04 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260213/Zopi7PXq.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260213/Zopi7PXq_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/9715"
+    },
+    {
         "title": "迎新春2026",
         "summary": "在2026 迎新春庆典中，尽情探索琳琅满目的全新道具吧！",
         "postId": 9707,
@@ -60,6 +90,21 @@
         "newsUrl": "https://pubg.com/zh-cn/news/9690"
     },
     {
+        "title": "【每周违规账号公示】1/19~ 1/25",
+        "summary": "【每周违规账号公示】1/19~ 1/25",
+        "postId": 9700,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-02-13 06:57:03",
+        "displayTime": "2026-01-28 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260213/9pAW3OB3.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260213/9pAW3OB3_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/9700"
+    },
+    {
         "title": "【每周违规账号公示】1/12~ 1/18",
         "summary": "【每周违规账号公示】1/12~ 1/18",
         "postId": 9693,
@@ -103,50 +148,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260108/4VfVRHDs.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260108/4VfVRHDs_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/9669"
-    },
-    {
-        "title": "2026年1月商店公告",
-        "summary": "欢迎查看2026年1月商店公告！",
-        "postId": 9637,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-01-05 11:44:08",
-        "displayTime": "2026-01-06 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260105/eJOWvhSK.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260105/eJOWvhSK_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/9637"
-    },
-    {
-        "title": "地图轮换报告 - 39.2",
-        "summary": "地图轮换报告 - 39.2",
-        "postId": 9636,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-01-05 11:37:16",
-        "displayTime": "2026-01-06 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260105/0GCF2fEh.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260105/0GCF2fEh_thumb.png",
-        "newsUrl": "https://pubg.com/zh-cn/news/9636"
-    },
-    {
-        "title": "39.2版本更新公告",
-        "summary": "在39.2版本更新中体验新功能和优化内容吧！",
-        "postId": 9635,
-        "category": "patch_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-01-06 05:52:30",
-        "displayTime": "2026-01-06 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260106/6D1zzdhC.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260106/6D1zzdhC_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/9635"
     }
 ]
