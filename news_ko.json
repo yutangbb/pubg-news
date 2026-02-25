@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (02/09~02/22)",
+        "summary": "",
+        "postId": 9777,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-02-25 06:02:47",
+        "displayTime": "2026-02-25 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260225/SQiezUWU.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260225/SQiezUWU_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9777"
+    },
+    {
         "title": "2026 펍지 글로벌 시리즈 — 상반기 참가팀 안내",
         "summary": "",
         "postId": 9768,
@@ -130,20 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260129/lkpshFGT.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260129/lkpshFGT_thumb.png",
         "newsUrl": "https://pubg.com/ko/news/9691"
-    },
-    {
-        "title": "패치 노트 - 업데이트 40.1",
-        "summary": "업데이트 40.1에서 신규 기능 및 개선 사항을 만나보세요.",
-        "postId": 9690,
-        "category": "patch_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-02-02 08:15:38",
-        "displayTime": "2026-02-03 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260202/GLQKWWT8.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260202/GLQKWWT8_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9690"
     }
 ]

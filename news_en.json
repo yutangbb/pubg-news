@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (02/09~02/22)",
+        "summary": "",
+        "postId": 9777,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-02-23 08:01:23",
+        "displayTime": "2026-02-25 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260223/XF16MADP.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260223/XF16MADP_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9777"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (02/02~02/08)",
         "summary": "",
         "postId": 9757,
@@ -133,20 +148,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260119/QMM2swNn.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260119/QMM2swNn_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9693"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (01/05~01/11)",
-        "summary": "",
-        "postId": 9682,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-01-12 06:55:37",
-        "displayTime": "2026-01-14 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260112/oShxlvH1.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260112/oShxlvH1_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9682"
     }
 ]
