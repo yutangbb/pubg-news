@@ -1,5 +1,20 @@
 [
     {
+        "title": "【每周违规账号公示】2/9~ 2/22",
+        "summary": "【每周违规账号公示】2/9~ 2/22",
+        "postId": 9777,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-02-25 09:09:06",
+        "displayTime": "2026-02-25 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260225/B9zaFGbb.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260225/B9zaFGbb_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/9777"
+    },
+    {
         "title": "【每周违规账号公示】2/2~ 2/8",
         "summary": "【每周违规账号公示】2/2~ 2/8",
         "postId": 9757,
@@ -13,6 +28,21 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260213/7gh7aoV7.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260213/7gh7aoV7_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/9757"
+    },
+    {
+        "title": "[开发者日志] 基于社区反馈制定的反作弊执行计划 ",
+        "summary": "[开发者日志] 基于社区反馈制定的反作弊执行计划 ",
+        "postId": 9761,
+        "category": "dev_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-02-25 09:14:37",
+        "displayTime": "2026-02-11 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260225/h5w17qg8.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260225/h5w17qg8_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/9761"
     },
     {
         "title": "【每周违规账号公示】1/26~ 2/1",
@@ -118,35 +148,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260122/HnHy54JT.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260122/HnHy54JT_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/9693"
-    },
-    {
-        "title": "【每周违规账号公示】1/5~ 1/11",
-        "summary": "【每周违规账号公示】1/5~ 1/11",
-        "postId": 9682,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-01-15 08:43:37",
-        "displayTime": "2026-01-14 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260115/ZojQNDLd.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260115/ZojQNDLd_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/9682"
-    },
-    {
-        "title": "【每周违规账号公示】 2025/12/29~ 2026/1/4",
-        "summary": "【每周违规账号公示】 2025/12/29~ 2026/1/4",
-        "postId": 9669,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-01-08 06:43:40",
-        "displayTime": "2026-01-07 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260108/4VfVRHDs.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260108/4VfVRHDs_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/9669"
     }
 ]
