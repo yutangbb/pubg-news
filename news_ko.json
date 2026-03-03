@@ -1,5 +1,19 @@
 [
     {
+        "title": "2026 펍지 글로벌 시리즈의 첫 번째 서킷을 소개합니다!",
+        "summary": "",
+        "postId": 9804,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2026-03-03 06:16:29",
+        "displayTime": "2026-03-03 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260303/R6nV7QFc.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260303/R6nV7QFc_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/9804"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (02/09~02/22)",
         "summary": "",
         "postId": 9777,
@@ -130,20 +144,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260129/d6ojjXx6.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260129/d6ojjXx6_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9692"
-    },
-    {
-        "title": "맵 서비스 리포트 - 업데이트 40.1",
-        "summary": "",
-        "postId": 9691,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-01-29 04:54:52",
-        "displayTime": "2026-02-03 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260129/lkpshFGT.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260129/lkpshFGT_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/9691"
     }
 ]
