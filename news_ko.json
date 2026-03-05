@@ -1,5 +1,20 @@
 [
     {
+        "title": "2026 PUBG 9주년 페스티벌 일반 예매 오픈 및 변경 사항 안내",
+        "summary": "",
+        "postId": 9819,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-03-05 03:04:34",
+        "displayTime": "2026-03-05 09:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260305/2I99NHxq.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260305/2I99NHxq_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9819"
+    },
+    {
         "title": "2026 RACE - PGS PRELUDE 안내",
         "summary": "",
         "postId": 9808,
@@ -128,20 +143,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260209/Do79CEtO.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260209/Do79CEtO_thumb.png",
         "newsUrl": "https://pubg.com/ko/news/9756"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (01/26~02/01)",
-        "summary": "",
-        "postId": 9715,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-02-04 06:06:53",
-        "displayTime": "2026-02-04 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260204/Kzku4JRI.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260204/Kzku4JRI_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9715"
     }
 ]
