@@ -1,5 +1,20 @@
 [
     {
+        "title": "2026年3月商店公告",
+        "summary": "欢迎阅读2026年的第3份商店公告！",
+        "postId": 9805,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-03-10 06:07:27",
+        "displayTime": "2026-03-10 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260310/wQQjCc70.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260310/wQQjCc70_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/9805"
+    },
+    {
         "title": "40.2版本更新公告",
         "summary": "在40.2版本更新中体验新功能和优化内容吧！",
         "postId": 9809,
@@ -133,20 +148,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260203/HSYl3ZJ2.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260203/HSYl3ZJ2_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/9692"
-    },
-    {
-        "title": "地图轮换报告 – 40.1",
-        "summary": "地图轮换报告 – 40.1",
-        "postId": 9691,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-02-03 05:19:48",
-        "displayTime": "2026-02-03 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260203/nPtVSrj4.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260203/nPtVSrj4_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/9691"
     }
 ]

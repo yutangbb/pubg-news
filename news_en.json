@@ -1,5 +1,20 @@
 [
     {
+        "title": "March Store Update 2026 ",
+        "summary": " Welcome to the third Store Update of 2026!",
+        "postId": 9805,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-03-03 08:42:18",
+        "displayTime": "2026-03-10 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260306/PoEWlvAu.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260306/PoEWlvAu_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9805"
+    },
+    {
         "title": "Patch Notes - Update 40.2",
         "summary": "Introducing Update 40.2: Discover all the latest features and improvements!",
         "postId": 9809,
@@ -133,20 +148,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260130/q8Ms3PC2.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260130/q8Ms3PC2_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9692"
-    },
-    {
-        "title": "Map Service Report - Update 40.1",
-        "summary": "",
-        "postId": 9691,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-01-19 05:31:49",
-        "displayTime": "2026-02-03 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260130/jvwulW4I.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260130/jvwulW4I_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9691"
     }
 ]
