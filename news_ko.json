@@ -1,5 +1,35 @@
 [
     {
+        "title": "패치 노트 - 업데이트 40.2",
+        "summary": "업데이트 40.2에서 신규 기능 및 개선 사항을 만나보세요!",
+        "postId": 9809,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-03-09 11:30:00",
+        "displayTime": "2026-03-10 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260309/qDSn3W3a.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260309/qDSn3W3a_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9809"
+    },
+    {
+        "title": "맵 서비스 리포트 - 업데이트 40.2",
+        "summary": "",
+        "postId": 9798,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-03-05 03:29:15",
+        "displayTime": "2026-03-10 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260305/Yt11lyRV.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260305/Yt11lyRV_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/9798"
+    },
+    {
         "title": "2026 PUBG 9주년 페스티벌 일반 예매 오픈 및 변경 사항 안내",
         "summary": "",
         "postId": 9819,
@@ -114,34 +144,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260211/tNp4S0YO.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260211/tNp4S0YO_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9757"
-    },
-    {
-        "title": "[개발일지] 커뮤니티 피드백 기반 안티치트 대응 계획",
-        "summary": "",
-        "postId": 9761,
-        "category": "dev_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-02-11 07:18:12",
-        "displayTime": "2026-02-11 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260211/AhAZMSge.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260211/AhAZMSge_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9761"
-    },
-    {
-        "title": "2026 배틀그라운드 이스포츠: 더 커진 시즌, 더 가까워진 이스포츠",
-        "summary": "",
-        "postId": 9756,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2026-02-06 09:20:20",
-        "displayTime": "2026-02-09 11:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260209/Do79CEtO.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260209/Do79CEtO_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/9756"
     }
 ]

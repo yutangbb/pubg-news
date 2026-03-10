@@ -1,5 +1,35 @@
 [
     {
+        "title": "Patch Notes - Update 40.2",
+        "summary": "Introducing Update 40.2: Discover all the latest features and improvements!",
+        "postId": 9809,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-03-04 05:24:01",
+        "displayTime": "2026-03-10 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260306/meBA6NLd.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260306/meBA6NLd_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9809"
+    },
+    {
+        "title": "Map Service Report - Update 40.2",
+        "summary": "",
+        "postId": 9798,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-02-26 07:27:37",
+        "displayTime": "2026-03-10 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260226/ywjSZjgz.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260226/ywjSZjgz_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9798"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (02/23~03/01) ",
         "summary": "",
         "postId": 9802,
@@ -118,35 +148,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260130/jvwulW4I.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260130/jvwulW4I_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9691"
-    },
-    {
-        "title": "Patch Notes - Update 40.1",
-        "summary": "Introducing Update 40.1: Discover all the latest features and improvements!",
-        "postId": 9690,
-        "category": "patch_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-01-19 05:30:53",
-        "displayTime": "2026-02-03 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260202/OEvi2e0P.webp",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260202/OEvi2e0P_thumb.webp",
-        "newsUrl": "https://pubg.com/en/news/9690"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (01/19~01/25) ",
-        "summary": "",
-        "postId": 9700,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-01-26 09:08:25",
-        "displayTime": "2026-01-28 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260126/8rQjIW5X.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260126/8rQjIW5X_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9700"
     }
 ]

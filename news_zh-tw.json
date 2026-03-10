@@ -1,5 +1,35 @@
 [
     {
+        "title": "更新項目 - 版本 40.2",
+        "summary": "為您介紹版本 40.2，探索所有最新功能與改進！",
+        "postId": 9809,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-03-10 05:11:57",
+        "displayTime": "2026-03-10 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260310/Krm4ArF4.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260310/Krm4ArF4_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/9809"
+    },
+    {
+        "title": "地圖營運報告 - 版本 40.2",
+        "summary": "",
+        "postId": 9798,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-03-10 03:14:59",
+        "displayTime": "2026-03-10 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260310/WPWHmdue.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260310/WPWHmdue_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/9798"
+    },
+    {
         "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (02/09~02/22)",
         "summary": "",
         "postId": 9777,
@@ -118,35 +148,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260203/WkHnUxgC.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260203/WkHnUxgC_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/9690"
-    },
-    {
-        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (01/19~01/25)",
-        "summary": "",
-        "postId": 9700,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-01-29 05:38:17",
-        "displayTime": "2026-01-28 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260129/fX9z7Lez.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260129/fX9z7Lez_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/9700"
-    },
-    {
-        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (01/12~01/18)",
-        "summary": "",
-        "postId": 9693,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-01-29 05:35:48",
-        "displayTime": "2026-01-21 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260129/Uvyio7tf.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260129/Uvyio7tf_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/9693"
     }
 ]
