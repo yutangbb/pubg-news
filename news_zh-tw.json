@@ -1,5 +1,20 @@
 [
     {
+        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (03/02~03/08)",
+        "summary": "",
+        "postId": 9822,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-03-11 03:00:53",
+        "displayTime": "2026-03-11 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260311/TaNoN0by.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260311/TaNoN0by_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/9822"
+    },
+    {
         "title": "2026 年 3 月商店更新",
         "summary": "歡迎來到 2026 年第三次商店更新！",
         "postId": 9805,
@@ -133,20 +148,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260204/XXFYBXuc.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260204/XXFYBXuc_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/9707"
-    },
-    {
-        "title": "2026 年 2 月商店更新",
-        "summary": "歡迎來到 2026 年第二次商店更新！",
-        "postId": 9692,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-02-02 09:49:22",
-        "displayTime": "2026-02-03 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260202/bcE1wsWe.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260202/bcE1wsWe_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/9692"
     }
 ]

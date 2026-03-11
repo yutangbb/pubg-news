@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (03/02~03/08)",
+        "summary": "",
+        "postId": 9822,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-03-11 06:30:23",
+        "displayTime": "2026-03-11 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260311/xen7bfs7.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260311/xen7bfs7_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9822"
+    },
+    {
         "title": "2026년 3월 상점 안내",
         "summary": "2026년 3월 상점 안내에 오신 것을 환영합니다!",
         "postId": 9805,
@@ -130,19 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260213/poOwHIAa.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260213/poOwHIAa_thumb.png",
         "newsUrl": "https://pubg.com/ko/news/9768"
-    },
-    {
-        "title": "배틀그라운드 이스포츠 2026 글로벌 파트너 팀 안내",
-        "summary": "",
-        "postId": 9760,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2026-02-11 02:29:43",
-        "displayTime": "2026-02-11 07:28:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260211/7VAnAfQE.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260211/7VAnAfQE_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/9760"
     }
 ]
