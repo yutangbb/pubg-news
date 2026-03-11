@@ -45,6 +45,21 @@
         "newsUrl": "https://pubg.com/zh-tw/news/9798"
     },
     {
+        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (02/23~03/01)",
+        "summary": "",
+        "postId": 9802,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-03-11 02:51:03",
+        "displayTime": "2026-03-04 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260311/ERBjeJuo.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260311/ERBjeJuo_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/9802"
+    },
+    {
         "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (02/09~02/22)",
         "summary": "",
         "postId": 9777,
@@ -133,20 +148,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260202/bcE1wsWe.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260202/bcE1wsWe_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/9692"
-    },
-    {
-        "title": "地圖營運報告 - 版本 40.1",
-        "summary": "",
-        "postId": 9691,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-02-02 09:23:46",
-        "displayTime": "2026-02-03 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260202/xSYqQ9K9.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260202/xSYqQ9K9_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/9691"
     }
 ]
