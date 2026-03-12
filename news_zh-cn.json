@@ -1,5 +1,20 @@
 [
     {
+        "title": "【每周违规账号公示】3/2~ 3/8",
+        "summary": "【每周违规账号公示】3/2~ 3/8",
+        "postId": 9822,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-03-12 03:14:52",
+        "displayTime": "2026-03-11 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260312/wPEG6Jt1.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260312/wPEG6Jt1_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/9822"
+    },
+    {
         "title": "2026年3月商店公告",
         "summary": "欢迎阅读2026年的第3份商店公告！",
         "postId": 9805,
@@ -133,20 +148,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260204/t65BFHAV.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260204/t65BFHAV_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/9707"
-    },
-    {
-        "title": "2026年2月商店公告",
-        "summary": "欢迎查看2026年2月商店公告！",
-        "postId": 9692,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-02-03 05:24:14",
-        "displayTime": "2026-02-03 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260203/HSYl3ZJ2.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260203/HSYl3ZJ2_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/9692"
     }
 ]
