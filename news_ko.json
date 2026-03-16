@@ -1,5 +1,19 @@
 [
     {
+        "title": "Player of the Day 소개 — 여러분의 투표, 선수들의 스포트라이트",
+        "summary": "",
+        "postId": 9833,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2026-03-13 08:35:53",
+        "displayTime": "2026-03-16 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260313/JZpj8tN3.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260313/JZpj8tN3_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/9833"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (03/02~03/08)",
         "summary": "",
         "postId": 9822,
@@ -131,19 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260225/SQiezUWU.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260225/SQiezUWU_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9777"
-    },
-    {
-        "title": "2026 펍지 글로벌 시리즈 — 상반기 참가팀 안내",
-        "summary": "",
-        "postId": 9768,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2026-02-13 04:51:41",
-        "displayTime": "2026-02-13 07:22:35",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260213/poOwHIAa.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260213/poOwHIAa_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/9768"
     }
 ]
