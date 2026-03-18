@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (03/09~03/15) ",
+        "summary": "",
+        "postId": 9835,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-03-16 07:48:52",
+        "displayTime": "2026-03-18 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260316/9KiDLKRZ.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260316/9KiDLKRZ_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9835"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (03/02~03/08)",
         "summary": "",
         "postId": 9822,
@@ -133,20 +148,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260202/saZyGZ6I.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260202/saZyGZ6I_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9715"
-    },
-    {
-        "title": "Spring Fest 2026",
-        "summary": "",
-        "postId": 9707,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-01-27 05:09:39",
-        "displayTime": "2026-02-04 05:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260127/WfpZmv53.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260127/WfpZmv53_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9707"
     }
 ]

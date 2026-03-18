@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (03/09~03/15)",
+        "summary": "",
+        "postId": 9835,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-03-16 11:21:25",
+        "displayTime": "2026-03-18 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260316/pGO2PcI4.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260316/pGO2PcI4_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9835"
+    },
+    {
         "title": "2026 PUBG 9주년 페스티벌 추가 좌석 예매 안내",
         "summary": "",
         "postId": 9836,
@@ -131,19 +146,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260304/09cZhRgj.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260304/09cZhRgj_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9802"
-    },
-    {
-        "title": "2026 펍지 글로벌 시리즈의 첫 번째 서킷을 소개합니다!",
-        "summary": "",
-        "postId": 9804,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2026-03-03 06:16:29",
-        "displayTime": "2026-03-03 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260303/R6nV7QFc.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260303/R6nV7QFc_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/9804"
     }
 ]
