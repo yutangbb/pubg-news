@@ -1,5 +1,20 @@
 [
     {
+        "title": "2026 PUBG 9주년 페스티벌 추가 좌석 예매 안내",
+        "summary": "",
+        "postId": 9836,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-03-17 04:03:24",
+        "displayTime": "2026-03-18 03:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260317/tGqduwXn.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260317/tGqduwXn_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9836"
+    },
+    {
         "title": "Player of the Day 소개 — 여러분의 투표, 선수들의 스포트라이트",
         "summary": "",
         "postId": 9833,
@@ -130,20 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260303/R6nV7QFc.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260303/R6nV7QFc_thumb.png",
         "newsUrl": "https://pubg.com/ko/news/9804"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (02/09~02/22)",
-        "summary": "",
-        "postId": 9777,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-02-25 06:02:47",
-        "displayTime": "2026-02-25 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260225/SQiezUWU.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260225/SQiezUWU_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9777"
     }
 ]
