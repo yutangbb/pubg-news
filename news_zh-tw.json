@@ -1,5 +1,20 @@
 [
     {
+        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (03/09~03/15)",
+        "summary": "",
+        "postId": 9835,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-03-20 09:32:45",
+        "displayTime": "2026-03-18 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260320/ajhcBJ0A.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260320/ajhcBJ0A_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/9835"
+    },
+    {
         "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (03/02~03/08)",
         "summary": "",
         "postId": 9822,
@@ -133,20 +148,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260205/f4HCJcNM.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260205/f4HCJcNM_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/9715"
-    },
-    {
-        "title": "春節 2026",
-        "summary": "",
-        "postId": 9707,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-02-04 01:32:48",
-        "displayTime": "2026-02-04 05:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260204/XXFYBXuc.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260204/XXFYBXuc_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/9707"
     }
 ]
