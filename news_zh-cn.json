@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG 2026 年度路线图 ",
+        "summary": "PUBG 2026 年度路线图 ",
+        "postId": 9855,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-03-23 08:16:09",
+        "displayTime": "2026-03-23 09:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260323/PcvP3KoA.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260323/PcvP3KoA_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/9855"
+    },
+    {
         "title": "【每周违规账号公示】3/2~ 3/8",
         "summary": "【每周违规账号公示】3/2~ 3/8",
         "postId": 9822,
@@ -133,20 +148,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260213/Zopi7PXq.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260213/Zopi7PXq_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/9715"
-    },
-    {
-        "title": "迎新春2026",
-        "summary": "在2026 迎新春庆典中，尽情探索琳琅满目的全新道具吧！",
-        "postId": 9707,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-02-04 04:56:43",
-        "displayTime": "2026-02-04 05:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260204/t65BFHAV.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260204/t65BFHAV_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/9707"
     }
 ]

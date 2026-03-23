@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS 2026 Roadmap",
+        "summary": "",
+        "postId": 9855,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-03-20 09:13:18",
+        "displayTime": "2026-03-23 09:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260323/uR4jxbm1.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260323/uR4jxbm1_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9855"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (03/09~03/15) ",
         "summary": "",
         "postId": 9835,
@@ -133,20 +148,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260211/AhAZMSge.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260211/AhAZMSge_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9761"
-    },
-    {
-        "title": " PUBG: BATTLEGROUNDS Weekly Bans Notice (01/26~02/01) ",
-        "summary": "",
-        "postId": 9715,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-02-02 08:11:53",
-        "displayTime": "2026-02-04 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260202/saZyGZ6I.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260202/saZyGZ6I_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9715"
     }
 ]
