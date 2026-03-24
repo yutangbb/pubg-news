@@ -1,5 +1,20 @@
 [
     {
+        "title": "2026 PUBG反作弊工作计划",
+        "summary": "2026 PUBG反作弊工作计划",
+        "postId": 9856,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-03-24 07:37:26",
+        "displayTime": "2026-03-24 09:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260324/NlpYtDyO.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260324/NlpYtDyO_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/9856"
+    },
+    {
         "title": "PUBG 2026 年度工作计划",
         "summary": "PUBG 2026 年度工作计划",
         "postId": 9855,
@@ -133,20 +148,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260213/7gh7aoV7.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260213/7gh7aoV7_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/9757"
-    },
-    {
-        "title": "[开发者日志] 基于社区反馈制定的反作弊执行计划 ",
-        "summary": "[开发者日志] 基于社区反馈制定的反作弊执行计划 ",
-        "postId": 9761,
-        "category": "dev_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-02-25 09:14:37",
-        "displayTime": "2026-02-11 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260225/h5w17qg8.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260225/h5w17qg8_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/9761"
     }
 ]

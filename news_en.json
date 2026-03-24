@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS Anti-Cheat 2026 Roadmap",
+        "summary": "",
+        "postId": 9856,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-03-20 09:21:40",
+        "displayTime": "2026-03-24 09:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260324/0DxEF57G.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260324/0DxEF57G_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9856"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS 2026 Roadmap",
         "summary": "",
         "postId": 9855,
@@ -133,20 +148,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260209/OPjqvMb2.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260209/OPjqvMb2_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9757"
-    },
-    {
-        "title": "[Dev Letter] Anti-Cheat Action Plan Based on Community Feedback",
-        "summary": "",
-        "postId": 9761,
-        "category": "dev_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-02-11 07:18:12",
-        "displayTime": "2026-02-11 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260211/AhAZMSge.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260211/AhAZMSge_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9761"
     }
 ]

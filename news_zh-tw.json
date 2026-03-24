@@ -1,5 +1,20 @@
 [
     {
+        "title": "《絕地求生》反作弊 2026 年度計畫",
+        "summary": "",
+        "postId": 9856,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-03-24 09:38:10",
+        "displayTime": "2026-03-24 09:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260324/LjeBYjta.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260324/LjeBYjta_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/9856"
+    },
+    {
         "title": "《絕地求生》2026 年度計畫",
         "summary": "",
         "postId": 9855,
@@ -133,20 +148,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260211/O8AOw9Au.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260211/O8AOw9Au_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/9761"
-    },
-    {
-        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (02/02~02/08)",
-        "summary": "",
-        "postId": 9757,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-02-23 08:24:21",
-        "displayTime": "2026-02-11 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260223/r0ag7J2u.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260223/r0ag7J2u_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/9757"
     }
 ]
