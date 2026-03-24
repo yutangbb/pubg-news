@@ -1,5 +1,35 @@
 [
     {
+        "title": "2026 PUBG 9주년 페스티벌 방문 관련 안내",
+        "summary": "",
+        "postId": 9863,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-03-24 02:31:42",
+        "displayTime": "2026-03-24 03:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260324/Bi0gGvG4.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260324/Bi0gGvG4_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9863"
+    },
+    {
+        "title": "2026 PUBG 9주년 페스티벌 콘텐츠 안내",
+        "summary": "",
+        "postId": 9862,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-03-24 02:19:27",
+        "displayTime": "2026-03-24 03:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260324/SiufInnn.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260324/SiufInnn_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9862"
+    },
+    {
         "title": "PUBG: 배틀그라운드 2026 로드맵",
         "summary": "",
         "postId": 9855,
@@ -117,34 +147,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260305/Yt11lyRV.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260305/Yt11lyRV_thumb.png",
         "newsUrl": "https://pubg.com/ko/news/9798"
-    },
-    {
-        "title": "2026 PUBG 9주년 페스티벌 일반 예매 오픈 및 변경 사항 안내",
-        "summary": "",
-        "postId": 9819,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-03-05 03:04:34",
-        "displayTime": "2026-03-05 09:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260305/2I99NHxq.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260305/2I99NHxq_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9819"
-    },
-    {
-        "title": "2026 RACE - PGS PRELUDE 안내",
-        "summary": "",
-        "postId": 9808,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2026-03-04 04:57:15",
-        "displayTime": "2026-03-04 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260304/kAlmd8kx.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260304/kAlmd8kx_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/9808"
     }
 ]
