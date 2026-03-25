@@ -1,5 +1,34 @@
 [
     {
+        "title": "PGS 2 — 3월 26일에 이어집니다!",
+        "summary": "",
+        "postId": 9877,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2026-03-25 06:34:07",
+        "displayTime": "2026-03-25 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260325/7VQqvHnT.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260325/7VQqvHnT_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/9877"
+    },
+    {
+        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (03/16~03/22)",
+        "summary": "",
+        "postId": 9861,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-03-25 06:14:32",
+        "displayTime": "2026-03-25 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260325/qk5QUGEt.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260325/qk5QUGEt_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9861"
+    },
+    {
         "title": "PUBG: 배틀그라운드 안티치트 2026 로드맵",
         "summary": "",
         "postId": 9856,
@@ -117,35 +146,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260311/xen7bfs7.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260311/xen7bfs7_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9822"
-    },
-    {
-        "title": "2026년 3월 상점 안내",
-        "summary": "2026년 3월 상점 안내에 오신 것을 환영합니다!",
-        "postId": 9805,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-03-10 02:38:11",
-        "displayTime": "2026-03-10 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260310/JUOtlWar.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260310/JUOtlWar_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9805"
-    },
-    {
-        "title": "패치 노트 - 업데이트 40.2",
-        "summary": "업데이트 40.2에서 신규 기능 및 개선 사항을 만나보세요!",
-        "postId": 9809,
-        "category": "patch_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-03-09 11:30:00",
-        "displayTime": "2026-03-10 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260309/qDSn3W3a.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260309/qDSn3W3a_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9809"
     }
 ]
