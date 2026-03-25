@@ -1,5 +1,20 @@
 [
     {
+        "title": "【每周违规账号公示】3/16~ 3/22",
+        "summary": "【每周违规账号公示】3/16~ 3/22",
+        "postId": 9861,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-03-25 07:47:05",
+        "displayTime": "2026-03-25 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260325/E8otY7dI.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260325/E8otY7dI_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/9861"
+    },
+    {
         "title": "2026 PUBG反作弊工作计划",
         "summary": "2026 PUBG反作弊工作计划",
         "postId": 9856,
@@ -133,20 +148,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260225/B9zaFGbb.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260225/B9zaFGbb_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/9777"
-    },
-    {
-        "title": "【每周违规账号公示】2/2~ 2/8",
-        "summary": "【每周违规账号公示】2/2~ 2/8",
-        "postId": 9757,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-02-13 06:54:52",
-        "displayTime": "2026-02-11 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260213/7gh7aoV7.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260213/7gh7aoV7_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/9757"
     }
 ]
