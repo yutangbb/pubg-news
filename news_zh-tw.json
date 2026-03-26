@@ -1,5 +1,35 @@
 [
     {
+        "title": "PUBG 吃雞座談直播秀！",
+        "summary": "",
+        "postId": 9879,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-03-26 08:23:55",
+        "displayTime": "2026-03-26 05:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260326/xKDf5wyv.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260326/xKDf5wyv_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/9879"
+    },
+    {
+        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (03/16~03/22)",
+        "summary": "",
+        "postId": 9861,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-03-26 08:18:28",
+        "displayTime": "2026-03-25 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260326/IGMw9myV.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260326/IGMw9myV_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/9861"
+    },
+    {
         "title": "《絕地求生》反作弊 2026 年度計畫",
         "summary": "",
         "postId": 9856,
@@ -118,35 +148,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260311/ERBjeJuo.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260311/ERBjeJuo_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/9802"
-    },
-    {
-        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (02/09~02/22)",
-        "summary": "",
-        "postId": 9777,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-03-03 06:50:47",
-        "displayTime": "2026-02-25 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260303/AHtyCT2F.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260303/AHtyCT2F_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/9777"
-    },
-    {
-        "title": "開發者信件：根據社群回饋制定的反作弊行動計畫",
-        "summary": "我們根據社群回饋整理出四項反作弊重點，包含降低誤鎖、強化家機未授權裝置偵測、打擊語音廣告濫用，以及追加違規軟體處置。本次公告說明具體措施與實施時程，持續守護公平對戰環境。",
-        "postId": 9761,
-        "category": "dev_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-02-11 09:49:01",
-        "displayTime": "2026-02-11 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260211/O8AOw9Au.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260211/O8AOw9Au_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/9761"
     }
 ]
