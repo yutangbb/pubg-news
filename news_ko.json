@@ -1,5 +1,20 @@
 [
     {
+        "title": "아케이드: 숨바꼭질",
+        "summary": "사물로 변장해 자연스럽게 주변에 섞이거나, 수상한 가짜를 찾아 제거하세요!",
+        "postId": 9889,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-03-31 01:40:56",
+        "displayTime": "2026-03-31 05:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260331/TI866M5A.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260331/TI866M5A_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9889"
+    },
+    {
         "title": "PGS 2 — 3월 26일에 이어집니다!",
         "summary": "",
         "postId": 9877,
@@ -131,20 +146,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260313/JZpj8tN3.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260313/JZpj8tN3_thumb.png",
         "newsUrl": "https://pubg.com/ko/news/9833"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (03/02~03/08)",
-        "summary": "",
-        "postId": 9822,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-03-11 06:30:23",
-        "displayTime": "2026-03-11 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260311/xen7bfs7.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260311/xen7bfs7_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9822"
     }
 ]

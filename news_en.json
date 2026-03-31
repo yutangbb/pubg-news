@@ -1,5 +1,20 @@
 [
     {
+        "title": "Arcade: Prop Hunt",
+        "summary": "Disguise as a Prop to hide in plain sight, or hunt down and eliminate suspicious fakes!",
+        "postId": 9889,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-03-27 01:06:23",
+        "displayTime": "2026-03-31 05:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260327/pJwDpM0c.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260327/pJwDpM0c_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9889"
+    },
+    {
         "title": "PUBG Chicken Dinner TALK Live Show!",
         "summary": "",
         "postId": 9879,
@@ -133,20 +148,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260226/ywjSZjgz.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260226/ywjSZjgz_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9798"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (02/23~03/01) ",
-        "summary": "",
-        "postId": 9802,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-03-03 02:25:00",
-        "displayTime": "2026-03-04 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260303/QpZPP0w9.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260303/QpZPP0w9_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9802"
     }
 ]
