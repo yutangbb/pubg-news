@@ -1,5 +1,20 @@
 [
     {
+        "title": "街機模式：躲貓貓",
+        "summary": "偽裝成地圖物件隱匿行蹤，或是揪出並除掉可疑的冒牌貨！",
+        "postId": 9889,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-03-31 07:32:42",
+        "displayTime": "2026-03-31 05:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260331/6sbnQMOf.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260331/6sbnQMOf_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/9889"
+    },
+    {
         "title": "PUBG 吃雞座談直播秀！",
         "summary": "",
         "postId": 9879,
@@ -133,20 +148,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260310/WPWHmdue.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260310/WPWHmdue_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/9798"
-    },
-    {
-        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (02/23~03/01)",
-        "summary": "",
-        "postId": 9802,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-03-11 02:51:03",
-        "displayTime": "2026-03-04 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260311/ERBjeJuo.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260311/ERBjeJuo_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/9802"
     }
 ]
