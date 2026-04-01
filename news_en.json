@@ -1,5 +1,17 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (03/23~03/29)",
+        "summary": "",
+        "postId": 9901,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2026-03-30 08:28:30",
+        "displayTime": "2026-04-01 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260330/iMv2u6Oj.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260330/iMv2u6Oj_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9901"
+    },
+    {
         "title": "Arcade: Prop Hunt",
         "summary": "Disguise as a Prop to hide in plain sight, or hunt down and eliminate suspicious fakes!",
         "postId": 9889,
@@ -133,20 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260306/meBA6NLd.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260306/meBA6NLd_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9809"
-    },
-    {
-        "title": "Map Service Report - Update 40.2",
-        "summary": "",
-        "postId": 9798,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-02-26 07:27:37",
-        "displayTime": "2026-03-10 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260226/ywjSZjgz.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260226/ywjSZjgz_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9798"
     }
 ]

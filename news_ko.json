@@ -14,6 +14,18 @@
         "newsUrl": "https://pubg.com/ko/news/9906"
     },
     {
+        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (03/23~03/29)",
+        "summary": "",
+        "postId": 9901,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2026-04-01 01:13:18",
+        "displayTime": "2026-04-01 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260401/yAzxaC88.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260401/yAzxaC88_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9901"
+    },
+    {
         "title": "아케이드: 숨바꼭질",
         "summary": "사물로 변장해 자연스럽게 주변에 섞이거나, 수상한 가짜를 찾아 제거하세요!",
         "postId": 9889,
@@ -131,20 +143,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260316/pGO2PcI4.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260316/pGO2PcI4_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9835"
-    },
-    {
-        "title": "2026 PUBG 9주년 페스티벌 추가 좌석 예매 안내",
-        "summary": "",
-        "postId": 9836,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-03-17 04:03:24",
-        "displayTime": "2026-03-18 03:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260317/tGqduwXn.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260317/tGqduwXn_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9836"
     }
 ]
