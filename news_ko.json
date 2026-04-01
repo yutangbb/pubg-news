@@ -1,5 +1,19 @@
 [
     {
+        "title": "PGS 3 — 4월 2일, 챔피언을 향한 여정을 시작합니다!",
+        "summary": "",
+        "postId": 9906,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2026-04-01 03:25:19",
+        "displayTime": "2026-04-01 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260401/YJVFNP9t.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260401/YJVFNP9t_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/9906"
+    },
+    {
         "title": "아케이드: 숨바꼭질",
         "summary": "사물로 변장해 자연스럽게 주변에 섞이거나, 수상한 가짜를 찾아 제거하세요!",
         "postId": 9889,
@@ -132,19 +146,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260317/tGqduwXn.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260317/tGqduwXn_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9836"
-    },
-    {
-        "title": "Player of the Day 소개 — 여러분의 투표, 선수들의 스포트라이트",
-        "summary": "",
-        "postId": 9833,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2026-03-13 08:35:53",
-        "displayTime": "2026-03-16 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260313/JZpj8tN3.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260313/JZpj8tN3_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/9833"
     }
 ]
