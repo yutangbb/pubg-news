@@ -1,5 +1,19 @@
 [
     {
+        "title": "PGS 3와 함께하는 쏟아지는 이벤트 안내!",
+        "summary": "",
+        "postId": 9916,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2026-04-02 06:16:50",
+        "displayTime": "2026-04-02 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260402/VoxRIBvO.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260402/VoxRIBvO_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/9916"
+    },
+    {
         "title": "PGS 3 — 4월 2일, 챔피언을 향한 여정을 시작합니다!",
         "summary": "",
         "postId": 9906,
@@ -128,20 +142,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260323/WGTb5nsH.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260323/WGTb5nsH_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9855"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (03/09~03/15)",
-        "summary": "",
-        "postId": 9835,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-03-16 11:21:25",
-        "displayTime": "2026-03-18 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260316/pGO2PcI4.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260316/pGO2PcI4_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9835"
     }
 ]
