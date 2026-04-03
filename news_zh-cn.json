@@ -1,5 +1,17 @@
 [
     {
+        "title": "【每周违规账号公示】3/23~ 3/29",
+        "summary": "【每周违规账号公示】3/23~ 3/29",
+        "postId": 9901,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2026-04-03 06:38:18",
+        "displayTime": "2026-04-01 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260403/jiXAC67G.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260403/jiXAC67G_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/9901"
+    },
+    {
         "title": "街机模式：物品狩猎",
         "summary": "变身于物品隐藏在周围环境中，或是寻找奇怪的假物品吧！",
         "postId": 9889,
@@ -133,20 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260310/g1o46GPc.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260310/g1o46GPc_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/9798"
-    },
-    {
-        "title": "【每周违规账号公示】2/23~ 3/01",
-        "summary": "【每周违规账号公示】2/23~ 3/01",
-        "postId": 9802,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-03-10 06:28:41",
-        "displayTime": "2026-03-04 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260310/r4bIES0s.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260310/r4bIES0s_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/9802"
     }
 ]
