@@ -1,5 +1,35 @@
 [
     {
+        "title": "2026年4月商店公告",
+        "summary": "欢迎阅读2026年的第4份商店公告！",
+        "postId": 9892,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-04-07 05:48:23",
+        "displayTime": "2026-04-07 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260407/fq5sQkzL.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260407/fq5sQkzL_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/9892"
+    },
+    {
+        "title": "地图轮换报告 – 41.1",
+        "summary": "亲爱的玩家朋友们，大家好！\n欢迎查阅41.1版更新的各地区地图人气度和地图轮换报告。",
+        "postId": 9890,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-04-07 05:46:00",
+        "displayTime": "2026-04-07 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260407/wINgdq7A.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260407/wINgdq7A_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/9890"
+    },
+    {
         "title": "【每周违规账号公示】3/23~ 3/29",
         "summary": "【每周违规账号公示】3/23~ 3/29",
         "postId": 9901,
@@ -115,35 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260310/wQQjCc70.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260310/wQQjCc70_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/9805"
-    },
-    {
-        "title": "40.2版本更新公告",
-        "summary": "在40.2版本更新中体验新功能和优化内容吧！",
-        "postId": 9809,
-        "category": "patch_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-03-10 05:51:30",
-        "displayTime": "2026-03-10 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260310/iOGUAlrK.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260310/iOGUAlrK_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/9809"
-    },
-    {
-        "title": "地图轮换报告 – 40.2",
-        "summary": "亲爱的玩家朋友们，大家好！\n欢迎查阅40.2版更新的各地区地图人气度和地图轮换报告。",
-        "postId": 9798,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-03-10 05:58:15",
-        "displayTime": "2026-03-10 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260310/g1o46GPc.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260310/g1o46GPc_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/9798"
     }
 ]
