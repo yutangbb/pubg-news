@@ -1,5 +1,35 @@
 [
     {
+        "title": "41.1版本更新公告",
+        "summary": "在41.1版本更新中体验新功能和优化内容吧！",
+        "postId": 9926,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-04-08 07:37:51",
+        "displayTime": "2026-04-08 07:05:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260408/nF3o0Qcy.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260408/nF3o0Qcy_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/9926"
+    },
+    {
+        "title": "PUBG x 剑星",
+        "summary": "PUBG x 剑星",
+        "postId": 9893,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-04-08 03:44:19",
+        "displayTime": "2026-04-08 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260408/0H5MGPn9.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260408/0H5MGPn9_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/9893"
+    },
+    {
         "title": "新模式：星际乱斗",
         "summary": "击退入侵米拉玛的敌人！",
         "postId": 9844,
@@ -115,35 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260324/NlpYtDyO.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260324/NlpYtDyO_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/9856"
-    },
-    {
-        "title": "PUBG 2026 年度工作计划",
-        "summary": "PUBG 2026 年度工作计划",
-        "postId": 9855,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-03-23 08:16:09",
-        "displayTime": "2026-03-23 09:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260323/PcvP3KoA.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260323/PcvP3KoA_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/9855"
-    },
-    {
-        "title": "【每周违规账号公示】3/9~ 3/15",
-        "summary": "【每周违规账号公示】3/9~ 3/15",
-        "postId": 9835,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-03-24 07:40:59",
-        "displayTime": "2026-03-18 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260324/mmPdsk8Q.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260324/mmPdsk8Q_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/9835"
     }
 ]

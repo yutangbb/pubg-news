@@ -1,5 +1,50 @@
 [
     {
+        "title": "패치 노트 - 업데이트 41.1",
+        "summary": "업데이트 41.1에서 신규 기능 및 개선 사항을 만나보세요.",
+        "postId": 9926,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-04-08 07:37:51",
+        "displayTime": "2026-04-08 07:05:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260408/nF3o0Qcy.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260408/nF3o0Qcy_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9926"
+    },
+    {
+        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (03/30~04/05)",
+        "summary": "",
+        "postId": 9919,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-04-08 06:25:42",
+        "displayTime": "2026-04-08 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260408/UMR5Wwjt.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260408/UMR5Wwjt_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9919"
+    },
+    {
+        "title": "PUBG x 스텔라 블레이드",
+        "summary": "",
+        "postId": 9893,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-04-06 10:47:16",
+        "displayTime": "2026-04-08 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260406/1Lzc6sHp.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260406/1Lzc6sHp_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/9893"
+    },
+    {
         "title": "신규 모드: 제노 포인트",
         "summary": "미라마를 침공한 적에 맞서 싸우세요!",
         "postId": 9844,
@@ -100,46 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260401/YJVFNP9t.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260401/YJVFNP9t_thumb.png",
         "newsUrl": "https://pubg.com/ko/news/9906"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (03/23~03/29)",
-        "summary": "",
-        "postId": 9901,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2026-04-01 01:13:18",
-        "displayTime": "2026-04-01 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260401/yAzxaC88.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260401/yAzxaC88_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9901"
-    },
-    {
-        "title": "아케이드: 숨바꼭질",
-        "summary": "사물로 변장해 자연스럽게 주변에 섞이거나, 수상한 가짜를 찾아 제거하세요!",
-        "postId": 9889,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-03-31 01:40:56",
-        "displayTime": "2026-03-31 05:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260331/TI866M5A.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260331/TI866M5A_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9889"
-    },
-    {
-        "title": "PGS 2 — 3월 26일에 이어집니다!",
-        "summary": "",
-        "postId": 9877,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2026-03-25 06:34:07",
-        "displayTime": "2026-03-25 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260325/7VQqvHnT.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260325/7VQqvHnT_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/9877"
     }
 ]

@@ -1,5 +1,50 @@
 [
     {
+        "title": "Patch Notes - Update 41.1",
+        "summary": " Introducing Update 41.1: Discover all the latest features and improvements!",
+        "postId": 9926,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-04-08 07:37:51",
+        "displayTime": "2026-04-08 07:05:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260408/nF3o0Qcy.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260408/nF3o0Qcy_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9926"
+    },
+    {
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (03/30~04/05)",
+        "summary": "",
+        "postId": 9919,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-04-06 06:31:53",
+        "displayTime": "2026-04-08 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260406/Th4aT0Sg.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260406/Th4aT0Sg_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9919"
+    },
+    {
+        "title": "PUBG x Stellar Blade",
+        "summary": "",
+        "postId": 9893,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-03-27 02:52:07",
+        "displayTime": "2026-04-08 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260406/pH1S5wtK.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260406/pH1S5wtK_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9893"
+    },
+    {
         "title": "New Mode: Xeno Point",
         "summary": " Fight back against the enemy invading Miramar!",
         "postId": 9844,
@@ -100,50 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260325/5pzpbbee.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260325/5pzpbbee_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9879"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (03/16~03/22) ",
-        "summary": "",
-        "postId": 9861,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-03-23 08:26:40",
-        "displayTime": "2026-03-25 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260323/6UHnd39w.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260323/6UHnd39w_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9861"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Anti-Cheat 2026 Roadmap",
-        "summary": "",
-        "postId": 9856,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-03-20 09:21:40",
-        "displayTime": "2026-03-24 09:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260324/0DxEF57G.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260324/0DxEF57G_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9856"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 2026 Roadmap",
-        "summary": "",
-        "postId": 9855,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-03-20 09:13:18",
-        "displayTime": "2026-03-23 09:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260323/uR4jxbm1.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260323/uR4jxbm1_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9855"
     }
 ]
