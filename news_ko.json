@@ -1,5 +1,34 @@
 [
     {
+        "title": "신규 모드: 제노 포인트",
+        "summary": "미라마를 침공한 적에 맞서 싸우세요!",
+        "postId": 9844,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-04-07 08:32:52",
+        "displayTime": "2026-04-08 05:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260407/CD5agTLl.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260407/CD5agTLl_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9844"
+    },
+    {
+        "title": "2026 PWS: PHASE 1 본선 안내",
+        "summary": "",
+        "postId": 9922,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2026-04-08 01:22:40",
+        "displayTime": "2026-04-08 04:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260408/d2a8Du7K.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260408/d2a8Du7K_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/9922"
+    },
+    {
         "title": "2026년 4월 상점 안내",
         "summary": "2026년 4월 상점 안내에 오신 것을 환영합니다!",
         "postId": 9892,
@@ -112,35 +141,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260325/7VQqvHnT.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260325/7VQqvHnT_thumb.png",
         "newsUrl": "https://pubg.com/ko/news/9877"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (03/16~03/22)",
-        "summary": "",
-        "postId": 9861,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-03-25 06:14:32",
-        "displayTime": "2026-03-25 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260325/qk5QUGEt.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260325/qk5QUGEt_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9861"
-    },
-    {
-        "title": "PUBG: 배틀그라운드 안티치트 2026 로드맵",
-        "summary": "",
-        "postId": 9856,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-03-23 09:56:43",
-        "displayTime": "2026-03-24 09:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260323/cq7VGeIA.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260323/cq7VGeIA_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/9856"
     }
 ]

@@ -1,5 +1,20 @@
 [
     {
+        "title": "New Mode: Xeno Point",
+        "summary": " Fight back against the enemy invading Miramar!",
+        "postId": 9844,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-03-19 05:59:49",
+        "displayTime": "2026-04-08 05:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260407/Ikj191w4.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260407/Ikj191w4_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9844"
+    },
+    {
         "title": "April Store Update 2026",
         "summary": " Welcome to the fourth Store Update of 2026!",
         "postId": 9892,
@@ -130,20 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260323/uR4jxbm1.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260323/uR4jxbm1_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9855"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (03/09~03/15) ",
-        "summary": "",
-        "postId": 9835,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-03-16 07:48:52",
-        "displayTime": "2026-03-18 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260316/9KiDLKRZ.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260316/9KiDLKRZ_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9835"
     }
 ]
