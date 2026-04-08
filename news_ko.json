@@ -44,21 +44,6 @@
         "newsUrl": "https://pubg.com/ko/news/9892"
     },
     {
-        "title": "패치 노트 - 업데이트 41.1",
-        "summary": "업데이트 41.1에서 신규 기능 및 개선 사항을 만나보세요.",
-        "postId": 9891,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-04-06 12:34:26",
-        "displayTime": "2026-04-07 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260406/4GuBawz6.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260406/4GuBawz6_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9891"
-    },
-    {
         "title": "맵 서비스 리포트 - 업데이트 41.1",
         "summary": "",
         "postId": 9890,
@@ -72,6 +57,21 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260402/5jcNS73g.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260402/5jcNS73g_thumb.png",
         "newsUrl": "https://pubg.com/ko/news/9890"
+    },
+    {
+        "title": "패치 노트 - 업데이트 41.1",
+        "summary": "업데이트 41.1에서 신규 기능 및 개선 사항을 만나보세요.",
+        "postId": 9891,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-04-06 12:34:26",
+        "displayTime": "2026-04-07 04:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260406/4GuBawz6.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260406/4GuBawz6_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9891"
     },
     {
         "title": "PGS 3와 함께하는 쏟아지는 이벤트 안내!",

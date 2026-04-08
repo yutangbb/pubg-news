@@ -30,21 +30,6 @@
         "newsUrl": "https://pubg.com/en/news/9892"
     },
     {
-        "title": "Patch Notes - Update 41.1",
-        "summary": " Introducing Update 41.1: Discover all the latest features and improvements!",
-        "postId": 9891,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-03-27 02:50:19",
-        "displayTime": "2026-04-07 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260406/zEqwauov.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260406/zEqwauov_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9891"
-    },
-    {
         "title": "Map Service Report - Update 41.1",
         "summary": "",
         "postId": 9890,
@@ -58,6 +43,21 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260327/Nfxgn4rZ.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260327/Nfxgn4rZ_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9890"
+    },
+    {
+        "title": "Patch Notes - Update 41.1",
+        "summary": " Introducing Update 41.1: Discover all the latest features and improvements!",
+        "postId": 9891,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-03-27 02:50:19",
+        "displayTime": "2026-04-07 04:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260406/zEqwauov.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260406/zEqwauov_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9891"
     },
     {
         "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (03/23~03/29)",

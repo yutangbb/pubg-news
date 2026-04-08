@@ -1,5 +1,20 @@
 [
     {
+        "title": "全新模式：異星突襲",
+        "summary": "擊退入侵 Miramar 的敵人！",
+        "postId": 9844,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-04-08 05:36:45",
+        "displayTime": "2026-04-08 05:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260408/plJVvIi7.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260408/plJVvIi7_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/9844"
+    },
+    {
         "title": "2026 年 4 月商店更新",
         "summary": "歡迎來到 2026 年第四次商店更新！",
         "postId": 9892,
@@ -15,21 +30,6 @@
         "newsUrl": "https://pubg.com/zh-tw/news/9892"
     },
     {
-        "title": "更新項目 - 版本 41.1",
-        "summary": "為您介紹版本 41.1，探索所有最新功能與改進！",
-        "postId": 9891,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-04-07 05:06:28",
-        "displayTime": "2026-04-07 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260407/n3cxDm4U.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260407/n3cxDm4U_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/9891"
-    },
-    {
         "title": "地圖營運報告 - 版本 41.1",
         "summary": "",
         "postId": 9890,
@@ -43,6 +43,21 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260407/SYiDANu1.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260407/SYiDANu1_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/9890"
+    },
+    {
+        "title": "更新項目 - 版本 41.1",
+        "summary": "為您介紹版本 41.1，探索所有最新功能與改進！",
+        "postId": 9891,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-04-07 05:06:28",
+        "displayTime": "2026-04-07 04:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260407/n3cxDm4U.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260407/n3cxDm4U_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/9891"
     },
     {
         "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (03/23~03/29)",
@@ -130,20 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260323/qYuWNmAn.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260323/qYuWNmAn_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/9855"
-    },
-    {
-        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (03/09~03/15)",
-        "summary": "",
-        "postId": 9835,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-03-20 09:32:45",
-        "displayTime": "2026-03-18 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260320/ajhcBJ0A.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260320/ajhcBJ0A_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/9835"
     }
 ]
