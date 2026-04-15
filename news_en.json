@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (04/06~04/12) ",
+        "summary": "",
+        "postId": 9944,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-04-14 02:04:55",
+        "displayTime": "2026-04-15 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260414/IM9VU0Av.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260414/IM9VU0Av_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9944"
+    },
+    {
         "title": "Patch Notes - Update 41.1",
         "summary": " Introducing Update 41.1: Discover all the latest features and improvements!",
         "postId": 9926,
@@ -130,20 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260327/pJwDpM0c.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260327/pJwDpM0c_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9889"
-    },
-    {
-        "title": "PUBG Chicken Dinner TALK Live Show!",
-        "summary": "",
-        "postId": 9879,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-03-25 08:40:29",
-        "displayTime": "2026-03-26 05:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260325/5pzpbbee.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260325/5pzpbbee_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9879"
     }
 ]

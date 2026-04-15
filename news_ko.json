@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (04/06~04/12)",
+        "summary": "",
+        "postId": 9944,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-04-15 06:10:16",
+        "displayTime": "2026-04-15 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260415/KZPoTIcZ.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260415/KZPoTIcZ_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9944"
+    },
+    {
         "title": "패치 노트 - 업데이트 41.1",
         "summary": "업데이트 41.1에서 신규 기능 및 개선 사항을 만나보세요.",
         "postId": 9926,
@@ -131,19 +146,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260402/VoxRIBvO.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260402/VoxRIBvO_thumb.png",
         "newsUrl": "https://pubg.com/ko/news/9916"
-    },
-    {
-        "title": "PGS 3 — 4월 2일, 챔피언을 향한 여정을 시작합니다!",
-        "summary": "",
-        "postId": 9906,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2026-04-01 03:25:19",
-        "displayTime": "2026-04-01 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260401/YJVFNP9t.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260401/YJVFNP9t_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/9906"
     }
 ]
