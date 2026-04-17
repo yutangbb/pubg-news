@@ -1,5 +1,20 @@
 [
     {
+        "title": "[Dev Letter] Anti-Cheat System Improvements",
+        "summary": "False Ban Reduction, Console Measures, and Macro Detection",
+        "postId": 9935,
+        "category": "dev_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-04-10 07:00:57",
+        "displayTime": "2026-04-17 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260410/Fjegpq5f.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260410/Fjegpq5f_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9935"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (04/06~04/12) ",
         "summary": "",
         "postId": 9944,
@@ -130,20 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260330/iMv2u6Oj.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260330/iMv2u6Oj_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9901"
-    },
-    {
-        "title": "Arcade: Prop Hunt",
-        "summary": "Disguise as a Prop to hide in plain sight, or hunt down and eliminate suspicious fakes!",
-        "postId": 9889,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-03-27 01:06:23",
-        "displayTime": "2026-03-31 05:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260327/pJwDpM0c.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260327/pJwDpM0c_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9889"
     }
 ]

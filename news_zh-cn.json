@@ -1,5 +1,20 @@
 [
     {
+        "title": "[开发者日志] 反作弊系统优化现状 - 减少误封、强化宏检测",
+        "summary": "[开发者日志] 反作弊系统优化现状 - 减少误封、强化宏检测",
+        "postId": 9935,
+        "category": "dev_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-04-17 04:09:29",
+        "displayTime": "2026-04-17 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260417/O8H9RavH.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260417/O8H9RavH_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/9935"
+    },
+    {
         "title": "41.1版本更新公告",
         "summary": "在41.1版本更新中体验新功能和优化内容吧！",
         "postId": 9926,
@@ -130,20 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260325/E8otY7dI.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260325/E8otY7dI_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/9861"
-    },
-    {
-        "title": "2026 PUBG反作弊工作计划",
-        "summary": "2026 PUBG反作弊工作计划",
-        "postId": 9856,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-03-24 07:37:26",
-        "displayTime": "2026-03-24 09:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260324/NlpYtDyO.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260324/NlpYtDyO_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/9856"
     }
 ]

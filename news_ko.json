@@ -1,5 +1,20 @@
 [
     {
+        "title": "[개발일지] 안티치트 시스템 개선 현황 – 오인밴 감소, 콘솔 대응 강화, 매크로 탐지 확대",
+        "summary": "",
+        "postId": 9935,
+        "category": "dev_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-04-16 05:54:53",
+        "displayTime": "2026-04-17 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260416/eYb4WzRZ.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260416/eYb4WzRZ_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/9935"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (04/06~04/12)",
         "summary": "",
         "postId": 9944,
@@ -132,19 +147,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260406/4GuBawz6.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260406/4GuBawz6_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9891"
-    },
-    {
-        "title": "PGS 3와 함께하는 쏟아지는 이벤트 안내!",
-        "summary": "",
-        "postId": 9916,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2026-04-02 06:16:50",
-        "displayTime": "2026-04-02 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260402/VoxRIBvO.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260402/VoxRIBvO_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/9916"
     }
 ]
