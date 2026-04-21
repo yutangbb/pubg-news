@@ -1,5 +1,35 @@
 [
     {
+        "title": "[開發者信件] 反作弊系統改善",
+        "summary": "減少誤鎖、家機措施和巨集指令偵測",
+        "postId": 9935,
+        "category": "dev_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-04-21 03:25:31",
+        "displayTime": "2026-04-17 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260421/cnEmHTRg.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260421/cnEmHTRg_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/9935"
+    },
+    {
+        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (04/06~04/12)",
+        "summary": "",
+        "postId": 9944,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-04-21 03:28:24",
+        "displayTime": "2026-04-15 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260421/Pwgc0sqk.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260421/Pwgc0sqk_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/9944"
+    },
+    {
         "title": "更新項目 - 版本 41.1",
         "summary": "為您介紹版本 41.1，探索所有最新功能與改進！",
         "postId": 9926,
@@ -115,35 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260401/Sg3RSpxX.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260401/Sg3RSpxX_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/9901"
-    },
-    {
-        "title": "街機模式：躲貓貓",
-        "summary": "偽裝成地圖物件隱匿行蹤，或是揪出並除掉可疑的冒牌貨！",
-        "postId": 9889,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-03-31 07:32:42",
-        "displayTime": "2026-03-31 05:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260331/6sbnQMOf.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260331/6sbnQMOf_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/9889"
-    },
-    {
-        "title": "PUBG 吃雞座談直播秀！",
-        "summary": "",
-        "postId": 9879,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-03-26 08:23:55",
-        "displayTime": "2026-03-26 05:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260326/xKDf5wyv.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260326/xKDf5wyv_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/9879"
     }
 ]
