@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (04/13~04/19) ",
+        "summary": "",
+        "postId": 9977,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-04-20 06:52:30",
+        "displayTime": "2026-04-22 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260420/LelX2EbV.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260420/LelX2EbV_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9977"
+    },
+    {
         "title": "[Dev Letter] Anti-Cheat System Improvements",
         "summary": "False Ban Reduction, Console Measures, and Macro Detection",
         "postId": 9935,
@@ -133,17 +148,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260406/zEqwauov.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260406/zEqwauov_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9891"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (03/23~03/29)",
-        "summary": "",
-        "postId": 9901,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2026-03-30 08:28:30",
-        "displayTime": "2026-04-01 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260330/iMv2u6Oj.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260330/iMv2u6Oj_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9901"
     }
 ]
