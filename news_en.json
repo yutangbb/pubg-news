@@ -1,5 +1,19 @@
 [
     {
+        "title": "PUBG Nations Cup 2026 Returns to Seoul, Korea!",
+        "summary": "The PUBG Nations Cup 2026(PNC 2026) is returning to Seoul, South Korea, this summer.",
+        "postId": 9995,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2026-04-22 05:15:58",
+        "displayTime": "2026-04-23 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260422/R8vLGStv.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260422/R8vLGStv_thumb.png",
+        "newsUrl": "https://pubg.com/en/news/9995"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (04/13~04/19) ",
         "summary": "",
         "postId": 9977,
@@ -133,20 +147,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260327/Nfxgn4rZ.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260327/Nfxgn4rZ_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9890"
-    },
-    {
-        "title": "Patch Notes - Update 41.1",
-        "summary": " Introducing Update 41.1: Discover all the latest features and improvements!",
-        "postId": 9891,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-03-27 02:50:19",
-        "displayTime": "2026-04-07 04:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260406/zEqwauov.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260406/zEqwauov_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9891"
     }
 ]
