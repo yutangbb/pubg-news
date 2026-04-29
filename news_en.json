@@ -1,5 +1,63 @@
 [
     {
+        "title": "[Dev Letter] Map Selection for Random Map Regions",
+        "summary": "",
+        "postId": 9953,
+        "category": "dev_notes",
+        "labels": [
+            "label_console"
+        ],
+        "createdAt": "2026-04-28 10:16:37",
+        "displayTime": "2026-04-29 07:05:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260429/HvrIaTMr.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260429/HvrIaTMr_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9953"
+    },
+    {
+        "title": "[Dev Letter] Map Selection for Random Map Regions",
+        "summary": "",
+        "postId": 9950,
+        "category": "dev_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-04-15 01:52:24",
+        "displayTime": "2026-04-29 07:05:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260429/YEyk4Zy7.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260429/YEyk4Zy7_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/9950"
+    },
+    {
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (04/20~04/26) ",
+        "summary": "",
+        "postId": 10027,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-04-27 12:02:51",
+        "displayTime": "2026-04-29 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260427/R0cckjsS.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260427/R0cckjsS_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/10027"
+    },
+    {
+        "title": "PGS Circuit 2, the Final Battle of the First Half Begins!",
+        "summary": "The PUBG Global Series returns with its second circuit — PGS 4-6 — kicking off May 20.",
+        "postId": 10036,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2026-04-29 04:58:06",
+        "displayTime": "2026-04-29 05:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260429/I9D1Kf8T.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260429/I9D1Kf8T_thumb.png",
+        "newsUrl": "https://pubg.com/en/news/10036"
+    },
+    {
         "title": "PUBG Nations Cup 2026 Returns to Seoul, Korea!",
         "summary": "The PUBG Nations Cup 2026(PNC 2026) is returning to Seoul, South Korea, this summer.",
         "postId": 9995,
@@ -87,65 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260406/Th4aT0Sg.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260406/Th4aT0Sg_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9919"
-    },
-    {
-        "title": "PUBG x Stellar Blade",
-        "summary": "",
-        "postId": 9893,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-03-27 02:52:07",
-        "displayTime": "2026-04-08 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260406/pH1S5wtK.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260406/pH1S5wtK_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9893"
-    },
-    {
-        "title": "New Mode: Xeno Point",
-        "summary": " Fight back against the enemy invading Miramar!",
-        "postId": 9844,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-03-19 05:59:49",
-        "displayTime": "2026-04-08 05:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260407/Ikj191w4.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260407/Ikj191w4_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9844"
-    },
-    {
-        "title": "April Store Update 2026",
-        "summary": " Welcome to the fourth Store Update of 2026!",
-        "postId": 9892,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-03-27 02:50:47",
-        "displayTime": "2026-04-07 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260406/tLJJ7n02.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260406/tLJJ7n02_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9892"
-    },
-    {
-        "title": "Map Service Report - Update 41.1",
-        "summary": "",
-        "postId": 9890,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-03-27 02:39:57",
-        "displayTime": "2026-04-07 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260327/Nfxgn4rZ.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260327/Nfxgn4rZ_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9890"
     }
 ]

@@ -1,5 +1,35 @@
 [
     {
+        "title": "[개발일지] 맵 서비스 계획 - 무작위 맵 리전 대상 맵 선택 시범 운영 안내(NA, SA, EU, RU, Console)",
+        "summary": "",
+        "postId": 9950,
+        "category": "dev_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-04-29 04:34:02",
+        "displayTime": "2026-04-29 07:05:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260429/7v8SBnei.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260429/7v8SBnei_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/9950"
+    },
+    {
+        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (04/20~04/26)",
+        "summary": "",
+        "postId": 10027,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-04-29 04:52:52",
+        "displayTime": "2026-04-29 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260429/f4CsMg6J.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260429/f4CsMg6J_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/10027"
+    },
+    {
         "title": "펍지 네이션스 컵 2026: 대한민국, 서울에서 개최됩니다!",
         "summary": "",
         "postId": 9993,
@@ -117,34 +147,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260407/CD5agTLl.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260407/CD5agTLl_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9844"
-    },
-    {
-        "title": "2026 PWS: PHASE 1 본선 안내",
-        "summary": "",
-        "postId": 9922,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2026-04-08 01:22:40",
-        "displayTime": "2026-04-08 04:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260408/d2a8Du7K.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260408/d2a8Du7K_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/9922"
-    },
-    {
-        "title": "2026년 4월 상점 안내",
-        "summary": "2026년 4월 상점 안내에 오신 것을 환영합니다!",
-        "postId": 9892,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-04-07 02:27:46",
-        "displayTime": "2026-04-07 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260407/lX5NCEZk.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260407/lX5NCEZk_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9892"
     }
 ]
