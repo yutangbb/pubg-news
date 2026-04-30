@@ -1,5 +1,49 @@
 [
     {
+        "title": "[開發者信件] 隨機地圖地區的地圖選擇功能",
+        "summary": "",
+        "postId": 9950,
+        "category": "dev_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-04-30 02:01:24",
+        "displayTime": "2026-04-29 07:05:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260430/dvyi9jFR.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260430/dvyi9jFR_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/9950"
+    },
+    {
+        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (04/20~4/26)",
+        "summary": "",
+        "postId": 10027,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-04-30 02:04:34",
+        "displayTime": "2026-04-29 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260430/U8VOwm7v.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260430/U8VOwm7v_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/10027"
+    },
+    {
+        "title": "PNC 2026 全明星賽重返韓國首爾！",
+        "summary": "今年夏天，韓國首爾將再度展開眾星雲集的 PNC 全明星賽！",
+        "postId": 9995,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2026-04-30 02:09:48",
+        "displayTime": "2026-04-23 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260430/35YpC1xu.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260430/35YpC1xu_thumb.png",
+        "newsUrl": "https://pubg.com/zh-tw/news/9995"
+    },
+    {
         "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (04/13~04/19)",
         "summary": "",
         "postId": 9977,
@@ -103,50 +147,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260408/plJVvIi7.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260408/plJVvIi7_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/9844"
-    },
-    {
-        "title": "2026 年 4 月商店更新",
-        "summary": "歡迎來到 2026 年第四次商店更新！",
-        "postId": 9892,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-04-07 02:34:24",
-        "displayTime": "2026-04-07 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260407/YjcQO7nb.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260407/YjcQO7nb_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/9892"
-    },
-    {
-        "title": "地圖營運報告 - 版本 41.1",
-        "summary": "",
-        "postId": 9890,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-04-07 07:26:38",
-        "displayTime": "2026-04-07 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260407/SYiDANu1.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260407/SYiDANu1_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/9890"
-    },
-    {
-        "title": "更新項目 - 版本 41.1",
-        "summary": "為您介紹版本 41.1，探索所有最新功能與改進！",
-        "postId": 9891,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-04-07 05:06:28",
-        "displayTime": "2026-04-07 04:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260407/n3cxDm4U.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260407/n3cxDm4U_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/9891"
     }
 ]
