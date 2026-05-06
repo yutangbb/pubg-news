@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (04/27~05/03)",
+        "summary": "",
+        "postId": 10059,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-05-06 06:44:13",
+        "displayTime": "2026-05-06 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260506/eChrPzK4.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260506/eChrPzK4_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/10059"
+    },
+    {
         "title": "[개발일지] 맵 서비스 계획 - 무작위 맵 리전 대상 맵 선택 시범 운영 안내(NA, SA, EU, RU, Console)",
         "summary": "",
         "postId": 9950,
@@ -132,20 +147,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260406/1Lzc6sHp.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260406/1Lzc6sHp_thumb.png",
         "newsUrl": "https://pubg.com/ko/news/9893"
-    },
-    {
-        "title": "신규 모드: 제노 포인트",
-        "summary": "미라마를 침공한 적에 맞서 싸우세요!",
-        "postId": 9844,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-04-07 08:32:52",
-        "displayTime": "2026-04-08 05:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260407/CD5agTLl.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260407/CD5agTLl_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9844"
     }
 ]

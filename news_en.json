@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (04/27~05/03) ",
+        "summary": "",
+        "postId": 10059,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-05-04 07:55:38",
+        "displayTime": "2026-05-06 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260504/wb9oijom.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260504/wb9oijom_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/10059"
+    },
+    {
         "title": "[Dev Letter] Map Selection for Random Map Regions",
         "summary": "",
         "postId": 9953,
@@ -130,20 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260408/nF3o0Qcy.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260408/nF3o0Qcy_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9926"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (03/30~04/05)",
-        "summary": "",
-        "postId": 9919,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-04-06 06:31:53",
-        "displayTime": "2026-04-08 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260406/Th4aT0Sg.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260406/Th4aT0Sg_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9919"
     }
 ]
