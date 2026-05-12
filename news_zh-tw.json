@@ -1,5 +1,20 @@
 [
     {
+        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (04/27~05/03)",
+        "summary": "",
+        "postId": 10059,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-05-12 03:00:55",
+        "displayTime": "2026-05-06 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260512/1tKRweUb.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260512/1tKRweUb_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/10059"
+    },
+    {
         "title": "[開發者信件] 隨機地圖地區的地圖選擇功能",
         "summary": "",
         "postId": 9950,
@@ -132,20 +147,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260408/nMep7ESr.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260408/nMep7ESr_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/9893"
-    },
-    {
-        "title": "全新模式：異星突襲",
-        "summary": "擊退入侵 Miramar 的敵人！",
-        "postId": 9844,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-04-08 05:36:45",
-        "displayTime": "2026-04-08 05:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260408/plJVvIi7.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260408/plJVvIi7_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/9844"
     }
 ]
