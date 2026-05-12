@@ -1,5 +1,50 @@
 [
     {
+        "title": "패치 노트 - 업데이트 41.2",
+        "summary": "업데이트 41.2에서 신규 기능 및 개선 사항을 만나보세요.",
+        "postId": 10080,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-05-11 13:19:28",
+        "displayTime": "2026-05-12 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260511/YKueHS5y.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260511/YKueHS5y_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/10080"
+    },
+    {
+        "title": "맵 서비스 리포트 - 업데이트 41.2",
+        "summary": "",
+        "postId": 10042,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-05-11 12:25:53",
+        "displayTime": "2026-05-12 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260511/FWx8WnLM.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260511/FWx8WnLM_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/10042"
+    },
+    {
+        "title": "2026년 5월 상점 안내",
+        "summary": "",
+        "postId": 10041,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-05-12 03:58:40",
+        "displayTime": "2026-05-12 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260512/Y3vIKHQV.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260512/Y3vIKHQV_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/10041"
+    },
+    {
         "title": "PGS 서킷 2, 상반기의 마지막 승부가 시작됩니다!",
         "summary": "",
         "postId": 10075,
@@ -101,50 +146,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260416/eYb4WzRZ.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260416/eYb4WzRZ_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/9935"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (04/06~04/12)",
-        "summary": "",
-        "postId": 9944,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-04-15 06:10:16",
-        "displayTime": "2026-04-15 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260415/KZPoTIcZ.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260415/KZPoTIcZ_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9944"
-    },
-    {
-        "title": "패치 노트 - 업데이트 41.1",
-        "summary": "업데이트 41.1에서 신규 기능 및 개선 사항을 만나보세요.",
-        "postId": 9926,
-        "category": "patch_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-04-08 07:37:51",
-        "displayTime": "2026-04-08 07:05:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260408/nF3o0Qcy.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260408/nF3o0Qcy_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9926"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (03/30~04/05)",
-        "summary": "",
-        "postId": 9919,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-04-08 06:25:42",
-        "displayTime": "2026-04-08 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260408/UMR5Wwjt.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260408/UMR5Wwjt_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/9919"
     }
 ]

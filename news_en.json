@@ -1,5 +1,50 @@
 [
     {
+        "title": "Patch Notes - Update 41.2",
+        "summary": "Introducing Update 41.2: Discover all the latest features and improvements!",
+        "postId": 10080,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-05-11 12:33:53",
+        "displayTime": "2026-05-12 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260511/Y8cg7XkH.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260511/Y8cg7XkH_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/10080"
+    },
+    {
+        "title": "Map Service Report - Update 41.2",
+        "summary": "",
+        "postId": 10042,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-04-30 06:26:01",
+        "displayTime": "2026-05-12 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260430/BH1eKraW.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260430/BH1eKraW_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/10042"
+    },
+    {
+        "title": "May Store Update 2026 ",
+        "summary": "Welcome to the fifth Store Update of 2026!",
+        "postId": 10041,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-04-30 06:24:33",
+        "displayTime": "2026-05-12 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260430/9TYihcr0.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260430/9TYihcr0_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/10041"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (04/27~05/03) ",
         "summary": "",
         "postId": 10059,
@@ -100,50 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260420/LelX2EbV.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260420/LelX2EbV_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9977"
-    },
-    {
-        "title": "[Dev Letter] Anti-Cheat System Improvements",
-        "summary": "False Ban Reduction, Console Measures, and Macro Detection",
-        "postId": 9935,
-        "category": "dev_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-04-10 07:00:57",
-        "displayTime": "2026-04-17 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260410/Fjegpq5f.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260410/Fjegpq5f_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9935"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (04/06~04/12) ",
-        "summary": "",
-        "postId": 9944,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-04-14 02:04:55",
-        "displayTime": "2026-04-15 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260414/IM9VU0Av.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260414/IM9VU0Av_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9944"
-    },
-    {
-        "title": "Patch Notes - Update 41.1",
-        "summary": " Introducing Update 41.1: Discover all the latest features and improvements!",
-        "postId": 9926,
-        "category": "patch_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-04-08 07:37:51",
-        "displayTime": "2026-04-08 07:05:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260408/nF3o0Qcy.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260408/nF3o0Qcy_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9926"
     }
 ]
