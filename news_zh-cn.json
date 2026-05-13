@@ -1,5 +1,35 @@
 [
     {
+        "title": "PUBG x 哈雷戴维森",
+        "summary": "PUBG x 哈雷戴维森",
+        "postId": 10043,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-05-13 05:02:03",
+        "displayTime": "2026-05-13 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260513/bzfBeCxT.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260513/bzfBeCxT_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/10043"
+    },
+    {
+        "title": "新模式：赏金行动",
+        "summary": "齐心协力，尽可能获取更多的战利品吧！",
+        "postId": 10009,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-05-13 05:16:49",
+        "displayTime": "2026-05-13 05:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260513/lXil50gz.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260513/lXil50gz_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/10009"
+    },
+    {
         "title": "41.2版本更新公告",
         "summary": "在41.2版本更新中体验新功能和优化内容吧！",
         "postId": 10080,
@@ -118,35 +148,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260506/LWc4IPwS.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260506/LWc4IPwS_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/9944"
-    },
-    {
-        "title": "41.1版本更新公告",
-        "summary": "在41.1版本更新中体验新功能和优化内容吧！",
-        "postId": 9926,
-        "category": "patch_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-04-08 07:37:51",
-        "displayTime": "2026-04-08 07:05:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260408/nF3o0Qcy.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260408/nF3o0Qcy_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/9926"
-    },
-    {
-        "title": "PUBG x 剑星",
-        "summary": "PUBG x 剑星",
-        "postId": 9893,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-04-08 03:44:19",
-        "displayTime": "2026-04-08 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260408/0H5MGPn9.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260408/0H5MGPn9_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/9893"
     }
 ]

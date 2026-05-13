@@ -1,5 +1,32 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (05/04~05/10) ",
+        "summary": "",
+        "postId": 10079,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2026-05-11 09:43:27",
+        "displayTime": "2026-05-13 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260511/0gP1fEEl.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260511/0gP1fEEl_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/10079"
+    },
+    {
+        "title": "PUBG x Harley-Davidson",
+        "summary": "",
+        "postId": 10043,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-04-30 06:26:33",
+        "displayTime": "2026-05-13 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260511/WhzKRIQy.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260511/WhzKRIQy_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/10043"
+    },
+    {
         "title": "New Mode: PAYDAY",
         "summary": "Play as a team to secure as much loot as possible!",
         "postId": 10009,
@@ -117,33 +144,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260427/R0cckjsS.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260427/R0cckjsS_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/10027"
-    },
-    {
-        "title": "PGS Circuit 2, the Final Battle of the First Half Begins!",
-        "summary": "The PUBG Global Series returns with its second circuit — PGS 4-6 — kicking off May 20.",
-        "postId": 10036,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2026-04-29 04:58:06",
-        "displayTime": "2026-04-29 05:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260429/I9D1Kf8T.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260429/I9D1Kf8T_thumb.png",
-        "newsUrl": "https://pubg.com/en/news/10036"
-    },
-    {
-        "title": "PUBG Nations Cup 2026 Returns to Seoul, Korea!",
-        "summary": "The PUBG Nations Cup 2026(PNC 2026) is returning to Seoul, South Korea, this summer.",
-        "postId": 9995,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2026-04-22 05:15:58",
-        "displayTime": "2026-04-23 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260422/R8vLGStv.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260422/R8vLGStv_thumb.png",
-        "newsUrl": "https://pubg.com/en/news/9995"
     }
 ]

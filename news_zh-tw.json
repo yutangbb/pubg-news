@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG x Harley-Davidson",
+        "summary": "",
+        "postId": 10043,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-05-13 04:11:29",
+        "displayTime": "2026-05-13 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260513/5aJvrxRu.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260513/5aJvrxRu_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/10043"
+    },
+    {
         "title": "新模式：PAYDAY",
         "summary": "團隊合作，確保搜括到盡可能多的戰利品！",
         "postId": 10009,
@@ -132,20 +147,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260423/Fqw9G2qo.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260423/Fqw9G2qo_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/9977"
-    },
-    {
-        "title": "[開發者信件] 反作弊系統改善",
-        "summary": "減少誤鎖、家機措施和巨集指令偵測",
-        "postId": 9935,
-        "category": "dev_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-04-21 03:25:31",
-        "displayTime": "2026-04-17 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260421/cnEmHTRg.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260421/cnEmHTRg_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/9935"
     }
 ]
