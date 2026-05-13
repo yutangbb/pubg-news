@@ -1,5 +1,20 @@
 [
     {
+        "title": "新模式：PAYDAY",
+        "summary": "團隊合作，確保搜括到盡可能多的戰利品！",
+        "postId": 10009,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-05-13 03:45:09",
+        "displayTime": "2026-05-13 05:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260513/GiAlFoy9.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260513/GiAlFoy9_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/10009"
+    },
+    {
         "title": "更新項目 - 版本 41.2",
         "summary": "為您介紹版本 41.2，探索所有最新功能與改進！",
         "postId": 10080,
@@ -132,20 +147,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260421/cnEmHTRg.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260421/cnEmHTRg_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/9935"
-    },
-    {
-        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (04/06~04/12)",
-        "summary": "",
-        "postId": 9944,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-04-21 03:28:24",
-        "displayTime": "2026-04-15 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260421/Pwgc0sqk.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260421/Pwgc0sqk_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/9944"
     }
 ]

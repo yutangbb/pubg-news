@@ -1,5 +1,20 @@
 [
     {
+        "title": "New Mode: PAYDAY",
+        "summary": "Play as a team to secure as much loot as possible!",
+        "postId": 10009,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-04-24 02:17:10",
+        "displayTime": "2026-05-13 05:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260511/i7mse2mb.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260511/i7mse2mb_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/10009"
+    },
+    {
         "title": "Patch Notes - Update 41.2",
         "summary": "Introducing Update 41.2: Discover all the latest features and improvements!",
         "postId": 10080,
@@ -130,20 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260422/R8vLGStv.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260422/R8vLGStv_thumb.png",
         "newsUrl": "https://pubg.com/en/news/9995"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (04/13~04/19) ",
-        "summary": "",
-        "postId": 9977,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-04-20 06:52:30",
-        "displayTime": "2026-04-22 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260420/LelX2EbV.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260420/LelX2EbV_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9977"
     }
 ]
