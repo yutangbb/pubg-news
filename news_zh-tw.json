@@ -15,6 +15,18 @@
         "newsUrl": "https://pubg.com/zh-tw/news/10043"
     },
     {
+        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (05/04~05/10)",
+        "summary": "",
+        "postId": 10079,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2026-05-18 03:33:12",
+        "displayTime": "2026-05-13 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260518/r5rUIIEK.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260518/r5rUIIEK_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/10079"
+    },
+    {
         "title": "新模式：PAYDAY",
         "summary": "團隊合作，確保搜括到盡可能多的戰利品！",
         "postId": 10009,
@@ -132,20 +144,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260430/35YpC1xu.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260430/35YpC1xu_thumb.png",
         "newsUrl": "https://pubg.com/zh-tw/news/9995"
-    },
-    {
-        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (04/13~04/19)",
-        "summary": "",
-        "postId": 9977,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-04-23 02:52:11",
-        "displayTime": "2026-04-22 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260423/Fqw9G2qo.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260423/Fqw9G2qo_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/9977"
     }
 ]
