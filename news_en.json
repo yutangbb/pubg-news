@@ -1,5 +1,19 @@
 [
     {
+        "title": "PUBG Global Championship 2026 Heads to İstanbul, Türkiye!",
+        "summary": "The most prestige stage of the year, the PUBG Global Championship 2026 (PGC 2026), runs from December 1 (Tue) to December 13 (Sun) in İstanbul, Türkiye.",
+        "postId": 10110,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2026-05-18 10:45:59",
+        "displayTime": "2026-05-19 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260518/JnU0XUHR.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260518/JnU0XUHR_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/10110"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (05/04~05/10) ",
         "summary": "",
         "postId": 10079,
@@ -129,20 +143,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260429/YEyk4Zy7.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260429/YEyk4Zy7_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/9950"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (04/20~04/26) ",
-        "summary": "",
-        "postId": 10027,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-04-27 12:02:51",
-        "displayTime": "2026-04-29 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260427/R0cckjsS.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260427/R0cckjsS_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/10027"
     }
 ]
