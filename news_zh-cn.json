@@ -1,5 +1,20 @@
 [
     {
+        "title": "【每周违规账号公示】5/11~ 5/17",
+        "summary": "【每周违规账号公示】5/11~ 5/17",
+        "postId": 10106,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-05-20 09:37:14",
+        "displayTime": "2026-05-20 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260520/lDzby48o.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260520/lDzby48o_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/10106"
+    },
+    {
         "title": "PUBG x 哈雷戴维森",
         "summary": "PUBG x 哈雷戴维森",
         "postId": 10043,
@@ -133,20 +148,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260420/mj4AOpqc.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260420/mj4AOpqc_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/9935"
-    },
-    {
-        "title": "【每周违规账号公示】4/6~ 4/12",
-        "summary": "【每周违规账号公示】4/6~ 4/12",
-        "postId": 9944,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-05-06 07:45:28",
-        "displayTime": "2026-04-15 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260506/LWc4IPwS.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260506/LWc4IPwS_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/9944"
     }
 ]
