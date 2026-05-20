@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (05/11~05/17)",
+        "summary": "",
+        "postId": 10106,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-05-18 08:07:35",
+        "displayTime": "2026-05-20 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260518/eubJhAUZ.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260518/eubJhAUZ_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/10106"
+    },
+    {
         "title": "PUBG Global Championship 2026 Heads to İstanbul, Türkiye!",
         "summary": "The most prestige stage of the year, the PUBG Global Championship 2026 (PGC 2026), runs from December 1 (Tue) to December 13 (Sun) in İstanbul, Türkiye.",
         "postId": 10110,
@@ -12,6 +27,21 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260518/JnU0XUHR.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260518/JnU0XUHR_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/10110"
+    },
+    {
+        "title": "Vote for Your Player. Win G-Coin.",
+        "summary": "Player of the Day is back for PGS Circuit 2. Here's everything you need to know — including what's new about this circuit.",
+        "postId": 10104,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_esports"
+        ],
+        "createdAt": "2026-05-20 03:34:21",
+        "displayTime": "2026-05-15 15:48:32",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260520/YbadIT6k.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260520/YbadIT6k_thumb.png",
+        "newsUrl": "https://pubg.com/en/news/10104"
     },
     {
         "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (05/04~05/10) ",
@@ -114,34 +144,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260504/wb9oijom.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260504/wb9oijom_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/10059"
-    },
-    {
-        "title": "[Dev Letter] Map Selection for Random Map Regions",
-        "summary": "",
-        "postId": 9953,
-        "category": "dev_notes",
-        "labels": [
-            "label_console"
-        ],
-        "createdAt": "2026-04-28 10:16:37",
-        "displayTime": "2026-04-29 07:05:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260429/HvrIaTMr.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260429/HvrIaTMr_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9953"
-    },
-    {
-        "title": "[Dev Letter] Map Selection for Random Map Regions",
-        "summary": "",
-        "postId": 9950,
-        "category": "dev_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-04-15 01:52:24",
-        "displayTime": "2026-04-29 07:05:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260429/YEyk4Zy7.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260429/YEyk4Zy7_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/9950"
     }
 ]
