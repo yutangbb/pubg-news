@@ -1,5 +1,19 @@
 [
     {
+        "title": "2026 PWS: PHASE 2 예선 참가 안내",
+        "summary": "",
+        "postId": 10159,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2026-05-26 03:58:22",
+        "displayTime": "2026-05-26 04:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260526/SVLA2jv6.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260526/SVLA2jv6_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/10159"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (05/11~05/17)",
         "summary": "",
         "postId": 10106,
@@ -128,20 +142,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260511/fbph2m7T.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260511/fbph2m7T_thumb.png",
         "newsUrl": "https://pubg.com/ko/news/10075"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (04/27~05/03)",
-        "summary": "",
-        "postId": 10059,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-05-06 06:44:13",
-        "displayTime": "2026-05-06 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260506/eChrPzK4.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260506/eChrPzK4_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/10059"
     }
 ]
