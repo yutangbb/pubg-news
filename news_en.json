@@ -1,5 +1,19 @@
 [
     {
+        "title": "PNC 2026 Official Participating Teams Announcement",
+        "summary": "In our previous announcements, we shared the schedule and participating teams for the PUBG Nations Cup 2026(PNC 2026).\nAt last, we're excited to officially unveil the rosters of all 24 all-star teams set to take the stage in Seoul this June!",
+        "postId": 10168,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2026-05-27 04:22:48",
+        "displayTime": "2026-05-27 05:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260527/7qc5uTWr.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260527/7qc5uTWr_thumb.png",
+        "newsUrl": "https://pubg.com/en/news/10168"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (05/11~05/17)",
         "summary": "",
         "postId": 10106,
@@ -129,20 +143,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260430/9TYihcr0.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260430/9TYihcr0_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/10041"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (04/27~05/03) ",
-        "summary": "",
-        "postId": 10059,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-05-04 07:55:38",
-        "displayTime": "2026-05-06 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260504/wb9oijom.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260504/wb9oijom_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/10059"
     }
 ]
