@@ -1,5 +1,34 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (05/18~05/24)",
+        "summary": "",
+        "postId": 10141,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-05-27 04:57:01",
+        "displayTime": "2026-05-27 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260527/Ycnvuij5.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260527/Ycnvuij5_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/10141"
+    },
+    {
+        "title": "펍지 네이션스 컵 2026 공식 참가팀 안내",
+        "summary": "",
+        "postId": 10168,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2026-05-27 06:19:39",
+        "displayTime": "2026-05-27 05:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260527/JbUaLr5I.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260527/JbUaLr5I_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/10168"
+    },
+    {
         "title": "2026 PWS: PHASE 2 예선 참가 안내",
         "summary": "",
         "postId": 10159,
@@ -113,34 +142,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260511/FWx8WnLM.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260511/FWx8WnLM_thumb.png",
         "newsUrl": "https://pubg.com/ko/news/10042"
-    },
-    {
-        "title": "2026년 5월 상점 안내",
-        "summary": "",
-        "postId": 10041,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-05-12 03:58:40",
-        "displayTime": "2026-05-12 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260512/Y3vIKHQV.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260512/Y3vIKHQV_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/10041"
-    },
-    {
-        "title": "PGS 서킷 2, 상반기의 마지막 승부가 시작됩니다!",
-        "summary": "",
-        "postId": 10075,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2026-05-11 04:16:25",
-        "displayTime": "2026-05-11 04:18:02",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260511/fbph2m7T.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260511/fbph2m7T_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/10075"
     }
 ]

@@ -1,7 +1,22 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (05/18~05/24)",
+        "summary": "",
+        "postId": 10141,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-05-22 01:07:58",
+        "displayTime": "2026-05-27 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260522/gYyXlcrw.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260522/gYyXlcrw_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/10141"
+    },
+    {
         "title": "PNC 2026 Official Participating Teams Announcement",
-        "summary": "In our previous announcements, we shared the schedule and participating teams for the PUBG Nations Cup 2026(PNC 2026).\nAt last, we're excited to officially unveil the rosters of all 24 all-star teams set to take the stage in Seoul this June!",
+        "summary": "We're excited to officially unveil the rosters of all 24 all-star teams set to take the stage in Seoul this June!",
         "postId": 10168,
         "category": "notice",
         "labels": [
@@ -128,20 +143,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260430/BH1eKraW.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260430/BH1eKraW_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/10042"
-    },
-    {
-        "title": "May Store Update 2026 ",
-        "summary": "Welcome to the fifth Store Update of 2026!",
-        "postId": 10041,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-04-30 06:24:33",
-        "displayTime": "2026-05-12 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260430/9TYihcr0.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260430/9TYihcr0_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/10041"
     }
 ]
