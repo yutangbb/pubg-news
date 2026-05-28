@@ -1,5 +1,19 @@
 [
     {
+        "title": "PNC 2026 Tournament Details",
+        "summary": "PUBG Nations Cup 2026 tournament format, ruleset, and key details.",
+        "postId": 10184,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2026-05-28 06:12:44",
+        "displayTime": "2026-05-28 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260528/rQNmgnDh.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260528/rQNmgnDh_thumb.png",
+        "newsUrl": "https://pubg.com/en/news/10184"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (05/18~05/24)",
         "summary": "",
         "postId": 10141,
@@ -128,20 +142,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260511/Y8cg7XkH.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260511/Y8cg7XkH_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/10080"
-    },
-    {
-        "title": "Map Service Report - Update 41.2",
-        "summary": "",
-        "postId": 10042,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-04-30 06:26:01",
-        "displayTime": "2026-05-12 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260430/BH1eKraW.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260430/BH1eKraW_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/10042"
     }
 ]
