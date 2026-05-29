@@ -1,5 +1,35 @@
 [
     {
+        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (05/18~05/24)",
+        "summary": "",
+        "postId": 10141,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-05-29 02:25:02",
+        "displayTime": "2026-05-27 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260529/Vf2zC2mq.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260529/Vf2zC2mq_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/10141"
+    },
+    {
+        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (05/11~05/17)",
+        "summary": "",
+        "postId": 10106,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-05-29 02:23:13",
+        "displayTime": "2026-05-20 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260529/LCxZNjVB.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260529/LCxZNjVB_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/10106"
+    },
+    {
         "title": "PUBG x Harley-Davidson",
         "summary": "",
         "postId": 10043,
@@ -115,34 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260430/dvyi9jFR.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260430/dvyi9jFR_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/9950"
-    },
-    {
-        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (04/20~4/26)",
-        "summary": "",
-        "postId": 10027,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-04-30 02:04:34",
-        "displayTime": "2026-04-29 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260430/U8VOwm7v.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260430/U8VOwm7v_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/10027"
-    },
-    {
-        "title": "PNC 2026 全明星賽重返韓國首爾！",
-        "summary": "今年夏天，韓國首爾將再度展開眾星雲集的 PNC 全明星賽！",
-        "postId": 9995,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2026-04-30 02:09:48",
-        "displayTime": "2026-04-23 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260430/35YpC1xu.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260430/35YpC1xu_thumb.png",
-        "newsUrl": "https://pubg.com/zh-tw/news/9995"
     }
 ]
