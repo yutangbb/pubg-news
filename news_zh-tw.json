@@ -15,6 +15,20 @@
         "newsUrl": "https://pubg.com/zh-tw/news/10141"
     },
     {
+        "title": "PNC 2026 參賽隊伍名單公告",
+        "summary": "正式揭曉即將於今年 6 月在首爾登台亮相的所有 24 支全明星戰隊完整選手陣容！",
+        "postId": 10168,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2026-06-01 09:56:40",
+        "displayTime": "2026-05-27 05:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260601/JMBD5rQ1.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260601/JMBD5rQ1_thumb.png",
+        "newsUrl": "https://pubg.com/zh-tw/news/10168"
+    },
+    {
         "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (05/11~05/17)",
         "summary": "",
         "postId": 10106,
@@ -28,6 +42,20 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260529/LCxZNjVB.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260529/LCxZNjVB_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/10106"
+    },
+    {
+        "title": "PUBG Global Championship 2026 目的地揭曉：土耳其伊斯坦堡！",
+        "summary": "年度最高榮譽的殿堂 —— PGC 2026 世界冠軍賽，將於 12 月 1 日（二）至 12 月 13 日（日）在土耳其伊斯坦堡盛大舉行。",
+        "postId": 10110,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2026-06-01 08:10:21",
+        "displayTime": "2026-05-19 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260601/pA6aEDyf.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260601/pA6aEDyf_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/10110"
     },
     {
         "title": "PUBG x Harley-Davidson",
@@ -115,35 +143,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260512/YIoi1giU.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260512/YIoi1giU_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/10041"
-    },
-    {
-        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (04/27~05/03)",
-        "summary": "",
-        "postId": 10059,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-05-12 03:00:55",
-        "displayTime": "2026-05-06 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260512/1tKRweUb.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260512/1tKRweUb_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/10059"
-    },
-    {
-        "title": "[開發者信件] 隨機地圖地區的地圖選擇功能",
-        "summary": "",
-        "postId": 9950,
-        "category": "dev_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-04-30 02:01:24",
-        "displayTime": "2026-04-29 07:05:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260430/dvyi9jFR.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260430/dvyi9jFR_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/9950"
     }
 ]
