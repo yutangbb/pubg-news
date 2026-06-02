@@ -1,5 +1,19 @@
 [
     {
+        "title": "펍지 네이션스 컵 2026(PNC 2026) 티켓 판매 안내",
+        "summary": "",
+        "postId": 10212,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2026-06-02 08:40:45",
+        "displayTime": "2026-06-02 09:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260602/xkBNFuL3.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260602/xkBNFuL3_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/10212"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (05/18~05/24)",
         "summary": "",
         "postId": 10141,
@@ -127,20 +141,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260511/YKueHS5y.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260511/YKueHS5y_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/10080"
-    },
-    {
-        "title": "맵 서비스 리포트 - 업데이트 41.2",
-        "summary": "",
-        "postId": 10042,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-05-11 12:25:53",
-        "displayTime": "2026-05-12 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260511/FWx8WnLM.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260511/FWx8WnLM_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/10042"
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "PUBG Nations Cup 2026(PNC 2026) Ticket Sales",
+        "summary": "Get ready for the fierce survival showdown among 24 all-star teams at PUBG Nations Cup 2026(PNC 2026)!",
+        "postId": 10212,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2026-06-02 08:35:31",
+        "displayTime": "2026-06-02 09:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260602/Mcjk7Xvq.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260602/Mcjk7Xvq_thumb.png",
+        "newsUrl": "https://pubg.com/en/news/10212"
+    },
+    {
         "title": "PNC 2026 Tournament Details",
         "summary": "PUBG Nations Cup 2026 tournament format, ruleset, and key details.",
         "postId": 10184,
@@ -127,20 +141,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260511/i7mse2mb.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260511/i7mse2mb_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/10009"
-    },
-    {
-        "title": "Patch Notes - Update 41.2",
-        "summary": "Introducing Update 41.2: Discover all the latest features and improvements!",
-        "postId": 10080,
-        "category": "patch_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-05-11 12:33:53",
-        "displayTime": "2026-05-12 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260511/Y8cg7XkH.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260511/Y8cg7XkH_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/10080"
     }
 ]
