@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (05/25~05/31)",
+        "summary": "",
+        "postId": 10208,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-06-03 08:29:59",
+        "displayTime": "2026-06-03 07:20:29",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260603/DHI1wVhm.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260603/DHI1wVhm_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/10208"
+    },
+    {
         "title": "펍지 네이션스 컵 2026(PNC 2026) 티켓 판매 안내",
         "summary": "",
         "postId": 10212,
@@ -126,20 +141,5 @@
         "imageUrl": "",
         "thumbUrl": "",
         "newsUrl": "https://pubg.com/ko/news/10009"
-    },
-    {
-        "title": "패치 노트 - 업데이트 41.2",
-        "summary": "업데이트 41.2에서 신규 기능 및 개선 사항을 만나보세요.",
-        "postId": 10080,
-        "category": "patch_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-05-11 13:19:28",
-        "displayTime": "2026-05-12 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260511/YKueHS5y.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260511/YKueHS5y_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/10080"
     }
 ]

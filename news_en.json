@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (05/25~05/31)",
+        "summary": "",
+        "postId": 10208,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-06-01 00:55:48",
+        "displayTime": "2026-06-03 07:20:29",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260601/gqUuYFKq.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260601/gqUuYFKq_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/10208"
+    },
+    {
         "title": "PUBG Nations Cup 2026(PNC 2026) Ticket Sales",
         "summary": "Get ready for the fierce survival showdown among 24 all-star teams at PUBG Nations Cup 2026(PNC 2026)!",
         "postId": 10212,
@@ -126,20 +141,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260511/WhzKRIQy.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260511/WhzKRIQy_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/10043"
-    },
-    {
-        "title": "New Mode: PAYDAY",
-        "summary": "Play as a team to secure as much loot as possible!",
-        "postId": 10009,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-04-24 02:17:10",
-        "displayTime": "2026-05-13 05:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260511/i7mse2mb.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260511/i7mse2mb_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/10009"
     }
 ]
