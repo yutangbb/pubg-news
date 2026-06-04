@@ -1,5 +1,20 @@
 [
     {
+        "title": "Watch PGS 6 and Get Drops!",
+        "summary": "The PGS 6 Grand Finals, the final showdown of the first half of the 2026 PUBG Esports circuit, is just around the corner. To make your viewing experience even more exciting, we’ve prepared special PGS 6 Drops!",
+        "postId": 10244,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_esports"
+        ],
+        "createdAt": "2026-06-04 03:13:12",
+        "displayTime": "2026-06-04 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260604/BuG7Hzkb.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260604/BuG7Hzkb_thumb.png",
+        "newsUrl": "https://pubg.com/en/news/10244"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (05/25~05/31)",
         "summary": "",
         "postId": 10208,
@@ -126,20 +141,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260511/0gP1fEEl.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260511/0gP1fEEl_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/10079"
-    },
-    {
-        "title": "PUBG x Harley-Davidson",
-        "summary": "",
-        "postId": 10043,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-04-30 06:26:33",
-        "displayTime": "2026-05-13 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260511/WhzKRIQy.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260511/WhzKRIQy_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/10043"
     }
 ]
