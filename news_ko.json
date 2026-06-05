@@ -1,5 +1,19 @@
 [
     {
+        "title": "PNC 2026 X MUSINSA 굿즈 & 티켓 판매 오픈",
+        "summary": "",
+        "postId": 10257,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2026-06-05 08:43:29",
+        "displayTime": "2026-06-05 09:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260605/0xKN7F1p.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260605/0xKN7F1p_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/10257"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (05/25~05/31)",
         "summary": "",
         "postId": 10208,
@@ -15,7 +29,7 @@
         "newsUrl": "https://pubg.com/ko/news/10208"
     },
     {
-        "title": "펍지 네이션스 컵 2026(PNC 2026) 티켓 판매 안내",
+        "title": "펍지 네이션스 컵 2026(PNC 2026) 티켓 판매 안내 (#1)",
         "summary": "",
         "postId": 10212,
         "category": "notice",
@@ -126,20 +140,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260512/9nMG9cjJ.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260512/9nMG9cjJ_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/10043"
-    },
-    {
-        "title": "신규 모드: PAYDAY",
-        "summary": "한 팀으로 협력하여 최대한 많은 전리품을 확보하세요!",
-        "postId": 10009,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-05-13 04:07:09",
-        "displayTime": "2026-05-13 05:00:00",
-        "imageUrl": "",
-        "thumbUrl": "",
-        "newsUrl": "https://pubg.com/ko/news/10009"
     }
 ]
