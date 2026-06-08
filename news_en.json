@@ -1,5 +1,19 @@
 [
     {
+        "title": "Watch PNC 2026 and Get Drops!",
+        "summary": "To make PNC 2026 even more exciting, we’ve prepared the Drops event.\nTune in to the live broadcasts and earn special in-game items!",
+        "postId": 10263,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2026-06-08 07:11:20",
+        "displayTime": "2026-06-08 07:09:40",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260608/WcrT3X9M.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260608/WcrT3X9M_thumb.png",
+        "newsUrl": "https://pubg.com/en/news/10263"
+    },
+    {
         "title": "Watch PGS 6 and Get Drops!",
         "summary": "The PGS 6 Grand Finals, the final showdown of the first half of the 2026 PUBG Esports circuit, is just around the corner. To make your viewing experience even more exciting, we’ve prepared special PGS 6 Drops!",
         "postId": 10244,
@@ -129,17 +143,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260520/YbadIT6k.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260520/YbadIT6k_thumb.png",
         "newsUrl": "https://pubg.com/en/news/10104"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (05/04~05/10) ",
-        "summary": "",
-        "postId": 10079,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2026-05-11 09:43:27",
-        "displayTime": "2026-05-13 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260511/0gP1fEEl.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260511/0gP1fEEl_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/10079"
     }
 ]
