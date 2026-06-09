@@ -1,5 +1,19 @@
 [
     {
+        "title": "PNC 2026 Player POV Channel List ",
+        "summary": "During the PNC 2026 Grand Finals, participating players will be streaming their own matches live!",
+        "postId": 10268,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2026-06-09 06:08:08",
+        "displayTime": "2026-06-09 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260609/wCMo9i7k.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260609/wCMo9i7k_thumb.png",
+        "newsUrl": "https://pubg.com/en/news/10268"
+    },
+    {
         "title": "Watch PNC 2026 and Get Drops!",
         "summary": "To make PNC 2026 even more exciting, we’ve prepared the Drops event.\nTune in to the live broadcasts and earn special in-game items!",
         "postId": 10263,
@@ -128,20 +142,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260518/JnU0XUHR.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260518/JnU0XUHR_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/10110"
-    },
-    {
-        "title": "Vote for Your Player. Win G-Coin.",
-        "summary": "Player of the Day is back for PGS Circuit 2. Here's everything you need to know — including what's new about this circuit.",
-        "postId": 10104,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_esports"
-        ],
-        "createdAt": "2026-05-20 03:34:21",
-        "displayTime": "2026-05-15 15:48:32",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260520/YbadIT6k.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260520/YbadIT6k_thumb.png",
-        "newsUrl": "https://pubg.com/en/news/10104"
     }
 ]
