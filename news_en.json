@@ -1,5 +1,34 @@
 [
     {
+        "title": "PNC 2026 Event Page Now Open",
+        "summary": "The PNC 2026 Event Page, your all-in-one hub for the premier global PUBG Nations Cup showdown featuring 24 all-star teams, officially opens on June 10!",
+        "postId": 10271,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2026-06-09 08:07:39",
+        "displayTime": "2026-06-10 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260609/zVrVvBhw.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260609/zVrVvBhw_thumb.png",
+        "newsUrl": "https://pubg.com/en/news/10271"
+    },
+    {
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (06/01~06/07)",
+        "summary": "",
+        "postId": 10262,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-06-08 06:06:49",
+        "displayTime": "2026-06-10 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260608/AKJkOxFr.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260608/AKJkOxFr_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/10262"
+    },
+    {
         "title": "PNC 2026 Player POV Channel List ",
         "summary": "During the PNC 2026 Grand Finals, participating players will be streaming their own matches live!",
         "postId": 10268,
@@ -113,34 +142,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260527/7qc5uTWr.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260527/7qc5uTWr_thumb.png",
         "newsUrl": "https://pubg.com/en/news/10168"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (05/11~05/17)",
-        "summary": "",
-        "postId": 10106,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-05-18 08:07:35",
-        "displayTime": "2026-05-20 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260518/eubJhAUZ.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260518/eubJhAUZ_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/10106"
-    },
-    {
-        "title": "PUBG Global Championship 2026 Heads to İstanbul, Türkiye!",
-        "summary": "The most prestige stage of the year, the PUBG Global Championship 2026 (PGC 2026), runs from December 1 (Tue) to December 13 (Sun) in İstanbul, Türkiye.",
-        "postId": 10110,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2026-05-18 10:45:59",
-        "displayTime": "2026-05-19 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260518/JnU0XUHR.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260518/JnU0XUHR_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/10110"
     }
 ]

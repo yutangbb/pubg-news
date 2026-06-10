@@ -1,5 +1,20 @@
 [
     {
+        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (06/01~06/07)",
+        "summary": "",
+        "postId": 10262,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-06-10 07:34:50",
+        "displayTime": "2026-06-10 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260610/2BcQstQa.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260610/2BcQstQa_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/10262"
+    },
+    {
         "title": "觀看 PGS 6 直播，好禮掉寶大方送！",
         "summary": "為了讓大家的觀賽體驗更加刺激有趣，我們特別準備了專屬的 PGS 6 直播掉寶活動！",
         "postId": 10244,
@@ -129,17 +144,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260513/5aJvrxRu.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260513/5aJvrxRu_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/10043"
-    },
-    {
-        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (05/04~05/10)",
-        "summary": "",
-        "postId": 10079,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2026-05-18 03:33:12",
-        "displayTime": "2026-05-13 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260518/r5rUIIEK.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260518/r5rUIIEK_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/10079"
     }
 ]

@@ -1,5 +1,34 @@
 [
     {
+        "title": "PNC 2026 이벤트 페이지 오픈 안내",
+        "summary": "",
+        "postId": 10271,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2026-06-10 04:03:30",
+        "displayTime": "2026-06-10 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260610/zLGaH9uQ.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260610/zLGaH9uQ_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/10271"
+    },
+    {
+        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (06/01~06/07)",
+        "summary": "",
+        "postId": 10262,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-06-10 06:12:17",
+        "displayTime": "2026-06-10 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260610/NesBD3l5.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260610/NesBD3l5_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/10262"
+    },
+    {
         "title": "PNC 2026 X MUSINSA 굿즈 & 티켓 판매 오픈",
         "summary": "",
         "postId": 10257,
@@ -113,32 +142,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260519/tDOJw7DE.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260519/tDOJw7DE_thumb.png",
         "newsUrl": "https://pubg.com/ko/news/10110"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (05/04~05/10)",
-        "summary": "",
-        "postId": 10079,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2026-05-13 07:03:50",
-        "displayTime": "2026-05-13 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260513/S7DUXC4A.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260513/S7DUXC4A_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/10079"
-    },
-    {
-        "title": "PUBG x 할리데이비슨",
-        "summary": "",
-        "postId": 10043,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-05-12 08:39:56",
-        "displayTime": "2026-05-13 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260512/9nMG9cjJ.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260512/9nMG9cjJ_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/10043"
     }
 ]
