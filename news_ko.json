@@ -1,5 +1,65 @@
 [
     {
+        "title": "[개발일지] 블루존 개편",
+        "summary": "",
+        "postId": 10280,
+        "category": "dev_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-06-16 04:01:26",
+        "displayTime": "2026-06-16 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/GmFpfOtm.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/GmFpfOtm_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/10280"
+    },
+    {
+        "title": "맵 서비스 리포트 - 업데이트 42.1",
+        "summary": "",
+        "postId": 10181,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-06-16 03:13:05",
+        "displayTime": "2026-06-16 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/4OxyAZTc.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/4OxyAZTc_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/10181"
+    },
+    {
+        "title": "2026년 6월 상점 안내",
+        "summary": "2026년 6월 상점 안내에 오신 것을 환영합니다!",
+        "postId": 10180,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-06-16 02:54:12",
+        "displayTime": "2026-06-16 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/nDiWk4DZ.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/nDiWk4DZ_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/10180"
+    },
+    {
+        "title": "패치 노트 - 업데이트 42.1",
+        "summary": "업데이트 42.1에서 신규 기능 및 개선 사항을 만나보세요.",
+        "postId": 10179,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-06-15 12:24:53",
+        "displayTime": "2026-06-16 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260615/7pedrWNS.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260615/7pedrWNS_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/10179"
+    },
+    {
         "title": "PNC 2026 이벤트 페이지 오픈 안내",
         "summary": "",
         "postId": 10271,
@@ -85,62 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260527/Ycnvuij5.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260527/Ycnvuij5_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/10141"
-    },
-    {
-        "title": "펍지 네이션스 컵 2026 공식 참가팀 안내",
-        "summary": "",
-        "postId": 10168,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2026-05-27 06:19:39",
-        "displayTime": "2026-05-27 05:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260527/JbUaLr5I.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260527/JbUaLr5I_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/10168"
-    },
-    {
-        "title": "2026 PWS: PHASE 2 예선 참가 안내",
-        "summary": "",
-        "postId": 10159,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2026-05-26 03:58:22",
-        "displayTime": "2026-05-26 04:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260526/SVLA2jv6.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260526/SVLA2jv6_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/10159"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (05/11~05/17)",
-        "summary": "",
-        "postId": 10106,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-05-20 07:13:27",
-        "displayTime": "2026-05-20 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260520/WfRJGaVm.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260520/WfRJGaVm_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/10106"
-    },
-    {
-        "title": "펍지 글로벌 챔피언십 2026이 튀르키예 이스탄불에서 개최됩니다! ",
-        "summary": "",
-        "postId": 10110,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2026-05-19 06:56:52",
-        "displayTime": "2026-05-19 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260519/tDOJw7DE.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260519/tDOJw7DE_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/10110"
     }
 ]

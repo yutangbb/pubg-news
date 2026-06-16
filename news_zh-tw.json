@@ -1,5 +1,50 @@
 [
     {
+        "title": "[開發者信件] 藍區翻新",
+        "summary": "",
+        "postId": 10280,
+        "category": "dev_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-06-16 02:49:55",
+        "displayTime": "2026-06-16 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/7HLJNBrm.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/7HLJNBrm_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/10280"
+    },
+    {
+        "title": "地圖營運報告 - 版本 42.1",
+        "summary": "",
+        "postId": 10181,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-06-16 02:30:34",
+        "displayTime": "2026-06-16 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/y7sCEETy.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/y7sCEETy_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/10181"
+    },
+    {
+        "title": "2026 年 6 月商店更新",
+        "summary": "歡迎來到 2026 年的第六次商店更新！",
+        "postId": 10180,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-06-15 09:17:13",
+        "displayTime": "2026-06-16 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260615/wLp1ZL9F.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260615/wLp1ZL9F_thumb.png",
+        "newsUrl": "https://pubg.com/zh-tw/news/10180"
+    },
+    {
         "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (06/01~06/07)",
         "summary": "",
         "postId": 10262,
@@ -99,48 +144,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260605/XEjVbWvF.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260605/XEjVbWvF_thumb.png",
         "newsUrl": "https://pubg.com/zh-tw/news/10212"
-    },
-    {
-        "title": "PNC 2026 賽事詳細資訊公告",
-        "summary": "為您詳細介紹本次賽事的競賽制度、賽事規則以及其他關鍵細節。",
-        "postId": 10184,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2026-06-05 08:56:54",
-        "displayTime": "2026-05-28 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260605/WzwvPOkM.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260605/WzwvPOkM_thumb.png",
-        "newsUrl": "https://pubg.com/zh-tw/news/10184"
-    },
-    {
-        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (05/18~05/24)",
-        "summary": "",
-        "postId": 10141,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-05-29 02:25:02",
-        "displayTime": "2026-05-27 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260529/Vf2zC2mq.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260529/Vf2zC2mq_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/10141"
-    },
-    {
-        "title": "PNC 2026 參賽隊伍名單公告",
-        "summary": "正式揭曉即將於今年 6 月在首爾登台亮相的所有 24 支全明星戰隊完整選手陣容！",
-        "postId": 10168,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2026-06-01 09:56:40",
-        "displayTime": "2026-05-27 05:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260601/JMBD5rQ1.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260601/JMBD5rQ1_thumb.png",
-        "newsUrl": "https://pubg.com/zh-tw/news/10168"
     }
 ]

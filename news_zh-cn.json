@@ -1,5 +1,110 @@
 [
     {
+        "title": "[开发者日志] - 蓝圈改版",
+        "summary": "[开发者日志] - 蓝圈改版",
+        "postId": 10280,
+        "category": "dev_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-06-16 06:16:46",
+        "displayTime": "2026-06-16 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/c3tXWi9S.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/c3tXWi9S_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/10280"
+    },
+    {
+        "title": "地图轮换报告 – 42.1",
+        "summary": "地图轮换报告 – 42.1",
+        "postId": 10181,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-06-16 06:05:51",
+        "displayTime": "2026-06-16 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/Y3GfizCG.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/Y3GfizCG_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/10181"
+    },
+    {
+        "title": "2026年6月商店公告",
+        "summary": "欢迎阅读2026年的第6份商店公告！",
+        "postId": 10180,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-06-16 06:20:00",
+        "displayTime": "2026-06-16 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/fp5mK1H8.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/fp5mK1H8_thumb.png",
+        "newsUrl": "https://pubg.com/zh-cn/news/10180"
+    },
+    {
+        "title": "42.1版本更新公告",
+        "summary": "在42.1版本更新中体验新功能和优化内容吧！",
+        "postId": 10179,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-06-16 06:12:30",
+        "displayTime": "2026-06-16 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/JPQWlL44.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/JPQWlL44_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/10179"
+    },
+    {
+        "title": "【每周违规账号公示】6/1~ 6/7",
+        "summary": "【每周违规账号公示】6/1~ 6/7",
+        "postId": 10262,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-06-16 06:30:56",
+        "displayTime": "2026-06-10 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/xE4Rq3rA.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/xE4Rq3rA_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/10262"
+    },
+    {
+        "title": "【每周违规账号公示】5/25~ 5/31",
+        "summary": "【每周违规账号公示】5/25~ 5/31",
+        "postId": 10208,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-06-16 07:09:48",
+        "displayTime": "2026-06-03 07:20:29",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/IxFUbeFB.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/IxFUbeFB_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/10208"
+    },
+    {
+        "title": "【每周违规账号公示】5/18~ 5/24",
+        "summary": "【每周违规账号公示】5/18~ 5/24",
+        "postId": 10141,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-06-16 07:13:02",
+        "displayTime": "2026-05-27 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/8NayoOhd.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/8NayoOhd_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/10141"
+    },
+    {
         "title": "【每周违规账号公示】5/11~ 5/17",
         "summary": "【每周违规账号公示】5/11~ 5/17",
         "postId": 10106,
@@ -43,110 +148,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260513/lXil50gz.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260513/lXil50gz_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/10009"
-    },
-    {
-        "title": "41.2版本更新公告",
-        "summary": "在41.2版本更新中体验新功能和优化内容吧！",
-        "postId": 10080,
-        "category": "patch_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-05-12 05:58:11",
-        "displayTime": "2026-05-12 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260512/LnIZNRdi.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260512/LnIZNRdi_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/10080"
-    },
-    {
-        "title": "地图轮换报告 – 41.2",
-        "summary": "地图轮换报告 – 41.2",
-        "postId": 10042,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-05-12 06:17:40",
-        "displayTime": "2026-05-12 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260512/HIJDYasa.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260512/HIJDYasa_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/10042"
-    },
-    {
-        "title": "2026年5月商店公告",
-        "summary": "欢迎阅读2026年的第5份商店公告！",
-        "postId": 10041,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-05-12 06:21:17",
-        "displayTime": "2026-05-12 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260512/tSymilEf.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260512/tSymilEf_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/10041"
-    },
-    {
-        "title": "【每周违规账号公示】4/27~ 5/03",
-        "summary": "【每周违规账号公示】4/27~ 5/03",
-        "postId": 10059,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-05-06 07:39:04",
-        "displayTime": "2026-05-06 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260506/OUmMAX8f.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260506/OUmMAX8f_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/10059"
-    },
-    {
-        "title": "【每周违规账号公示】4/20~ 4/26",
-        "summary": "【每周违规账号公示】4/20~ 4/26",
-        "postId": 10027,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-05-06 07:41:56",
-        "displayTime": "2026-04-29 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260506/xtv5IPid.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260506/xtv5IPid_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/10027"
-    },
-    {
-        "title": "【每周违规账号公示】4/13~ 4/19",
-        "summary": "【每周违规账号公示】4/13~ 4/19",
-        "postId": 9977,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-05-06 07:44:09",
-        "displayTime": "2026-04-22 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260506/nwXydqvm.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260506/nwXydqvm_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/9977"
-    },
-    {
-        "title": "[开发者日志] 反作弊系统优化现状 - 减少误封、强化宏检测",
-        "summary": "[开发者日志] 反作弊系统优化现状 - 减少误封、强化宏检测",
-        "postId": 9935,
-        "category": "dev_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-04-17 04:09:29",
-        "displayTime": "2026-04-17 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260420/mj4AOpqc.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260420/mj4AOpqc_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/9935"
     }
 ]

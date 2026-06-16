@@ -1,5 +1,65 @@
 [
     {
+        "title": "[Dev Letter] Blue Zone Revamp",
+        "summary": "",
+        "postId": 10280,
+        "category": "dev_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-06-10 12:10:49",
+        "displayTime": "2026-06-16 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260615/ygo8jiBl.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260615/ygo8jiBl_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/10280"
+    },
+    {
+        "title": "Map Service Report - Update 42.1",
+        "summary": "",
+        "postId": 10181,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-05-28 05:25:36",
+        "displayTime": "2026-06-16 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260609/72fzkOVc.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260609/72fzkOVc_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/10181"
+    },
+    {
+        "title": "June Store Update 2026 ",
+        "summary": "Welcome to the sixth Store Update of 2026!",
+        "postId": 10180,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-05-28 05:24:54",
+        "displayTime": "2026-06-16 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260609/56IhYU0w.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260609/56IhYU0w_thumb.png",
+        "newsUrl": "https://pubg.com/en/news/10180"
+    },
+    {
+        "title": "Patch Notes - Update 42.1",
+        "summary": "",
+        "postId": 10179,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-05-28 05:24:09",
+        "displayTime": "2026-06-16 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260610/HqdGFbZG.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260610/HqdGFbZG_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/10179"
+    },
+    {
         "title": "PNC 2026 Event Page Now Open",
         "summary": "The PNC 2026 Event Page, your all-in-one hub for the premier global PUBG Nations Cup showdown featuring 24 all-star teams, officially opens on June 10!",
         "postId": 10271,
@@ -85,62 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260601/gqUuYFKq.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260601/gqUuYFKq_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/10208"
-    },
-    {
-        "title": "PUBG Nations Cup 2026(PNC 2026) Ticket Sales",
-        "summary": "Get ready for the fierce survival showdown among 24 all-star teams at PUBG Nations Cup 2026(PNC 2026)!",
-        "postId": 10212,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2026-06-02 08:35:31",
-        "displayTime": "2026-06-02 09:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260602/Mcjk7Xvq.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260602/Mcjk7Xvq_thumb.png",
-        "newsUrl": "https://pubg.com/en/news/10212"
-    },
-    {
-        "title": "PNC 2026 Tournament Details",
-        "summary": "PUBG Nations Cup 2026 tournament format, ruleset, and key details.",
-        "postId": 10184,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2026-05-28 06:12:44",
-        "displayTime": "2026-05-28 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260528/rQNmgnDh.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260528/rQNmgnDh_thumb.png",
-        "newsUrl": "https://pubg.com/en/news/10184"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (05/18~05/24)",
-        "summary": "",
-        "postId": 10141,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-05-22 01:07:58",
-        "displayTime": "2026-05-27 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260522/gYyXlcrw.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260522/gYyXlcrw_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/10141"
-    },
-    {
-        "title": "PNC 2026 Official Participating Teams Announcement",
-        "summary": "We're excited to officially unveil the rosters of all 24 all-star teams set to take the stage in Seoul this June!",
-        "postId": 10168,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2026-05-27 04:22:48",
-        "displayTime": "2026-05-27 05:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260527/7qc5uTWr.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260527/7qc5uTWr_thumb.png",
-        "newsUrl": "https://pubg.com/en/news/10168"
     }
 ]
