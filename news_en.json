@@ -1,5 +1,50 @@
 [
     {
+        "title": "PUBG FANTASY : PNC 2026",
+        "summary": "Introducing PUBG Fantasy, a brand-new way to enjoy PUBG Esports!",
+        "postId": 10285,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-06-11 05:13:16",
+        "displayTime": "2026-06-17 07:01:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260611/ZKEYQ0mh.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260611/ZKEYQ0mh_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/10285"
+    },
+    {
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (06/08~06/14)",
+        "summary": "",
+        "postId": 10296,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-06-15 06:49:51",
+        "displayTime": "2026-06-17 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260615/HW21Uy28.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260615/HW21Uy28_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/10296"
+    },
+    {
+        "title": "Black Market 2026",
+        "summary": "Originality returns in Black Market 2026 with an array of returning Progressive weapon skins and outfits, along with exciting new additions!",
+        "postId": 10182,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-05-28 05:26:06",
+        "displayTime": "2026-06-17 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260609/HZIFgWN4.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260609/HZIFgWN4_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/10182"
+    },
+    {
         "title": "[Dev Letter] Blue Zone Revamp",
         "summary": "",
         "postId": 10280,
@@ -101,49 +146,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260609/wCMo9i7k.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260609/wCMo9i7k_thumb.png",
         "newsUrl": "https://pubg.com/en/news/10268"
-    },
-    {
-        "title": "Watch PNC 2026 and Get Drops!",
-        "summary": "To make PNC 2026 even more exciting, we’ve prepared the Drops event.\nTune in to the live broadcasts and earn special in-game items!",
-        "postId": 10263,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2026-06-08 07:11:20",
-        "displayTime": "2026-06-08 07:09:40",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260608/WcrT3X9M.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260608/WcrT3X9M_thumb.png",
-        "newsUrl": "https://pubg.com/en/news/10263"
-    },
-    {
-        "title": "Watch PGS 6 and Get Drops!",
-        "summary": "The PGS 6 Grand Finals, the final showdown of the first half of the 2026 PUBG Esports circuit, is just around the corner. To make your viewing experience even more exciting, we’ve prepared special PGS 6 Drops!",
-        "postId": 10244,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_esports"
-        ],
-        "createdAt": "2026-06-04 03:13:12",
-        "displayTime": "2026-06-04 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260604/BuG7Hzkb.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260604/BuG7Hzkb_thumb.png",
-        "newsUrl": "https://pubg.com/en/news/10244"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (05/25~05/31)",
-        "summary": "",
-        "postId": 10208,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-06-01 00:55:48",
-        "displayTime": "2026-06-03 07:20:29",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260601/gqUuYFKq.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260601/gqUuYFKq_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/10208"
     }
 ]

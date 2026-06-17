@@ -1,5 +1,50 @@
 [
     {
+        "title": "PUBG 판타지 : PNC 2026",
+        "summary": "PUBG 이스포츠와 함께 즐기는 신규 콘텐츠, PUBG 판타지를 소개합니다!",
+        "postId": 10285,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-06-17 02:39:29",
+        "displayTime": "2026-06-17 07:01:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260617/Nb96giNO.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260617/Nb96giNO_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/10285"
+    },
+    {
+        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (06/08~06/14)",
+        "summary": "",
+        "postId": 10296,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-06-17 06:45:29",
+        "displayTime": "2026-06-17 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260617/bmnlyPJX.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260617/bmnlyPJX_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/10296"
+    },
+    {
+        "title": "2026 블랙 마켓",
+        "summary": "2026 블랙 마켓에서 다시 만나는 오리지널리티 - 다양한 성장형 무기 스킨과 신규 아이템까지 모두 만나보세요!",
+        "postId": 10182,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-06-12 07:38:50",
+        "displayTime": "2026-06-17 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260612/6gt9dgE2.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260612/6gt9dgE2_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/10182"
+    },
+    {
         "title": "[개발일지] 블루존 개편",
         "summary": "",
         "postId": 10280,
@@ -101,49 +146,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260605/0xKN7F1p.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260605/0xKN7F1p_thumb.png",
         "newsUrl": "https://pubg.com/ko/news/10257"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (05/25~05/31)",
-        "summary": "",
-        "postId": 10208,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-06-03 08:29:59",
-        "displayTime": "2026-06-03 07:20:29",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260603/DHI1wVhm.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260603/DHI1wVhm_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/10208"
-    },
-    {
-        "title": "펍지 네이션스 컵 2026(PNC 2026) 티켓 판매 안내 (#1)",
-        "summary": "",
-        "postId": 10212,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2026-06-02 08:40:45",
-        "displayTime": "2026-06-02 09:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260602/xkBNFuL3.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260602/xkBNFuL3_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/10212"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (05/18~05/24)",
-        "summary": "",
-        "postId": 10141,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-05-27 04:57:01",
-        "displayTime": "2026-05-27 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260527/Ycnvuij5.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260527/Ycnvuij5_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/10141"
     }
 ]

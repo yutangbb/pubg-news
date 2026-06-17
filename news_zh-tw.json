@@ -1,5 +1,50 @@
 [
     {
+        "title": "PUBG 夢幻聯賽：PNC 2026",
+        "summary": "隆重推出 PUBG 夢幻聯賽，一個享受 PUBG 電競賽事的全新方式！",
+        "postId": 10285,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-06-17 06:57:18",
+        "displayTime": "2026-06-17 07:01:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260617/6h50Nfs1.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260617/6h50Nfs1_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/10285"
+    },
+    {
+        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (06/08~06/14)",
+        "summary": "",
+        "postId": 10296,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-06-17 07:04:19",
+        "displayTime": "2026-06-17 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260617/w2ZYCHyi.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260617/w2ZYCHyi_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/10296"
+    },
+    {
+        "title": "黑市 2026",
+        "summary": "獨創性在黑市 2026 中回歸，包含一系列回歸的成長型武器造型和服裝，還有令人期待的新增內容！",
+        "postId": 10182,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-06-16 09:50:39",
+        "displayTime": "2026-06-17 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/guuK4gHf.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/guuK4gHf_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/10182"
+    },
+    {
         "title": "[開發者信件] 藍區翻新",
         "summary": "",
         "postId": 10280,
@@ -101,49 +146,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260612/6hCsKFoM.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260612/6hCsKFoM_thumb.png",
         "newsUrl": "https://pubg.com/zh-tw/news/10268"
-    },
-    {
-        "title": "觀看 PNC 2026 直播，好禮掉寶大方送！",
-        "summary": "為了讓 PNC 2026 賽事更加刺激有趣，我們特別準備了直播掉寶活動！\n準時鎖定賽事直播，就能贏取專屬的遊戲內道具！",
-        "postId": 10263,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2026-06-12 04:44:30",
-        "displayTime": "2026-06-08 07:09:40",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260612/GYfnsM3s.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260612/GYfnsM3s_thumb.png",
-        "newsUrl": "https://pubg.com/zh-tw/news/10263"
-    },
-    {
-        "title": "觀看 PGS 6 直播，好禮掉寶大方送！",
-        "summary": "為了讓大家的觀賽體驗更加刺激有趣，我們特別準備了專屬的 PGS 6 直播掉寶活動！",
-        "postId": 10244,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_esports"
-        ],
-        "createdAt": "2026-06-05 08:59:24",
-        "displayTime": "2026-06-04 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260605/WGvhATlt.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260605/WGvhATlt_thumb.png",
-        "newsUrl": "https://pubg.com/zh-tw/news/10244"
-    },
-    {
-        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (05/25~05/31)",
-        "summary": "",
-        "postId": 10208,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-06-05 06:31:11",
-        "displayTime": "2026-06-03 07:20:29",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260605/TIOsWt8o.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260605/TIOsWt8o_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/10208"
     }
 ]

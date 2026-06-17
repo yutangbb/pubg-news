@@ -1,5 +1,50 @@
 [
     {
+        "title": "PUBG 幻想联赛：PNC 2026",
+        "summary": "PUBG 幻想联赛正式上线，快来以全新方式感受 PUBG 电竞！",
+        "postId": 10285,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-06-17 05:17:13",
+        "displayTime": "2026-06-17 07:01:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260617/6YTZ6Gu1.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260617/6YTZ6Gu1_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/10285"
+    },
+    {
+        "title": "【每周违规账号公示】6/8~ 6/14",
+        "summary": "【每周违规账号公示】6/8~ 6/14",
+        "postId": 10296,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-06-17 07:07:11",
+        "displayTime": "2026-06-17 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260617/DbY18Gke.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260617/DbY18Gke_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/10296"
+    },
+    {
+        "title": "神秘市场2026",
+        "summary": "神秘市场2026携原创好物重磅回归！多款成长型武器皮肤与服装再度登场，更有精彩新品等你发掘！",
+        "postId": 10182,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-06-17 04:57:43",
+        "displayTime": "2026-06-17 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260617/HR8feYRi.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260617/HR8feYRi_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/10182"
+    },
+    {
         "title": "[开发者日志] - 蓝圈改版",
         "summary": "[开发者日志] - 蓝圈改版",
         "postId": 10280,
@@ -103,50 +148,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/8NayoOhd.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/8NayoOhd_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/10141"
-    },
-    {
-        "title": "【每周违规账号公示】5/11~ 5/17",
-        "summary": "【每周违规账号公示】5/11~ 5/17",
-        "postId": 10106,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-05-20 09:37:14",
-        "displayTime": "2026-05-20 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260520/lDzby48o.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260520/lDzby48o_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/10106"
-    },
-    {
-        "title": "PUBG x 哈雷戴维森",
-        "summary": "PUBG x 哈雷戴维森",
-        "postId": 10043,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-05-13 05:02:03",
-        "displayTime": "2026-05-13 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260513/bzfBeCxT.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260513/bzfBeCxT_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/10043"
-    },
-    {
-        "title": "新模式：赏金行动",
-        "summary": "齐心协力，尽可能获取更多的战利品吧！",
-        "postId": 10009,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-05-13 05:16:49",
-        "displayTime": "2026-05-13 05:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260513/lXil50gz.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260513/lXil50gz_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/10009"
     }
 ]
