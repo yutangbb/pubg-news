@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (06/15~06/21)",
+        "summary": "",
+        "postId": 10332,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-06-23 05:24:46",
+        "displayTime": "2026-06-24 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260623/HwG5U8wL.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260623/HwG5U8wL_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/10332"
+    },
+    {
         "title": "PUBG 판타지 : PNC 2026",
         "summary": "PUBG 이스포츠와 함께 즐기는 신규 콘텐츠, PUBG 판타지를 소개합니다!",
         "postId": 10285,
@@ -131,19 +146,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260610/NesBD3l5.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260610/NesBD3l5_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/10262"
-    },
-    {
-        "title": "PNC 2026 X MUSINSA 굿즈 & 티켓 판매 오픈 (#1)",
-        "summary": "",
-        "postId": 10257,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2026-06-05 08:43:29",
-        "displayTime": "2026-06-05 09:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260605/0xKN7F1p.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260605/0xKN7F1p_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/10257"
     }
 ]

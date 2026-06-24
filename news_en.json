@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (06/15~06/21)",
+        "summary": "",
+        "postId": 10332,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-06-22 06:48:18",
+        "displayTime": "2026-06-24 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260622/dxIrMU87.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260622/dxIrMU87_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/10332"
+    },
+    {
         "title": "PUBG FANTASY : PNC 2026",
         "summary": "Introducing PUBG Fantasy, a brand-new way to enjoy PUBG Esports!",
         "postId": 10285,
@@ -131,19 +146,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260608/AKJkOxFr.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260608/AKJkOxFr_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/10262"
-    },
-    {
-        "title": "PNC 2026 Player POV Channel List ",
-        "summary": "During the PNC 2026 Grand Finals, participating players will be streaming their own matches live!",
-        "postId": 10268,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2026-06-09 06:08:08",
-        "displayTime": "2026-06-09 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260609/wCMo9i7k.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260609/wCMo9i7k_thumb.png",
-        "newsUrl": "https://pubg.com/en/news/10268"
     }
 ]
