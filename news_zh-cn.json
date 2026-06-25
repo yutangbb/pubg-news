@@ -1,5 +1,20 @@
 [
     {
+        "title": "[开发者日志] 反作弊优化与未来方向",
+        "summary": "[开发者日志] 反作弊优化与未来方向",
+        "postId": 10338,
+        "category": "dev_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-06-24 09:15:44",
+        "displayTime": "2026-06-25 08:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260624/s4zFJba3.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260624/s4zFJba3_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/10338"
+    },
+    {
         "title": "PUBG 幻想联赛：PNC 2026",
         "summary": "PUBG 幻想联赛正式上线，快来以全新方式感受 PUBG 电竞！",
         "postId": 10285,
@@ -132,20 +147,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/IxFUbeFB.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/IxFUbeFB_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/10208"
-    },
-    {
-        "title": "【每周违规账号公示】5/18~ 5/24",
-        "summary": "【每周违规账号公示】5/18~ 5/24",
-        "postId": 10141,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-06-16 07:13:02",
-        "displayTime": "2026-05-27 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/8NayoOhd.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/8NayoOhd_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/10141"
     }
 ]

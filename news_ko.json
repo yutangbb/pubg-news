@@ -1,5 +1,20 @@
 [
     {
+        "title": "핵 제보 캠페인 결과 취합 결과 안내 공지 작성/세팅",
+        "summary": "",
+        "postId": 10338,
+        "category": "dev_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-06-24 08:58:40",
+        "displayTime": "2026-06-25 08:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260624/VfNbGFBx.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260624/VfNbGFBx_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/10338"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (06/15~06/21)",
         "summary": "",
         "postId": 10332,
@@ -131,20 +146,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260610/zLGaH9uQ.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260610/zLGaH9uQ_thumb.png",
         "newsUrl": "https://pubg.com/ko/news/10271"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (06/01~06/07)",
-        "summary": "",
-        "postId": 10262,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-06-10 06:12:17",
-        "displayTime": "2026-06-10 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260610/NesBD3l5.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260610/NesBD3l5_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/10262"
     }
 ]

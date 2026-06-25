@@ -1,5 +1,20 @@
 [
     {
+        "title": "[Dev Letter] Anti-Cheat Improvements and Future Direction",
+        "summary": "",
+        "postId": 10338,
+        "category": "dev_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-06-24 01:11:54",
+        "displayTime": "2026-06-25 08:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260624/rd2Edawv.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260624/rd2Edawv_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/10338"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (06/15~06/21)",
         "summary": "",
         "postId": 10332,
@@ -131,20 +146,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260609/zVrVvBhw.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260609/zVrVvBhw_thumb.png",
         "newsUrl": "https://pubg.com/en/news/10271"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (06/01~06/07)",
-        "summary": "",
-        "postId": 10262,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-06-08 06:06:49",
-        "displayTime": "2026-06-10 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260608/AKJkOxFr.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260608/AKJkOxFr_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/10262"
     }
 ]
