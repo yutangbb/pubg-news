@@ -1,5 +1,35 @@
 [
     {
+        "title": "[開發者信件] 反作弊改善與未來方向",
+        "summary": "",
+        "postId": 10338,
+        "category": "dev_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-06-29 09:01:13",
+        "displayTime": "2026-06-25 08:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260629/1uXYOTmv.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260629/1uXYOTmv_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/10338"
+    },
+    {
+        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (06/15~06/21)",
+        "summary": "",
+        "postId": 10332,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-06-29 08:51:42",
+        "displayTime": "2026-06-24 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260629/iYr6K9yZ.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260629/iYr6K9yZ_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/10332"
+    },
+    {
         "title": "PUBG 夢幻聯賽：PNC 2026",
         "summary": "隆重推出 PUBG 夢幻聯賽，一個享受 PUBG 電競賽事的全新方式！",
         "postId": 10285,
@@ -117,33 +147,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260610/2BcQstQa.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260610/2BcQstQa_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/10262"
-    },
-    {
-        "title": "PNC 2026 賽事活動專頁現已正式上線！",
-        "summary": "匯集了 24 支全明星頂尖戰隊的國際頂級盛事 —— PNC 2026 賽事活動專頁，已於 6 月 10 日正式開啟，將為您提供一站式的全方位賽事資訊！",
-        "postId": 10271,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2026-06-12 04:46:56",
-        "displayTime": "2026-06-10 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260612/Jd0vmkIf.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260612/Jd0vmkIf_thumb.png",
-        "newsUrl": "https://pubg.com/zh-tw/news/10271"
-    },
-    {
-        "title": "PNC 2026 選手個人視角（POV）直播頻道清單",
-        "summary": "在 PNC 2026 總決賽期間，所有參賽選手將會親自實況自己的比賽！",
-        "postId": 10268,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2026-06-12 04:46:01",
-        "displayTime": "2026-06-09 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260612/6hCsKFoM.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260612/6hCsKFoM_thumb.png",
-        "newsUrl": "https://pubg.com/zh-tw/news/10268"
     }
 ]
