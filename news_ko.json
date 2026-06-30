@@ -1,5 +1,19 @@
 [
     {
+        "title": "Console 부정행위 영구 제재 정책 적용 안내",
+        "summary": "",
+        "postId": 10374,
+        "category": "notice",
+        "labels": [
+            "label_console"
+        ],
+        "createdAt": "2026-06-29 10:14:31",
+        "displayTime": "2026-06-30 05:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260629/RFf04kAZ.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260629/RFf04kAZ_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/10374"
+    },
+    {
         "title": "[개발일지] 안티치트 개선 사항과 향후 운영 방향",
         "summary": "",
         "postId": 10338,
@@ -132,19 +146,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260615/7pedrWNS.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260615/7pedrWNS_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/10179"
-    },
-    {
-        "title": "PNC 2026 이벤트 페이지 오픈 안내",
-        "summary": "",
-        "postId": 10271,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2026-06-10 04:03:30",
-        "displayTime": "2026-06-10 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260610/zLGaH9uQ.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260610/zLGaH9uQ_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/10271"
     }
 ]

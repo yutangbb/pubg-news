@@ -1,5 +1,19 @@
 [
     {
+        "title": "Permanent Ban Policy for Cheating on Consoles",
+        "summary": "",
+        "postId": 10374,
+        "category": "notice",
+        "labels": [
+            "label_console"
+        ],
+        "createdAt": "2026-06-29 07:50:44",
+        "displayTime": "2026-06-30 05:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260629/rsDZw2zA.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260629/rsDZw2zA_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/10374"
+    },
+    {
         "title": "[Dev Letter] Anti-Cheat Improvements and Future Direction",
         "summary": "",
         "postId": 10338,
@@ -132,19 +146,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260610/HqdGFbZG.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260610/HqdGFbZG_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/10179"
-    },
-    {
-        "title": "PNC 2026 Event Page Now Open",
-        "summary": "The PNC 2026 Event Page, your all-in-one hub for the premier global PUBG Nations Cup showdown featuring 24 all-star teams, officially opens on June 10!",
-        "postId": 10271,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2026-06-09 08:07:39",
-        "displayTime": "2026-06-10 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260609/zVrVvBhw.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260609/zVrVvBhw_thumb.png",
-        "newsUrl": "https://pubg.com/en/news/10271"
     }
 ]
