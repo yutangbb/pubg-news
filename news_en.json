@@ -1,5 +1,20 @@
 [
     {
+        "title": "New Blue Zone Ruleset: Rondo",
+        "summary": "",
+        "postId": 10367,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-06-29 01:04:15",
+        "displayTime": "2026-06-30 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260630/bRstmI14.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260630/bRstmI14_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/10367"
+    },
+    {
         "title": "Permanent Ban Policy for Cheating on Consoles",
         "summary": "",
         "postId": 10374,
@@ -131,20 +146,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260609/56IhYU0w.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260609/56IhYU0w_thumb.png",
         "newsUrl": "https://pubg.com/en/news/10180"
-    },
-    {
-        "title": "Patch Notes - Update 42.1",
-        "summary": "",
-        "postId": 10179,
-        "category": "patch_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-05-28 05:24:09",
-        "displayTime": "2026-06-16 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260610/HqdGFbZG.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260610/HqdGFbZG_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/10179"
     }
 ]

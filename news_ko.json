@@ -1,5 +1,20 @@
 [
     {
+        "title": "신규 블루존 규칙: 론도",
+        "summary": "",
+        "postId": 10367,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-06-30 04:44:57",
+        "displayTime": "2026-06-30 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260630/byFUuT9g.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260630/byFUuT9g_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/10367"
+    },
+    {
         "title": "Console 부정행위 영구 제재 정책 적용 안내",
         "summary": "",
         "postId": 10374,
@@ -131,20 +146,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/nDiWk4DZ.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/nDiWk4DZ_thumb.png",
         "newsUrl": "https://pubg.com/ko/news/10180"
-    },
-    {
-        "title": "패치 노트 - 업데이트 42.1",
-        "summary": "업데이트 42.1에서 신규 기능 및 개선 사항을 만나보세요.",
-        "postId": 10179,
-        "category": "patch_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-06-15 12:24:53",
-        "displayTime": "2026-06-16 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260615/7pedrWNS.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260615/7pedrWNS_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/10179"
     }
 ]

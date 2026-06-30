@@ -1,5 +1,20 @@
 [
     {
+        "title": "全新蓝圈：荣都 ",
+        "summary": "7月1日！节奏更快、战斗更激烈的荣都全新登场！",
+        "postId": 10367,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-06-30 06:03:28",
+        "displayTime": "2026-06-30 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260630/NeKkohuE.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260630/NeKkohuE_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/10367"
+    },
+    {
         "title": "[开发者日志] 反作弊优化与未来方向",
         "summary": "[开发者日志] 反作弊优化与未来方向",
         "postId": 10338,
@@ -13,6 +28,21 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260624/s4zFJba3.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260624/s4zFJba3_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/10338"
+    },
+    {
+        "title": "【每周违规账号公示】6/15~ 6/21",
+        "summary": "【每周违规账号公示】6/15~ 6/21",
+        "postId": 10332,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-06-30 08:14:43",
+        "displayTime": "2026-06-24 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260630/ibvj0wnT.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260630/ibvj0wnT_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/10332"
     },
     {
         "title": "PUBG 幻想联赛：PNC 2026",
@@ -117,35 +147,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/JPQWlL44.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/JPQWlL44_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/10179"
-    },
-    {
-        "title": "【每周违规账号公示】6/1~ 6/7",
-        "summary": "【每周违规账号公示】6/1~ 6/7",
-        "postId": 10262,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-06-16 06:30:56",
-        "displayTime": "2026-06-10 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/xE4Rq3rA.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/xE4Rq3rA_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/10262"
-    },
-    {
-        "title": "【每周违规账号公示】5/25~ 5/31",
-        "summary": "【每周违规账号公示】5/25~ 5/31",
-        "postId": 10208,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-06-16 07:09:48",
-        "displayTime": "2026-06-03 07:20:29",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/IxFUbeFB.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/IxFUbeFB_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/10208"
     }
 ]
