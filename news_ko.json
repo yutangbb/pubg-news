@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (06/22~06/28)",
+        "summary": "",
+        "postId": 10373,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-07-01 06:14:20",
+        "displayTime": "2026-07-01 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260701/BZe86CAD.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260701/BZe86CAD_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/10373"
+    },
+    {
         "title": "신규 블루존 규칙: 론도",
         "summary": "",
         "postId": 10367,
@@ -131,20 +146,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/4OxyAZTc.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/4OxyAZTc_thumb.png",
         "newsUrl": "https://pubg.com/ko/news/10181"
-    },
-    {
-        "title": "2026년 6월 상점 안내",
-        "summary": "2026년 6월 상점 안내에 오신 것을 환영합니다!",
-        "postId": 10180,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-06-16 02:54:12",
-        "displayTime": "2026-06-16 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/nDiWk4DZ.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/nDiWk4DZ_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/10180"
     }
 ]
