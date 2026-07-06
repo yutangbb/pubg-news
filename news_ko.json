@@ -1,5 +1,19 @@
 [
     {
+        "title": "PNC 2026 응원 이벤트 당첨자 안내",
+        "summary": "",
+        "postId": 10389,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2026-07-03 05:34:20",
+        "displayTime": "2026-07-06 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260703/knnwgKlG.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260703/knnwgKlG_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/10389"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (06/22~06/28)",
         "summary": "",
         "postId": 10373,
@@ -131,20 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/GmFpfOtm.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/GmFpfOtm_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/10280"
-    },
-    {
-        "title": "맵 서비스 리포트 - 업데이트 42.1",
-        "summary": "",
-        "postId": 10181,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-06-16 03:13:05",
-        "displayTime": "2026-06-16 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/4OxyAZTc.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/4OxyAZTc_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/10181"
     }
 ]

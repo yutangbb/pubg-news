@@ -1,5 +1,19 @@
 [
     {
+        "title": "PNC全明星 2026 粉丝助威活动获奖名单公布",
+        "summary": "PNC全明星 2026 粉丝助威活动获奖名单公布",
+        "postId": 10389,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2026-07-06 03:03:42",
+        "displayTime": "2026-07-06 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260706/Qvlnm5Lu.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260706/Qvlnm5Lu_thumb.png",
+        "newsUrl": "https://pubg.com/zh-cn/news/10389"
+    },
+    {
         "title": "全新蓝圈：荣都 ",
         "summary": "7月1日！节奏更快、战斗更激烈的荣都全新登场！",
         "postId": 10367,
@@ -132,20 +146,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/fp5mK1H8.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/fp5mK1H8_thumb.png",
         "newsUrl": "https://pubg.com/zh-cn/news/10180"
-    },
-    {
-        "title": "42.1版本更新公告",
-        "summary": "在42.1版本更新中体验新功能和优化内容吧！",
-        "postId": 10179,
-        "category": "patch_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-06-16 06:12:30",
-        "displayTime": "2026-06-16 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/JPQWlL44.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/JPQWlL44_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/10179"
     }
 ]

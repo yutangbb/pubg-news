@@ -1,5 +1,19 @@
 [
     {
+        "title": "PNC 2026 粉絲應援活動中獎名單公告",
+        "summary": "",
+        "postId": 10389,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2026-07-06 06:49:01",
+        "displayTime": "2026-07-06 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260706/x1wmLmnq.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260706/x1wmLmnq_thumb.png",
+        "newsUrl": "https://pubg.com/zh-tw/news/10389"
+    },
+    {
         "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (06/22~06/28)",
         "summary": "",
         "postId": 10373,
@@ -131,20 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/7HLJNBrm.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/7HLJNBrm_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/10280"
-    },
-    {
-        "title": "地圖營運報告 - 版本 42.1",
-        "summary": "",
-        "postId": 10181,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-06-16 02:30:34",
-        "displayTime": "2026-06-16 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/y7sCEETy.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/y7sCEETy_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/10181"
     }
 ]

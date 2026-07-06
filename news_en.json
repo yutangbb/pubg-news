@@ -1,5 +1,19 @@
 [
     {
+        "title": "PNC 2026 Fan Cheer Event Winners Announcement",
+        "summary": "",
+        "postId": 10389,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2026-07-02 06:33:06",
+        "displayTime": "2026-07-06 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260702/RyZObjfV.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260702/RyZObjfV_thumb.png",
+        "newsUrl": "https://pubg.com/en/news/10389"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (06/22~06/28)",
         "summary": "",
         "postId": 10373,
@@ -131,20 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260615/ygo8jiBl.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260615/ygo8jiBl_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/10280"
-    },
-    {
-        "title": "Map Service Report - Update 42.1",
-        "summary": "",
-        "postId": 10181,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-05-28 05:25:36",
-        "displayTime": "2026-06-16 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260609/72fzkOVc.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260609/72fzkOVc_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/10181"
     }
 ]
