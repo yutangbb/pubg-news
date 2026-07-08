@@ -1,5 +1,34 @@
 [
     {
+        "title": "[開發者信件] 家機版體驗改善年度計畫",
+        "summary": "",
+        "postId": 10385,
+        "category": "dev_notes",
+        "labels": [
+            "label_console"
+        ],
+        "createdAt": "2026-07-08 07:58:54",
+        "displayTime": "2026-07-08 07:01:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260708/YVYls93V.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260708/YVYls93V_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/10385"
+    },
+    {
+        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (06/29~07/05)",
+        "summary": "",
+        "postId": 10405,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-07-08 08:01:11",
+        "displayTime": "2026-07-08 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260708/J7NkMWU4.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260708/J7NkMWU4_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/10405"
+    },
+    {
         "title": "PNC 2026 粉絲應援活動中獎名單公告",
         "summary": "",
         "postId": 10389,
@@ -115,35 +144,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260617/w2ZYCHyi.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260617/w2ZYCHyi_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/10296"
-    },
-    {
-        "title": "黑市 2026",
-        "summary": "獨創性在黑市 2026 中回歸，包含一系列回歸的成長型武器造型和服裝，還有令人期待的新增內容！",
-        "postId": 10182,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-06-16 09:50:39",
-        "displayTime": "2026-06-17 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/guuK4gHf.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/guuK4gHf_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/10182"
-    },
-    {
-        "title": "[開發者信件] 藍區翻新",
-        "summary": "",
-        "postId": 10280,
-        "category": "dev_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-06-16 02:49:55",
-        "displayTime": "2026-06-16 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/7HLJNBrm.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/7HLJNBrm_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/10280"
     }
 ]

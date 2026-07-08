@@ -1,5 +1,19 @@
 [
     {
+        "title": "[개발일지] 콘솔 경험 개선 로드맵",
+        "summary": "",
+        "postId": 10385,
+        "category": "dev_notes",
+        "labels": [
+            "label_console"
+        ],
+        "createdAt": "2026-07-07 06:43:47",
+        "displayTime": "2026-07-08 07:01:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260708/y7E4AGnk.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260708/y7E4AGnk_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/10385"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (06/29~07/05)",
         "summary": "",
         "postId": 10405,
@@ -13,21 +27,6 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260708/8jFHLBgb.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260708/8jFHLBgb_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/10405"
-    },
-    {
-        "title": "[개발일지] 콘솔 경험 개선 로드맵",
-        "summary": "",
-        "postId": 10385,
-        "category": "dev_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-07-07 06:43:47",
-        "displayTime": "2026-07-08 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260708/y7E4AGnk.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260708/y7E4AGnk_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/10385"
     },
     {
         "title": "PNC 2026 응원 이벤트 당첨자 안내",
