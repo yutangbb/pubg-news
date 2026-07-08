@@ -1,5 +1,35 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (06/29~07/05)",
+        "summary": "",
+        "postId": 10405,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-07-06 06:25:53",
+        "displayTime": "2026-07-08 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260706/TLECs9rb.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260706/TLECs9rb_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/10405"
+    },
+    {
+        "title": "[Dev Letter] Console Experience Improvement Roadmap",
+        "summary": "",
+        "postId": 10385,
+        "category": "dev_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-07-01 06:40:49",
+        "displayTime": "2026-07-08 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260708/7JbqAHmy.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260708/7JbqAHmy_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/10385"
+    },
+    {
         "title": "PNC 2026 Fan Cheer Event Winners Announcement",
         "summary": "",
         "postId": 10389,
@@ -115,35 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260615/HW21Uy28.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260615/HW21Uy28_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/10296"
-    },
-    {
-        "title": "Black Market 2026",
-        "summary": "Originality returns in Black Market 2026 with an array of returning Progressive weapon skins and outfits, along with exciting new additions!",
-        "postId": 10182,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-05-28 05:26:06",
-        "displayTime": "2026-06-17 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260609/HZIFgWN4.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260609/HZIFgWN4_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/10182"
-    },
-    {
-        "title": "[Dev Letter] Blue Zone Revamp",
-        "summary": "",
-        "postId": 10280,
-        "category": "dev_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-06-10 12:10:49",
-        "displayTime": "2026-06-16 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260615/ygo8jiBl.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260615/ygo8jiBl_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/10280"
     }
 ]
