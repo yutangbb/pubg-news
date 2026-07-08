@@ -1,5 +1,20 @@
 [
     {
+        "title": "【每周违规账号公示】6/29~ 7/05",
+        "summary": "【每周违规账号公示】6/29~ 7/05",
+        "postId": 10405,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-07-08 11:03:45",
+        "displayTime": "2026-07-08 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260708/ffCk5PDM.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260708/ffCk5PDM_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/10405"
+    },
+    {
         "title": "PNC全明星 2026 粉丝助威活动获奖名单公布",
         "summary": "PNC全明星 2026 粉丝助威活动获奖名单公布",
         "postId": 10389,
@@ -12,6 +27,21 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260706/Qvlnm5Lu.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260706/Qvlnm5Lu_thumb.png",
         "newsUrl": "https://pubg.com/zh-cn/news/10389"
+    },
+    {
+        "title": "【每周违规账号公示】6/22~ 6/28",
+        "summary": "【每周违规账号公示】6/22~ 6/28",
+        "postId": 10373,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-07-08 11:06:49",
+        "displayTime": "2026-07-01 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260708/bxHp0aBI.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260708/bxHp0aBI_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/10373"
     },
     {
         "title": "全新蓝圈：荣都 ",
@@ -116,35 +146,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/c3tXWi9S.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/c3tXWi9S_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/10280"
-    },
-    {
-        "title": "地图轮换报告 – 42.1",
-        "summary": "地图轮换报告 – 42.1",
-        "postId": 10181,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-06-16 06:05:51",
-        "displayTime": "2026-06-16 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/Y3GfizCG.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/Y3GfizCG_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/10181"
-    },
-    {
-        "title": "2026年6月商店公告",
-        "summary": "欢迎阅读2026年的第6份商店公告！",
-        "postId": 10180,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-06-16 06:20:00",
-        "displayTime": "2026-06-16 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/fp5mK1H8.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/fp5mK1H8_thumb.png",
-        "newsUrl": "https://pubg.com/zh-cn/news/10180"
     }
 ]
