@@ -1,5 +1,17 @@
 [
     {
+        "title": "🇰🇷 KOREA–FINLAND ESPORTS FESTIVAL 2026 🇫🇮",
+        "summary": "",
+        "postId": 10491,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2026-07-13 07:52:00",
+        "displayTime": "2026-07-13 08:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260713/fgyBBjC8.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260713/fgyBBjC8_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/10491"
+    },
+    {
         "title": "[개발일지] 콘솔 경험 개선 로드맵",
         "summary": "",
         "postId": 10385,
@@ -129,20 +141,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260617/Nb96giNO.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260617/Nb96giNO_thumb.png",
         "newsUrl": "https://pubg.com/ko/news/10285"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (06/08~06/14)",
-        "summary": "",
-        "postId": 10296,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-06-17 06:45:29",
-        "displayTime": "2026-06-17 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260617/bmnlyPJX.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260617/bmnlyPJX_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/10296"
     }
 ]
