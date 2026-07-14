@@ -1,5 +1,50 @@
 [
     {
+        "title": "Patch Notes - Update 42.2",
+        "summary": " Introducing Update 42.2: Discover all the latest features and improvements!",
+        "postId": 10459,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-07-10 06:26:34",
+        "displayTime": "2026-07-14 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260710/Sy2lDe3u.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260710/Sy2lDe3u_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/10459"
+    },
+    {
+        "title": "July Store Update 2026",
+        "summary": "",
+        "postId": 10427,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-07-08 08:13:16",
+        "displayTime": "2026-07-14 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260710/mdSvZdc6.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260710/mdSvZdc6_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/10427"
+    },
+    {
+        "title": "Map Service Report - Update 42.2",
+        "summary": "",
+        "postId": 10415,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-07-07 06:52:48",
+        "displayTime": "2026-07-14 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260707/JAu0bW8g.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260707/JAu0bW8g_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/10415"
+    },
+    {
         "title": "[Dev Letter] Console Experience Improvement Roadmap",
         "summary": "",
         "postId": 10385,
@@ -100,49 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260624/rd2Edawv.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260624/rd2Edawv_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/10338"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (06/15~06/21)",
-        "summary": "",
-        "postId": 10332,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-06-22 06:48:18",
-        "displayTime": "2026-06-24 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260622/dxIrMU87.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260622/dxIrMU87_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/10332"
-    },
-    {
-        "title": "PUBG FANTASY : PNC 2026",
-        "summary": "Introducing PUBG Fantasy, a brand-new way to enjoy PUBG Esports!",
-        "postId": 10285,
-        "category": "notice",
-        "labels": [
-            "label_pc"
-        ],
-        "createdAt": "2026-06-11 05:13:16",
-        "displayTime": "2026-06-17 07:01:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260611/ZKEYQ0mh.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260611/ZKEYQ0mh_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/10285"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (06/08~06/14)",
-        "summary": "",
-        "postId": 10296,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-06-15 06:49:51",
-        "displayTime": "2026-06-17 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260615/HW21Uy28.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260615/HW21Uy28_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/10296"
     }
 ]

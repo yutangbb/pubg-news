@@ -1,5 +1,20 @@
 [
     {
+        "title": "42.2版本更新公告 ",
+        "summary": "在42.2版本更新中体验新功能和优化内容吧！",
+        "postId": 10459,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-07-14 06:04:34",
+        "displayTime": "2026-07-14 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260714/HJqOWKum.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260714/HJqOWKum_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/10459"
+    },
+    {
         "title": "【每周违规账号公示】6/29~ 7/05",
         "summary": "【每周违规账号公示】6/29~ 7/05",
         "postId": 10405,
@@ -131,20 +146,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260617/HR8feYRi.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260617/HR8feYRi_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/10182"
-    },
-    {
-        "title": "[开发者日志] - 蓝圈改版",
-        "summary": "[开发者日志] - 蓝圈改版",
-        "postId": 10280,
-        "category": "dev_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-06-16 06:16:46",
-        "displayTime": "2026-06-16 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/c3tXWi9S.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260616/c3tXWi9S_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/10280"
     }
 ]

@@ -1,5 +1,35 @@
 [
     {
+        "title": "2026 年 7 月商店更新",
+        "summary": "歡迎來到 2026 年的第七次商店更新！",
+        "postId": 10427,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-07-14 03:53:26",
+        "displayTime": "2026-07-14 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260714/XZVdOrBJ.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260714/XZVdOrBJ_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/10427"
+    },
+    {
+        "title": "地圖營運報告 - 版本 42.2",
+        "summary": "",
+        "postId": 10415,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-07-14 03:03:31",
+        "displayTime": "2026-07-14 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260714/V0xb2IM1.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260714/V0xb2IM1_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/10415"
+    },
+    {
         "title": "[開發者信件] 家機版體驗改善年度計畫",
         "summary": "",
         "postId": 10385,
@@ -115,34 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260629/iYr6K9yZ.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260629/iYr6K9yZ_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/10332"
-    },
-    {
-        "title": "PUBG 夢幻聯賽：PNC 2026",
-        "summary": "隆重推出 PUBG 夢幻聯賽，一個享受 PUBG 電競賽事的全新方式！",
-        "postId": 10285,
-        "category": "notice",
-        "labels": [
-            "label_pc"
-        ],
-        "createdAt": "2026-06-17 06:57:18",
-        "displayTime": "2026-06-17 07:01:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260617/6h50Nfs1.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260617/6h50Nfs1_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/10285"
-    },
-    {
-        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (06/08~06/14)",
-        "summary": "",
-        "postId": 10296,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-06-17 07:04:19",
-        "displayTime": "2026-06-17 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260617/w2ZYCHyi.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260617/w2ZYCHyi_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/10296"
     }
 ]

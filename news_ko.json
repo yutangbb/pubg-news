@@ -1,5 +1,50 @@
 [
     {
+        "title": "패치 노트 - 업데이트 42.2",
+        "summary": "업데이트 42.2에서 신규 기능 및 개선 사항을 만나보세요.",
+        "postId": 10459,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-07-13 11:21:41",
+        "displayTime": "2026-07-14 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260713/PT4Q92HN.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260713/PT4Q92HN_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/10459"
+    },
+    {
+        "title": "2026년 7월 상점 안내",
+        "summary": "2026년 7월 상점 안내에 오신 것을 환영합니다!",
+        "postId": 10427,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-07-14 02:38:49",
+        "displayTime": "2026-07-14 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260714/hwnk3WLG.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260714/hwnk3WLG_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/10427"
+    },
+    {
+        "title": "맵 서비스 리포트 - 업데이트 42.2",
+        "summary": "",
+        "postId": 10415,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-07-13 12:49:02",
+        "displayTime": "2026-07-14 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260713/lFIBMzFh.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260713/lFIBMzFh_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/10415"
+    },
+    {
         "title": "🇰🇷 KOREA–FINLAND ESPORTS FESTIVAL 2026 🇫🇮",
         "summary": "",
         "postId": 10491,
@@ -97,49 +142,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260629/RFf04kAZ.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260629/RFf04kAZ_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/10374"
-    },
-    {
-        "title": "[개발일지] 안티치트 개선 사항과 향후 운영 방향",
-        "summary": "",
-        "postId": 10338,
-        "category": "dev_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-06-24 08:58:40",
-        "displayTime": "2026-06-25 08:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260624/VfNbGFBx.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260624/VfNbGFBx_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/10338"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (06/15~06/21)",
-        "summary": "",
-        "postId": 10332,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-06-23 05:24:46",
-        "displayTime": "2026-06-24 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260623/HwG5U8wL.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260623/HwG5U8wL_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/10332"
-    },
-    {
-        "title": "PUBG 판타지 : PNC 2026",
-        "summary": "PUBG 이스포츠와 함께 즐기는 신규 콘텐츠, PUBG 판타지를 소개합니다!",
-        "postId": 10285,
-        "category": "notice",
-        "labels": [
-            "label_pc"
-        ],
-        "createdAt": "2026-06-17 02:39:29",
-        "displayTime": "2026-06-17 07:01:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260617/Nb96giNO.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260617/Nb96giNO_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/10285"
     }
 ]
