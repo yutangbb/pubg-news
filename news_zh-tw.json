@@ -30,6 +30,21 @@
         "newsUrl": "https://pubg.com/zh-tw/news/10415"
     },
     {
+        "title": "更新項目 - 版本 42.2",
+        "summary": "為您介紹版本 42.2，探索所有最新功能與改進！",
+        "postId": 10459,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-07-14 07:13:56",
+        "displayTime": "2026-07-14 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260714/YIL8Ty1G.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260714/YIL8Ty1G_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/10459"
+    },
+    {
         "title": "[開發者信件] 家機版體驗改善年度計畫",
         "summary": "",
         "postId": 10385,
@@ -130,20 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260629/1uXYOTmv.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260629/1uXYOTmv_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/10338"
-    },
-    {
-        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (06/15~06/21)",
-        "summary": "",
-        "postId": 10332,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-06-29 08:51:42",
-        "displayTime": "2026-06-24 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260629/iYr6K9yZ.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260629/iYr6K9yZ_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/10332"
     }
 ]
