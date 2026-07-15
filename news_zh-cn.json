@@ -1,5 +1,19 @@
 [
     {
+        "title": "PUBG暑期百万激励计划",
+        "summary": "PUBG暑期百万激励计划",
+        "postId": 10508,
+        "category": "notice",
+        "labels": [
+            "label_pc"
+        ],
+        "createdAt": "2026-07-15 11:16:21",
+        "displayTime": "2026-07-15 11:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260715/ZmDkenlV.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260715/ZmDkenlV_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/10508"
+    },
+    {
         "title": "42.2版本更新公告 ",
         "summary": "在42.2版本更新中体验新功能和优化内容吧！",
         "postId": 10459,
@@ -132,19 +146,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260630/ibvj0wnT.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260630/ibvj0wnT_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/10332"
-    },
-    {
-        "title": "PUBG 幻想联赛：PNC 2026",
-        "summary": "PUBG 幻想联赛正式上线，快来以全新方式感受 PUBG 电竞！",
-        "postId": 10285,
-        "category": "notice",
-        "labels": [
-            "label_pc"
-        ],
-        "createdAt": "2026-06-17 05:17:13",
-        "displayTime": "2026-06-17 07:01:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260617/6YTZ6Gu1.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260617/6YTZ6Gu1_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/10285"
     }
 ]
