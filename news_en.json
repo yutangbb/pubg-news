@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (07/06~07/12)",
+        "summary": "",
+        "postId": 10490,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-07-13 07:02:18",
+        "displayTime": "2026-07-15 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260713/zjhwQ8Dd.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260713/zjhwQ8Dd_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/10490"
+    },
+    {
         "title": "Patch Notes - Update 42.2",
         "summary": " Introducing Update 42.2: Discover all the latest features and improvements!",
         "postId": 10459,
@@ -130,20 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260629/rsDZw2zA.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260629/rsDZw2zA_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/10374"
-    },
-    {
-        "title": "[Dev Letter] Anti-Cheat Improvements and Future Direction",
-        "summary": "",
-        "postId": 10338,
-        "category": "dev_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-06-24 01:11:54",
-        "displayTime": "2026-06-25 08:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260624/rd2Edawv.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260624/rd2Edawv_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/10338"
     }
 ]
