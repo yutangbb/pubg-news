@@ -1,5 +1,19 @@
 [
     {
+        "title": "EWC 2026 PUBG: 배틀그라운드 대회 구조 안내",
+        "summary": "",
+        "postId": 10513,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2026-07-16 04:53:50",
+        "displayTime": "2026-07-17 10:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260716/GV74dvBw.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260716/GV74dvBw_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/10513"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (07/06~07/12)",
         "summary": "",
         "postId": 10490,
@@ -128,20 +142,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260701/BZe86CAD.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260701/BZe86CAD_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/10373"
-    },
-    {
-        "title": "신규 블루존 규칙: 론도",
-        "summary": "",
-        "postId": 10367,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-06-30 04:44:57",
-        "displayTime": "2026-06-30 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260630/byFUuT9g.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260630/byFUuT9g_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/10367"
     }
 ]
