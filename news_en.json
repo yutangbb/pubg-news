@@ -1,5 +1,19 @@
 [
     {
+        "title": "PUBG Global Series Circuit 3 Kicks Off the Second Half in Shanghai!",
+        "summary": "After two circuits in Seoul, the PUBG Global Series is moving to Shanghai, China. PGS Circuit 3, featuring PGS 7, PGS 8, and PGS 9, will take place across three weeks from August 5 to 23.",
+        "postId": 10521,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2026-07-20 04:58:10",
+        "displayTime": "2026-07-20 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260720/qpY1DBga.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260720/qpY1DBga_thumb.png",
+        "newsUrl": "https://pubg.com/en/news/10521"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (07/06~07/12)",
         "summary": "",
         "postId": 10490,
@@ -131,19 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260630/bRstmI14.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260630/bRstmI14_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/10367"
-    },
-    {
-        "title": "Permanent Ban Policy for Cheating on Consoles",
-        "summary": "",
-        "postId": 10374,
-        "category": "notice",
-        "labels": [
-            "label_console"
-        ],
-        "createdAt": "2026-06-29 07:50:44",
-        "displayTime": "2026-06-30 05:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260629/rsDZw2zA.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260629/rsDZw2zA_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/10374"
     }
 ]

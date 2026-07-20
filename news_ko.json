@@ -1,5 +1,19 @@
 [
     {
+        "title": "펍지 글로벌 시리즈 서킷 3, 상하이에서 하반기를 시작합니다!",
+        "summary": "",
+        "postId": 10524,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2026-07-20 07:13:55",
+        "displayTime": "2026-07-20 07:13:21",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260720/wZm2dlIe.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260720/wZm2dlIe_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/10524"
+    },
+    {
         "title": "EWC 2026 PUBG: 배틀그라운드 대회 구조 안내",
         "summary": "",
         "postId": 10513,
@@ -127,20 +141,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260703/knnwgKlG.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260703/knnwgKlG_thumb.png",
         "newsUrl": "https://pubg.com/ko/news/10389"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (06/22~06/28)",
-        "summary": "",
-        "postId": 10373,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-07-01 06:14:20",
-        "displayTime": "2026-07-01 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260701/BZe86CAD.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260701/BZe86CAD_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/10373"
     }
 ]
