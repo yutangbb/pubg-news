@@ -1,5 +1,20 @@
 [
     {
+        "title": "Improved Unban Policy for Account Theft",
+        "summary": "",
+        "postId": 10505,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-07-15 05:09:09",
+        "displayTime": "2026-07-21 05:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260715/jdVPS6kI.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260715/jdVPS6kI_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/10505"
+    },
+    {
         "title": "PUBG Global Series Circuit 3 Kicks Off the Second Half in Shanghai!",
         "summary": "After two circuits in Seoul, the PUBG Global Series is moving to Shanghai, China. PGS Circuit 3, featuring PGS 7, PGS 8, and PGS 9, will take place across three weeks from August 5 to 23.",
         "postId": 10521,
@@ -130,20 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260629/8cBTA5m0.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260629/8cBTA5m0_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/10373"
-    },
-    {
-        "title": "New Blue Zone Ruleset: Rondo",
-        "summary": "",
-        "postId": 10367,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-06-29 01:04:15",
-        "displayTime": "2026-06-30 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260630/bRstmI14.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260630/bRstmI14_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/10367"
     }
 ]

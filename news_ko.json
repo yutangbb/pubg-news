@@ -1,5 +1,20 @@
 [
     {
+        "title": "계정 도용 피해 제재 해제 정책 개선 적용 안내",
+        "summary": "",
+        "postId": 10505,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-07-20 11:59:35",
+        "displayTime": "2026-07-21 05:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260720/w6g1NIUw.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260720/w6g1NIUw_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/10505"
+    },
+    {
         "title": "펍지 글로벌 시리즈 서킷 3, 상하이에서 하반기를 시작합니다!",
         "summary": "",
         "postId": 10524,
@@ -126,20 +141,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260708/y7E4AGnk.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260708/y7E4AGnk_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/10385"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (06/29~07/05)",
-        "summary": "",
-        "postId": 10405,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-07-08 06:56:01",
-        "displayTime": "2026-07-08 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260708/8jFHLBgb.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260708/8jFHLBgb_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/10405"
     }
 ]

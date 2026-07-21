@@ -1,5 +1,34 @@
 [
     {
+        "title": "改善針對帳號盜用的解除封鎖政策",
+        "summary": "",
+        "postId": 10505,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-07-21 06:15:10",
+        "displayTime": "2026-07-21 05:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260721/UCyWGZY8.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260721/UCyWGZY8_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/10505"
+    },
+    {
+        "title": "PGS Circuit 3 即將於上海開打，宣告下半季賽事正式破曉！",
+        "summary": "在韓國首爾圓滿完成前兩階段的精彩巡迴賽後，PGS 全球系列賽即將正式移師中國上海！ 涵蓋 PGS 7、PGS 8 與 PGS 9 的 PGS Circuit 3，將於 8 月 5 日至 23 日進行為期三週的巔峰對決。",
+        "postId": 10521,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2026-07-21 06:16:31",
+        "displayTime": "2026-07-20 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260721/XoAqrZyp.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260721/XoAqrZyp_thumb.png",
+        "newsUrl": "https://pubg.com/zh-tw/news/10521"
+    },
+    {
         "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (07/06~07/12)",
         "summary": "",
         "postId": 10490,
@@ -116,34 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260702/DtVJNrYa.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260702/DtVJNrYa_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/10373"
-    },
-    {
-        "title": "全新藍區規則：Rondo ",
-        "summary": "",
-        "postId": 10367,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-07-02 10:22:45",
-        "displayTime": "2026-06-30 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260702/Qz6LvqNS.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260702/Qz6LvqNS_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/10367"
-    },
-    {
-        "title": "關於家機平台使用作弊程式及異常裝置之永久封鎖懲處政策說明",
-        "summary": "",
-        "postId": 10374,
-        "category": "notice",
-        "labels": [
-            "label_console"
-        ],
-        "createdAt": "2026-07-02 10:26:07",
-        "displayTime": "2026-06-30 05:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260702/gtgfE8x9.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260702/gtgfE8x9_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/10374"
     }
 ]
