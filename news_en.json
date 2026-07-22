@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (07/13~07/19)",
+        "summary": "",
+        "postId": 10523,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-07-20 06:22:35",
+        "displayTime": "2026-07-22 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260720/wbE0AHYy.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260720/wbE0AHYy_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/10523"
+    },
+    {
         "title": "Improved Unban Policy for Account Theft",
         "summary": "",
         "postId": 10505,
@@ -130,20 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260702/RyZObjfV.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260702/RyZObjfV_thumb.png",
         "newsUrl": "https://pubg.com/en/news/10389"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (06/22~06/28)",
-        "summary": "",
-        "postId": 10373,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-06-29 04:59:28",
-        "displayTime": "2026-07-01 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260629/8cBTA5m0.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260629/8cBTA5m0_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/10373"
     }
 ]

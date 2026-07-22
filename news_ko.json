@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (07/13~07/19)",
+        "summary": "",
+        "postId": 10523,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-07-22 06:04:11",
+        "displayTime": "2026-07-22 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260722/ZgysOZFF.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260722/ZgysOZFF_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/10523"
+    },
+    {
         "title": "계정 도용 피해 제재 해제 정책 개선 적용 안내",
         "summary": "",
         "postId": 10505,
@@ -127,19 +142,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260713/fgyBBjC8.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260713/fgyBBjC8_thumb.png",
         "newsUrl": "https://pubg.com/ko/news/10491"
-    },
-    {
-        "title": "[개발일지] 콘솔 경험 개선 로드맵",
-        "summary": "",
-        "postId": 10385,
-        "category": "dev_notes",
-        "labels": [
-            "label_console"
-        ],
-        "createdAt": "2026-07-07 06:43:47",
-        "displayTime": "2026-07-08 07:01:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260708/y7E4AGnk.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260708/y7E4AGnk_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/10385"
     }
 ]
