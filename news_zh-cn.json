@@ -1,5 +1,20 @@
 [
     {
+        "title": "【每周违规账号公示】7/13~ 7/19",
+        "summary": "【每周违规账号公示】7/13~ 7/19",
+        "postId": 10523,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-07-22 09:16:31",
+        "displayTime": "2026-07-22 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260722/S6DaUVHo.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260722/S6DaUVHo_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/10523"
+    },
+    {
         "title": "被盗账号解封政策优化",
         "summary": "被盗账号解封政策优化",
         "postId": 10505,
@@ -131,20 +146,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260708/bxHp0aBI.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260708/bxHp0aBI_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/10373"
-    },
-    {
-        "title": "全新蓝圈：荣都 ",
-        "summary": "7月1日！节奏更快、战斗更激烈的荣都全新登场！",
-        "postId": 10367,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-06-30 06:03:28",
-        "displayTime": "2026-06-30 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260630/NeKkohuE.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260630/NeKkohuE_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/10367"
     }
 ]
