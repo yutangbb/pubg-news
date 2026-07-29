@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (07/20~07/26)",
+        "summary": "",
+        "postId": 10789,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-07-28 06:29:27",
+        "displayTime": "2026-07-29 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260728/RFMtjLN6.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260728/RFMtjLN6_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/10789"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (07/13~07/19)",
         "summary": "",
         "postId": 10523,
@@ -130,17 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260713/lFIBMzFh.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260713/lFIBMzFh_thumb.png",
         "newsUrl": "https://pubg.com/ko/news/10415"
-    },
-    {
-        "title": "🇰🇷 KOREA–FINLAND ESPORTS FESTIVAL 2026 🇫🇮",
-        "summary": "",
-        "postId": 10491,
-        "category": "notice",
-        "labels": [],
-        "createdAt": "2026-07-13 07:52:00",
-        "displayTime": "2026-07-13 08:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260713/fgyBBjC8.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260713/fgyBBjC8_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/10491"
     }
 ]

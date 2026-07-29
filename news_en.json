@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (07/20~07/26)",
+        "summary": "",
+        "postId": 10789,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-07-27 06:26:41",
+        "displayTime": "2026-07-29 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260727/gIHJKd39.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260727/gIHJKd39_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/10789"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (07/13~07/19)",
         "summary": "",
         "postId": 10523,
@@ -131,19 +146,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260706/TLECs9rb.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260706/TLECs9rb_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/10405"
-    },
-    {
-        "title": "PNC 2026 Fan Cheer Event Winners Announcement",
-        "summary": "",
-        "postId": 10389,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2026-07-02 06:33:06",
-        "displayTime": "2026-07-06 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260702/RyZObjfV.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260702/RyZObjfV_thumb.png",
-        "newsUrl": "https://pubg.com/en/news/10389"
     }
 ]
