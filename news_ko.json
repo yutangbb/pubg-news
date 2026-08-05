@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (07/27~08/02)",
+        "summary": "",
+        "postId": 10847,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-08-04 04:51:33",
+        "displayTime": "2026-08-05 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260804/XYh2OZi9.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260804/XYh2OZi9_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/10847"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (07/20~07/26)",
         "summary": "",
         "postId": 10789,
@@ -130,20 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260714/hwnk3WLG.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260714/hwnk3WLG_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/10427"
-    },
-    {
-        "title": "맵 서비스 리포트 - 업데이트 42.2",
-        "summary": "",
-        "postId": 10415,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-07-13 12:49:02",
-        "displayTime": "2026-07-14 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260713/lFIBMzFh.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260713/lFIBMzFh_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/10415"
     }
 ]
