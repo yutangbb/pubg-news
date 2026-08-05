@@ -1,5 +1,20 @@
 [
     {
+        "title": "【每周违规账号公示】7/27~ 8/2",
+        "summary": "【每周违规账号公示】7/27~ 8/2",
+        "postId": 10847,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-08-05 08:03:39",
+        "displayTime": "2026-08-05 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260805/MmyvRaCz.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260805/MmyvRaCz_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/10847"
+    },
+    {
         "title": "【每周违规账号公示】7/20~ 7/26",
         "summary": "【每周违规账号公示】7/20~ 7/26",
         "postId": 10789,
@@ -132,19 +147,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260708/ffCk5PDM.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260708/ffCk5PDM_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/10405"
-    },
-    {
-        "title": "PNC全明星 2026 粉丝助威活动获奖名单公布",
-        "summary": "PNC全明星 2026 粉丝助威活动获奖名单公布",
-        "postId": 10389,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2026-07-06 03:03:42",
-        "displayTime": "2026-07-06 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260706/Qvlnm5Lu.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260706/Qvlnm5Lu_thumb.png",
-        "newsUrl": "https://pubg.com/zh-cn/news/10389"
     }
 ]
