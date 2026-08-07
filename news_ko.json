@@ -1,5 +1,20 @@
 [
     {
+        "title": "[개발일지] 새로운 건 플레이의 시작, 메타 로테이션",
+        "summary": "",
+        "postId": 10874,
+        "category": "dev_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-08-07 08:05:16",
+        "displayTime": "2026-08-07 08:04:47",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260807/GAV4TYf0.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260807/GAV4TYf0_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/10874"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (07/27~08/02)",
         "summary": "",
         "postId": 10847,
@@ -130,20 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260713/PT4Q92HN.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260713/PT4Q92HN_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/10459"
-    },
-    {
-        "title": "2026년 7월 상점 안내",
-        "summary": "2026년 7월 상점 안내에 오신 것을 환영합니다!",
-        "postId": 10427,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-07-14 02:38:49",
-        "displayTime": "2026-07-14 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260714/hwnk3WLG.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260714/hwnk3WLG_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/10427"
     }
 ]

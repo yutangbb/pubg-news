@@ -1,5 +1,20 @@
 [
     {
+        "title": "[Dev Letter] A New Era of Gunplay: Meta Rotation",
+        "summary": "",
+        "postId": 10874,
+        "category": "dev_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-08-07 08:00:56",
+        "displayTime": "2026-08-07 08:04:47",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260807/AcKsZRcf.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260807/AcKsZRcf_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/10874"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (07/27~08/02)",
         "summary": "",
         "postId": 10847,
@@ -132,19 +147,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260707/JAu0bW8g.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260707/JAu0bW8g_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/10415"
-    },
-    {
-        "title": "[Dev Letter] Console Experience Improvement Roadmap",
-        "summary": "",
-        "postId": 10385,
-        "category": "dev_notes",
-        "labels": [
-            "label_console"
-        ],
-        "createdAt": "2026-07-01 06:40:49",
-        "displayTime": "2026-07-08 07:01:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260708/7JbqAHmy.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260708/7JbqAHmy_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/10385"
     }
 ]
