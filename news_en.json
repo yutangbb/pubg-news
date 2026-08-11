@@ -1,5 +1,20 @@
 [
     {
+        "title": "[Dev Letter] Adjustment to the Map Selection System(NA, SA, EU, RU, Console)",
+        "summary": "",
+        "postId": 10878,
+        "category": "dev_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-08-10 01:42:31",
+        "displayTime": "2026-08-11 05:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260810/o7wXe5TU.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260810/o7wXe5TU_thumb.png",
+        "newsUrl": "https://pubg.com/en/news/10878"
+    },
+    {
         "title": "[Dev Letter] A New Era of Gunplay: Meta Rotation",
         "summary": "",
         "postId": 10874,
@@ -132,20 +147,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260710/mdSvZdc6.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260710/mdSvZdc6_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/10427"
-    },
-    {
-        "title": "Map Service Report - Update 42.2",
-        "summary": "",
-        "postId": 10415,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-07-07 06:52:48",
-        "displayTime": "2026-07-14 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260707/JAu0bW8g.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260707/JAu0bW8g_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/10415"
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "[개발일지] 맵 선택 운영 방식 조정 안내(NA, SA, EU, RU, Console)",
+        "summary": "",
+        "postId": 10858,
+        "category": "dev_notes",
+        "labels": [
+            "label_console"
+        ],
+        "createdAt": "2026-08-04 13:00:38",
+        "displayTime": "2026-08-11 05:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260804/xUAfGG1A.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260804/xUAfGG1A_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/10858"
+    },
+    {
         "title": "PUBG x 웰치스 콜라보레이션 안내",
         "summary": "8월 14일, 치킨 디너에 짜릿한 시원함을 더해줄 PUBG x 웰치스 콜라보레이션이 시작됩니다!",
         "postId": 10850,
@@ -130,20 +144,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260716/GV74dvBw.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260716/GV74dvBw_thumb.png",
         "newsUrl": "https://pubg.com/ko/news/10513"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (07/06~07/12)",
-        "summary": "",
-        "postId": 10490,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-07-15 06:39:34",
-        "displayTime": "2026-07-15 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260715/SiW4tdxl.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260715/SiW4tdxl_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/10490"
     }
 ]
