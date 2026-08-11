@@ -1,5 +1,19 @@
 [
     {
+        "title": "PUBG：蓝圈实验室",
+        "summary": "PUBG：蓝圈实验室",
+        "postId": 10855,
+        "category": "notice",
+        "labels": [
+            "label_pc"
+        ],
+        "createdAt": "2026-08-11 06:42:46",
+        "displayTime": "2026-08-11 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260811/wNvPJaFn.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260811/wNvPJaFn_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/10855"
+    },
+    {
         "title": "42.3版本更新公告",
         "summary": "在42.3版本更新中体验新功能和优化内容吧！",
         "postId": 10885,
@@ -132,20 +146,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260715/ZmDkenlV.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260715/ZmDkenlV_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/10508"
-    },
-    {
-        "title": "【每周违规账号公示】7/6~ 7/12",
-        "summary": "【每周违规账号公示】7/6~ 7/12",
-        "postId": 10490,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-07-21 06:25:15",
-        "displayTime": "2026-07-15 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260721/BhuIlBLI.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260721/BhuIlBLI_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/10490"
     }
 ]

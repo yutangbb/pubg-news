@@ -1,5 +1,19 @@
 [
     {
+        "title": "PUBG: Playgrounds",
+        "summary": "",
+        "postId": 10855,
+        "category": "notice",
+        "labels": [
+            "label_pc"
+        ],
+        "createdAt": "2026-08-04 04:43:02",
+        "displayTime": "2026-08-11 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260807/7p9bcftF.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260807/7p9bcftF_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/10855"
+    },
+    {
         "title": "Patch Notes - Update 42.3",
         "summary": "Introducing Update 42.3: Discover all the latest features and improvements!",
         "postId": 10885,
@@ -133,19 +147,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260715/jdVPS6kI.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260715/jdVPS6kI_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/10505"
-    },
-    {
-        "title": "PUBG Global Series Circuit 3 Kicks Off the Second Half in Shanghai!",
-        "summary": "After two circuits in Seoul, the PUBG Global Series is moving to Shanghai, China. PGS Circuit 3, featuring PGS 7, PGS 8, and PGS 9, will take place across three weeks from August 5 to 23.",
-        "postId": 10521,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2026-07-20 04:58:10",
-        "displayTime": "2026-07-20 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260720/qpY1DBga.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260720/qpY1DBga_thumb.png",
-        "newsUrl": "https://pubg.com/en/news/10521"
     }
 ]

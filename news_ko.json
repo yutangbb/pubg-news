@@ -1,5 +1,19 @@
 [
     {
+        "title": "PUBG: 플레이그라운즈",
+        "summary": "",
+        "postId": 10855,
+        "category": "notice",
+        "labels": [
+            "label_pc"
+        ],
+        "createdAt": "2026-08-11 07:30:34",
+        "displayTime": "2026-08-11 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260811/rIzcArde.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260811/rIzcArde_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/10855"
+    },
+    {
         "title": "패치 노트 - 업데이트 42.3",
         "summary": "업데이트 42.3에서 신규 기능 및 개선 사항을 만나보세요.",
         "postId": 10885,
@@ -132,20 +146,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260722/ZgysOZFF.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260722/ZgysOZFF_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/10523"
-    },
-    {
-        "title": "계정 도용 피해 제재 해제 정책 개선 적용 안내",
-        "summary": "",
-        "postId": 10505,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-07-20 11:59:35",
-        "displayTime": "2026-07-21 05:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260720/w6g1NIUw.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260720/w6g1NIUw_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/10505"
     }
 ]

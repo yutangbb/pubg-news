@@ -1,5 +1,19 @@
 [
     {
+        "title": "PUBG：藍圈實驗室",
+        "summary": "",
+        "postId": 10855,
+        "category": "notice",
+        "labels": [
+            "label_pc"
+        ],
+        "createdAt": "2026-08-11 03:32:49",
+        "displayTime": "2026-08-11 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260811/zpu6Lcq5.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260811/zpu6Lcq5_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/10855"
+    },
+    {
         "title": "更新項目 - 版本 42.3",
         "summary": "為您介紹版本 42.3，探索所有最新功能與改進！",
         "postId": 10885,
@@ -132,20 +146,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260721/XoAqrZyp.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260721/XoAqrZyp_thumb.png",
         "newsUrl": "https://pubg.com/zh-tw/news/10521"
-    },
-    {
-        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (07/06~07/12)",
-        "summary": "",
-        "postId": 10490,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-07-15 03:28:04",
-        "displayTime": "2026-07-15 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260715/aoZxwjbJ.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260715/aoZxwjbJ_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/10490"
     }
 ]
