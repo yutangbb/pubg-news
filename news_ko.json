@@ -1,5 +1,50 @@
 [
     {
+        "title": "패치 노트 - 업데이트 42.3",
+        "summary": "업데이트 42.3에서 신규 기능 및 개선 사항을 만나보세요.",
+        "postId": 10885,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-08-11 04:10:02",
+        "displayTime": "2026-08-11 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260811/7nUkVecO.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260811/7nUkVecO_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/10885"
+    },
+    {
+        "title": "맵 서비스 리포트 - 업데이트 42.3",
+        "summary": "",
+        "postId": 10854,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-08-10 13:47:30",
+        "displayTime": "2026-08-11 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260810/juhvfogr.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260810/juhvfogr_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/10854"
+    },
+    {
+        "title": "2026년 8월 상점 안내",
+        "summary": "2026년 8월 상점 안내에 오신 것을 환영합니다!",
+        "postId": 10828,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-08-07 06:55:29",
+        "displayTime": "2026-08-11 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260807/GjGTZ1Oi.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260807/GjGTZ1Oi_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/10828"
+    },
+    {
         "title": "[개발일지] 맵 선택 운영 방식 조정 안내(NA, SA, EU, RU, Console)",
         "summary": "",
         "postId": 10858,
@@ -102,47 +147,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260720/w6g1NIUw.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260720/w6g1NIUw_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/10505"
-    },
-    {
-        "title": "펍지 글로벌 시리즈 서킷 3, 상하이에서 하반기를 시작합니다!",
-        "summary": "",
-        "postId": 10524,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2026-07-20 07:13:55",
-        "displayTime": "2026-07-20 07:13:21",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260720/wZm2dlIe.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260720/wZm2dlIe_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/10524"
-    },
-    {
-        "title": "펍지 글로벌 시리즈 서킷 3, 상하이에서 하반기를 시작합니다!",
-        "summary": "",
-        "postId": 10521,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2026-07-20 15:26:18",
-        "displayTime": "2026-07-20 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260720/1kHUtViw.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260720/1kHUtViw_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/10521"
-    },
-    {
-        "title": "EWC 2026 PUBG: 배틀그라운드 대회 구조 안내",
-        "summary": "",
-        "postId": 10513,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2026-07-16 04:53:50",
-        "displayTime": "2026-07-17 10:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260716/GV74dvBw.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260716/GV74dvBw_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/10513"
     }
 ]

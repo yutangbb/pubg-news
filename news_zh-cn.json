@@ -1,5 +1,50 @@
 [
     {
+        "title": "42.3版本更新公告",
+        "summary": "在42.3版本更新中体验新功能和优化内容吧！",
+        "postId": 10885,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-08-11 05:37:59",
+        "displayTime": "2026-08-11 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260811/jrP4Pyq4.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260811/jrP4Pyq4_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/10885"
+    },
+    {
+        "title": "地图轮换报告 – 42.3",
+        "summary": "亲爱的玩家朋友们，大家好！\n欢迎查阅42.3版更新的各地区地图人气度和地图轮换报告。",
+        "postId": 10854,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-08-11 05:57:57",
+        "displayTime": "2026-08-11 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260811/p1XIrJ4U.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260811/p1XIrJ4U_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/10854"
+    },
+    {
+        "title": "2026年8月商店公告",
+        "summary": "欢迎阅读2026年的第8份商店公告。",
+        "postId": 10828,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-08-11 06:16:14",
+        "displayTime": "2026-08-11 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260811/8ARCsdS8.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260811/8ARCsdS8_thumb.png",
+        "newsUrl": "https://pubg.com/zh-cn/news/10828"
+    },
+    {
         "title": "[开发者日志] 枪战新时代：主流玩法轮换",
         "summary": "[开发者日志] 枪战新时代：主流玩法轮换",
         "postId": 10874,
@@ -102,50 +147,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260721/BhuIlBLI.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260721/BhuIlBLI_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/10490"
-    },
-    {
-        "title": "42.2版本更新公告 ",
-        "summary": "在42.2版本更新中体验新功能和优化内容吧！",
-        "postId": 10459,
-        "category": "patch_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-07-14 06:04:34",
-        "displayTime": "2026-07-14 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260714/HJqOWKum.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260714/HJqOWKum_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/10459"
-    },
-    {
-        "title": "2026年7月商店公告",
-        "summary": "欢迎查看2026年7月商店公告！",
-        "postId": 10427,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-07-14 07:03:08",
-        "displayTime": "2026-07-14 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260714/2PvNVN2v.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260714/2PvNVN2v_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/10427"
-    },
-    {
-        "title": "地图轮换报告 – 42.2",
-        "summary": "地图轮换报告 – 42.2",
-        "postId": 10415,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-07-14 07:10:33",
-        "displayTime": "2026-07-14 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260714/SXg88ehA.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260714/SXg88ehA_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/10415"
     }
 ]
