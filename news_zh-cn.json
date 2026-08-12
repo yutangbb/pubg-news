@@ -1,5 +1,20 @@
 [
     {
+        "title": "【每周违规账号公示】 8/3~8/9",
+        "summary": "【每周违规账号公示】 8/3~8/9",
+        "postId": 10882,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-08-12 08:49:53",
+        "displayTime": "2026-08-12 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260812/ErVfXlyj.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260812/ErVfXlyj_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/10882"
+    },
+    {
         "title": "PUBG：蓝圈实验室",
         "summary": "PUBG：蓝圈实验室",
         "postId": 10855,
@@ -132,19 +147,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260721/eVePFPJE.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260721/eVePFPJE_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/10505"
-    },
-    {
-        "title": "PUBG暑期百万激励计划",
-        "summary": "PUBG暑期百万激励计划",
-        "postId": 10508,
-        "category": "notice",
-        "labels": [
-            "label_pc"
-        ],
-        "createdAt": "2026-07-15 11:16:21",
-        "displayTime": "2026-07-15 11:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260715/ZmDkenlV.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260715/ZmDkenlV_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/10508"
     }
 ]
