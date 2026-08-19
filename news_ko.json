@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (08/10~08/16)",
+        "summary": "",
+        "postId": 10912,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-08-18 05:39:16",
+        "displayTime": "2026-08-19 07:10:46",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260818/yxSbkPmz.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260818/yxSbkPmz_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/10912"
+    },
+    {
         "title": "2026 배틀그라운드 이스포츠 글로벌 파트너 팀: 팀 에디션 스킨 1차 출시",
         "summary": "",
         "postId": 10890,
@@ -130,20 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260807/GAV4TYf0.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260807/GAV4TYf0_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/10874"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (07/27~08/02)",
-        "summary": "",
-        "postId": 10847,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-08-04 04:51:33",
-        "displayTime": "2026-08-05 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260804/XYh2OZi9.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260804/XYh2OZi9_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/10847"
     }
 ]
