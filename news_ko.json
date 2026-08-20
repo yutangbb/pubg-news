@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG 치키너즈 1기 크리에이터 모집 안내",
+        "summary": "",
+        "postId": 10919,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-08-18 10:19:42",
+        "displayTime": "2026-08-20 03:07:04",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260819/kD3uDHtr.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260819/kD3uDHtr_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/10919"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (08/10~08/16)",
         "summary": "",
         "postId": 10912,
@@ -130,20 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260810/E3AGXMAm.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260810/E3AGXMAm_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/10850"
-    },
-    {
-        "title": "[개발일지] 새로운 건 플레이의 시작, 메타 로테이션",
-        "summary": "",
-        "postId": 10874,
-        "category": "dev_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-08-07 08:05:16",
-        "displayTime": "2026-08-07 08:04:47",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260807/GAV4TYf0.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260807/GAV4TYf0_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/10874"
     }
 ]
