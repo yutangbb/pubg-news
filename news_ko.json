@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (08/17~08/23)",
+        "summary": "",
+        "postId": 10974,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-08-24 11:02:35",
+        "displayTime": "2026-08-26 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260824/8kLFws5c.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260824/8kLFws5c_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/10974"
+    },
+    {
         "title": "PUBG 치키너즈 1기 크리에이터 모집 안내",
         "summary": "",
         "postId": 10919,
@@ -130,20 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260804/xUAfGG1A.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260804/xUAfGG1A_thumb.png",
         "newsUrl": "https://pubg.com/ko/news/10858"
-    },
-    {
-        "title": "PUBG x 웰치스 콜라보레이션 안내",
-        "summary": "8월 14일, 치킨 디너에 짜릿한 시원함을 더해줄 PUBG x 웰치스 콜라보레이션이 시작됩니다!",
-        "postId": 10850,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-08-03 13:23:28",
-        "displayTime": "2026-08-11 03:01:44",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260810/E3AGXMAm.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260810/E3AGXMAm_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/10850"
     }
 ]
