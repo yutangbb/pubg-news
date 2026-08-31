@@ -1,5 +1,33 @@
 [
     {
+        "title": "2026 펍지 위클리 시리즈: 페이즈 2 프로팀 로스터를 공개합니다!",
+        "summary": "",
+        "postId": 11014,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2026-08-31 01:47:52",
+        "displayTime": "2026-08-31 01:43:58",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260831/Le56FeH3.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260831/Le56FeH3_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/11014"
+    },
+    {
+        "title": "다시, 국내 무대로! 2026 펍지 위클리 시리즈(PWS) Phase 2 대회 구조 안내",
+        "summary": "",
+        "postId": 11013,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2026-08-31 01:43:20",
+        "displayTime": "2026-08-31 01:42:30",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260831/9NcvErAp.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260831/9NcvErAp_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/11013"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (08/17~08/23)",
         "summary": "",
         "postId": 10974,
@@ -116,34 +144,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260810/juhvfogr.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260810/juhvfogr_thumb.png",
         "newsUrl": "https://pubg.com/ko/news/10854"
-    },
-    {
-        "title": "2026년 8월 상점 안내",
-        "summary": "2026년 8월 상점 안내에 오신 것을 환영합니다!",
-        "postId": 10828,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-08-07 06:55:29",
-        "displayTime": "2026-08-11 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260807/GjGTZ1Oi.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260807/GjGTZ1Oi_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/10828"
-    },
-    {
-        "title": "[개발일지] 맵 선택 운영 방식 조정 안내(NA, SA, EU, RU, Console)",
-        "summary": "",
-        "postId": 10858,
-        "category": "dev_notes",
-        "labels": [
-            "label_console"
-        ],
-        "createdAt": "2026-08-04 13:00:38",
-        "displayTime": "2026-08-11 05:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260804/xUAfGG1A.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260804/xUAfGG1A_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/10858"
     }
 ]
