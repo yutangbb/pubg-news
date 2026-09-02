@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (08/24~08/30)",
+        "summary": "",
+        "postId": 11018,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-09-01 09:40:29",
+        "displayTime": "2026-09-02 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260901/yj3lGtaG.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260901/yj3lGtaG_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/11018"
+    },
+    {
         "title": "2026 펍지 위클리 시리즈: 페이즈 2 프로팀 로스터를 공개합니다!",
         "summary": "",
         "postId": 11014,
@@ -129,20 +144,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260811/7nUkVecO.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260811/7nUkVecO_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/10885"
-    },
-    {
-        "title": "맵 서비스 리포트 - 업데이트 42.3",
-        "summary": "",
-        "postId": 10854,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-08-10 13:47:30",
-        "displayTime": "2026-08-11 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260810/juhvfogr.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260810/juhvfogr_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/10854"
     }
 ]
