@@ -15,6 +15,21 @@
         "newsUrl": "https://pubg.com/zh-cn/news/10991"
     },
     {
+        "title": "【每周违规账号公示】 8/24~8/30",
+        "summary": "【每周违规账号公示】 8/24~8/30",
+        "postId": 11018,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-09-07 06:23:20",
+        "displayTime": "2026-09-02 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260907/nADJtmqB.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260907/nADJtmqB_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/11018"
+    },
+    {
         "title": "【每周违规账号公示】 8/17~8/23",
         "summary": "【每周违规账号公示】 8/17~8/23",
         "postId": 10974,
@@ -131,20 +146,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260811/8ARCsdS8.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260811/8ARCsdS8_thumb.png",
         "newsUrl": "https://pubg.com/zh-cn/news/10828"
-    },
-    {
-        "title": "[开发者日志] 枪战新时代：主流玩法轮换",
-        "summary": "[开发者日志] 枪战新时代：主流玩法轮换",
-        "postId": 10874,
-        "category": "dev_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-08-07 08:18:58",
-        "displayTime": "2026-08-07 08:04:47",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260807/ahGmYju8.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260807/ahGmYju8_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/10874"
     }
 ]
