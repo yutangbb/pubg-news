@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG x 咒術迴戰",
+        "summary": "",
+        "postId": 10991,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-09-07 04:10:32",
+        "displayTime": "2026-09-07 02:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260907/9HTcUDww.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260907/9HTcUDww_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/10991"
+    },
+    {
         "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (08/24~08/30)",
         "summary": "",
         "postId": 11018,
@@ -132,20 +147,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260807/U4iwWxq8.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260807/U4iwWxq8_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/10874"
-    },
-    {
-        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (07/27~08/02)",
-        "summary": "",
-        "postId": 10847,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-08-06 02:26:20",
-        "displayTime": "2026-08-05 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260806/iWqPrdq8.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260806/iWqPrdq8_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/10847"
     }
 ]

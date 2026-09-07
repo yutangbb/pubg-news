@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG x 주술회전",
+        "summary": "",
+        "postId": 10991,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-09-03 10:43:11",
+        "displayTime": "2026-09-07 02:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260903/C0fROUy5.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260903/C0fROUy5_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/10991"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (08/24~08/30)",
         "summary": "",
         "postId": 11018,
@@ -129,20 +144,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260811/rIzcArde.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260811/rIzcArde_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/10855"
-    },
-    {
-        "title": "패치 노트 - 업데이트 42.3",
-        "summary": "업데이트 42.3에서 신규 기능 및 개선 사항을 만나보세요.",
-        "postId": 10885,
-        "category": "patch_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-08-11 04:10:02",
-        "displayTime": "2026-08-11 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260811/7nUkVecO.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260811/7nUkVecO_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/10885"
     }
 ]

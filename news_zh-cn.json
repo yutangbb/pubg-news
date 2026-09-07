@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG x 咒术回战",
+        "summary": "PUBG x 咒术回战",
+        "postId": 10991,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-09-07 02:45:41",
+        "displayTime": "2026-09-07 02:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260907/GjFhO2g4.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260907/GjFhO2g4_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/10991"
+    },
+    {
         "title": "【每周违规账号公示】 8/17~8/23",
         "summary": "【每周违规账号公示】 8/17~8/23",
         "postId": 10974,
@@ -131,20 +146,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260807/ahGmYju8.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260807/ahGmYju8_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/10874"
-    },
-    {
-        "title": "【每周违规账号公示】7/27~ 8/2",
-        "summary": "【每周违规账号公示】7/27~ 8/2",
-        "postId": 10847,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-08-05 08:03:39",
-        "displayTime": "2026-08-05 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260805/MmyvRaCz.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260805/MmyvRaCz_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/10847"
     }
 ]
