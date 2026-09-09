@@ -1,5 +1,20 @@
 [
     {
+        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (08/31~09/06)",
+        "summary": "",
+        "postId": 11052,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-09-09 06:44:06",
+        "displayTime": "2026-09-09 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260909/SaWIQXTk.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260909/SaWIQXTk_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/11052"
+    },
+    {
         "title": "更新項目 - 版本 43.1",
         "summary": "為您介紹版本 43.1，探索所有最新功能與改進！",
         "postId": 11057,
@@ -132,20 +147,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260811/zpu6Lcq5.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260811/zpu6Lcq5_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/10855"
-    },
-    {
-        "title": "更新項目 - 版本 42.3",
-        "summary": "為您介紹版本 42.3，探索所有最新功能與改進！",
-        "postId": 10885,
-        "category": "patch_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-08-11 06:18:24",
-        "displayTime": "2026-08-11 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260811/2Le4Aub7.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260811/2Le4Aub7_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/10885"
     }
 ]
