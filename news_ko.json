@@ -1,5 +1,50 @@
 [
     {
+        "title": "패치 노트 - 업데이트 43.1",
+        "summary": "업데이트 43.1에서 신규 기능 및 개선 사항을 만나보세요.",
+        "postId": 11057,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-09-08 12:16:39",
+        "displayTime": "2026-09-09 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260908/46voZZwT.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260908/46voZZwT_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/11057"
+    },
+    {
+        "title": "맵 서비스 리포트 - 업데이트 43.1",
+        "summary": "",
+        "postId": 11019,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-09-08 06:08:05",
+        "displayTime": "2026-09-09 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260908/f1cC3F39.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260908/f1cC3F39_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/11019"
+    },
+    {
+        "title": "2026년 9월 상점 안내",
+        "summary": "2026년 9월 상점 안내에 오신 것을 환영합니다!",
+        "postId": 10994,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-09-07 05:38:15",
+        "displayTime": "2026-09-09 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260907/cKidG1uw.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260907/cKidG1uw_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/10994"
+    },
+    {
         "title": "PUBG x 주술회전",
         "summary": "",
         "postId": 10991,
@@ -101,48 +146,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260818/yxSbkPmz.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260818/yxSbkPmz_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/10912"
-    },
-    {
-        "title": "2026 배틀그라운드 이스포츠 글로벌 파트너 팀: 팀 에디션 스킨 1차 출시",
-        "summary": "",
-        "postId": 10890,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2026-08-11 05:07:20",
-        "displayTime": "2026-08-17 02:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260811/uIfYtFeM.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260811/uIfYtFeM_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/10890"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (08/03~08/09)",
-        "summary": "",
-        "postId": 10882,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-08-11 11:15:05",
-        "displayTime": "2026-08-12 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260811/J7GTQLTK.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260811/J7GTQLTK_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/10882"
-    },
-    {
-        "title": "PUBG: 플레이그라운즈",
-        "summary": "",
-        "postId": 10855,
-        "category": "notice",
-        "labels": [
-            "label_pc"
-        ],
-        "createdAt": "2026-08-11 07:30:34",
-        "displayTime": "2026-08-11 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260811/rIzcArde.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260811/rIzcArde_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/10855"
     }
 ]

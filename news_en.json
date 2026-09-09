@@ -1,5 +1,50 @@
 [
     {
+        "title": "Patch Notes - Update 43.1",
+        "summary": "Introducing Update 43.1: Discover all the latest features and improvements!",
+        "postId": 11057,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-09-08 07:19:52",
+        "displayTime": "2026-09-09 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260908/cmHiWzO2.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260908/cmHiWzO2_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/11057"
+    },
+    {
+        "title": "Map Service Report - Update 43.1",
+        "summary": "",
+        "postId": 11019,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-08-31 07:24:11",
+        "displayTime": "2026-09-09 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260831/05Bz3UJp.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260831/05Bz3UJp_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/11019"
+    },
+    {
+        "title": "September Store Update 2026",
+        "summary": "",
+        "postId": 10994,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-08-26 07:53:10",
+        "displayTime": "2026-09-09 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260826/LtI4hAy8.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260826/LtI4hAy8_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/10994"
+    },
+    {
         "title": "PUBG x Jujutsu Kaisen",
         "summary": "",
         "postId": 10991,
@@ -102,50 +147,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260811/Ieahy4yG.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260811/Ieahy4yG_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/10885"
-    },
-    {
-        "title": "Map Service Report - Update 42.3",
-        "summary": "",
-        "postId": 10854,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-08-04 04:36:23",
-        "displayTime": "2026-08-11 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260804/dEtxYSzH.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260804/dEtxYSzH_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/10854"
-    },
-    {
-        "title": "August Store Update 2026",
-        "summary": "",
-        "postId": 10828,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-07-29 04:50:10",
-        "displayTime": "2026-08-11 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260806/Pg7JmVsi.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260806/Pg7JmVsi_thumb.png",
-        "newsUrl": "https://pubg.com/en/news/10828"
-    },
-    {
-        "title": "[Dev Letter] Adjustment to the Map Selection System(NA, SA, EU, RU, Console)",
-        "summary": "",
-        "postId": 10878,
-        "category": "dev_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-08-10 01:42:31",
-        "displayTime": "2026-08-11 05:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260810/o7wXe5TU.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260810/o7wXe5TU_thumb.png",
-        "newsUrl": "https://pubg.com/en/news/10878"
     }
 ]

@@ -1,5 +1,50 @@
 [
     {
+        "title": "更新項目 - 版本 43.1",
+        "summary": "為您介紹版本 43.1，探索所有最新功能與改進！",
+        "postId": 11057,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-09-09 02:45:57",
+        "displayTime": "2026-09-09 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260909/J09u7HPt.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260909/J09u7HPt_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/11057"
+    },
+    {
+        "title": "地圖營運報告 - 版本 43.1",
+        "summary": "",
+        "postId": 11019,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-09-08 03:40:43",
+        "displayTime": "2026-09-09 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260908/obERvxkr.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260908/obERvxkr_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/11019"
+    },
+    {
+        "title": "2026 年 9 月商店更新",
+        "summary": "",
+        "postId": 10994,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-09-08 04:23:20",
+        "displayTime": "2026-09-09 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260908/1tw50ti4.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260908/1tw50ti4_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/10994"
+    },
+    {
         "title": "PUBG x 咒術迴戰",
         "summary": "",
         "postId": 10991,
@@ -102,50 +147,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260811/2Le4Aub7.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260811/2Le4Aub7_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/10885"
-    },
-    {
-        "title": "地圖營運報告 - 版本 42.3",
-        "summary": "",
-        "postId": 10854,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-08-10 06:45:33",
-        "displayTime": "2026-08-11 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260810/BXsdk7JO.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260810/BXsdk7JO_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/10854"
-    },
-    {
-        "title": "2026 年 8 月商店更新",
-        "summary": "",
-        "postId": 10828,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-08-10 06:06:07",
-        "displayTime": "2026-08-11 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260810/keUkQU3c.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260810/keUkQU3c_thumb.png",
-        "newsUrl": "https://pubg.com/zh-tw/news/10828"
-    },
-    {
-        "title": "[開發者信件] 迎接槍戰的新時代：遊戲生態輪替",
-        "summary": "",
-        "postId": 10874,
-        "category": "dev_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-08-07 08:34:29",
-        "displayTime": "2026-08-07 08:04:47",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260807/U4iwWxq8.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260807/U4iwWxq8_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/10874"
     }
 ]
