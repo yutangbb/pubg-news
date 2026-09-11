@@ -1,5 +1,19 @@
 [
     {
+        "title": "PUBG9月生态创作激励计划重磅开启",
+        "summary": "PUBG9月生态创作激励计划重磅开启",
+        "postId": 11095,
+        "category": "notice",
+        "labels": [
+            "label_pc"
+        ],
+        "createdAt": "2026-09-11 13:51:04",
+        "displayTime": "2026-09-11 12:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260911/XZIyCX7F.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260911/XZIyCX7F_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/11095"
+    },
+    {
         "title": "PUBG 亚星会赛事及网页活动公告",
         "summary": "汇聚亚洲六大赛区代表 PUBG 主播的 PUBG 亚星会",
         "postId": 11093,
@@ -131,20 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260812/UYLZgpba.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260812/UYLZgpba_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/10900"
-    },
-    {
-        "title": "【每周违规账号公示】 8/3~8/9",
-        "summary": "【每周违规账号公示】 8/3~8/9",
-        "postId": 10882,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-08-12 08:49:53",
-        "displayTime": "2026-08-12 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260812/ErVfXlyj.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260812/ErVfXlyj_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/10882"
     }
 ]
