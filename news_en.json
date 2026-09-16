@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (09/07~09/13)",
+        "summary": "",
+        "postId": 11101,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-09-14 06:47:16",
+        "displayTime": "2026-09-16 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260914/jpmob4Tj.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260914/jpmob4Tj_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/11101"
+    },
+    {
         "title": "PUBG Rumble Weeks: Follow the final rounds, join the challenge, and win G-Coin",
         "summary": "",
         "postId": 11076,
@@ -133,20 +148,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260818/Kksm9qlo.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260818/Kksm9qlo_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/10912"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (08/03~08/09)",
-        "summary": "",
-        "postId": 10882,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-08-10 07:03:09",
-        "displayTime": "2026-08-12 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260810/XIdJhSwv.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260810/XIdJhSwv_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/10882"
     }
 ]
