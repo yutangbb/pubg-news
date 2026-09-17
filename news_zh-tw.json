@@ -1,5 +1,20 @@
 [
     {
+        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (09/07~09/13)",
+        "summary": "",
+        "postId": 11101,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-09-17 07:55:18",
+        "displayTime": "2026-09-16 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260917/vwzwugGT.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260917/vwzwugGT_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/11101"
+    },
+    {
         "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (08/31~09/06)",
         "summary": "",
         "postId": 11052,
@@ -133,19 +148,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260812/PwGUupVU.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260812/PwGUupVU_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/10882"
-    },
-    {
-        "title": "PUBG：藍圈實驗室",
-        "summary": "",
-        "postId": 10855,
-        "category": "notice",
-        "labels": [
-            "label_pc"
-        ],
-        "createdAt": "2026-08-11 03:32:49",
-        "displayTime": "2026-08-11 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260811/zpu6Lcq5.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260811/zpu6Lcq5_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/10855"
     }
 ]
