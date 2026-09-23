@@ -1,5 +1,19 @@
 [
     {
+        "title": "PUBG 아시아 스타즈 운영 이슈 조사 결과 및 조치 안내",
+        "summary": "",
+        "postId": 11155,
+        "category": "notice",
+        "labels": [
+            "label_pc"
+        ],
+        "createdAt": "2026-09-23 08:01:57",
+        "displayTime": "2026-09-23 09:20:00",
+        "imageUrl": "",
+        "thumbUrl": "",
+        "newsUrl": "https://pubg.com/ko/news/11155"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (09/07~09/13)",
         "summary": "",
         "postId": 11101,
@@ -132,19 +146,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260831/Le56FeH3.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260831/Le56FeH3_thumb.png",
         "newsUrl": "https://pubg.com/ko/news/11014"
-    },
-    {
-        "title": "다시, 국내 무대로! 2026 펍지 위클리 시리즈(PWS) Phase 2 대회 구조 안내",
-        "summary": "",
-        "postId": 11013,
-        "category": "notice",
-        "labels": [
-            "label_esports"
-        ],
-        "createdAt": "2026-08-31 01:43:20",
-        "displayTime": "2026-08-31 01:42:30",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260831/9NcvErAp.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260831/9NcvErAp_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/11013"
     }
 ]

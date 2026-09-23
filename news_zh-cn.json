@@ -1,5 +1,19 @@
 [
     {
+        "title": "PUBG 亚星会运营问题调查结果及处理说明",
+        "summary": "PUBG 亚星会运营问题调查结果及处理说明",
+        "postId": 11155,
+        "category": "notice",
+        "labels": [
+            "label_pc"
+        ],
+        "createdAt": "2026-09-23 08:54:42",
+        "displayTime": "2026-09-23 09:20:00",
+        "imageUrl": "",
+        "thumbUrl": "",
+        "newsUrl": "https://pubg.com/zh-cn/news/11155"
+    },
+    {
         "title": "【每周违规账号公示】 9/7~9/13",
         "summary": "【每周违规账号公示】 9/7~9/13",
         "postId": 11101,
@@ -131,20 +145,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260826/ITGhW135.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260826/ITGhW135_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/10974"
-    },
-    {
-        "title": "【每周违规账号公示】 8/10~8/16",
-        "summary": "【每周违规账号公示】 8/10~8/16",
-        "postId": 10912,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-08-20 08:03:58",
-        "displayTime": "2026-08-19 07:10:46",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260820/pqETLkig.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260820/pqETLkig_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/10912"
     }
 ]
