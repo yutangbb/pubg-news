@@ -14,6 +14,21 @@
         "newsUrl": "https://pubg.com/zh-tw/news/11155"
     },
     {
+        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (09/14~09/20)",
+        "summary": "",
+        "postId": 11135,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-09-30 02:17:18",
+        "displayTime": "2026-09-23 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260930/xWU89Kb5.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260930/xWU89Kb5_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/11135"
+    },
+    {
         "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (09/07~09/13)",
         "summary": "",
         "postId": 11101,
@@ -132,20 +147,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260826/VgRtUl16.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260826/VgRtUl16_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/10974"
-    },
-    {
-        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (08/10~08/16)",
-        "summary": "",
-        "postId": 10912,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-08-26 07:44:11",
-        "displayTime": "2026-08-19 07:10:46",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260826/RPvDiqO3.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260826/RPvDiqO3_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/10912"
     }
 ]
