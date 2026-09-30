@@ -1,5 +1,34 @@
 [
     {
+        "title": "PUBG Asia Stars Web Event Reward Notice",
+        "summary": "Notice regarding the Winner Prediction Event rewards ",
+        "postId": 11177,
+        "category": "notice",
+        "labels": [
+            "label_pc"
+        ],
+        "createdAt": "2026-09-30 07:27:25",
+        "displayTime": "2026-09-30 09:00:00",
+        "imageUrl": "",
+        "thumbUrl": "",
+        "newsUrl": "https://pubg.com/en/news/11177"
+    },
+    {
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (09/21~09/27)",
+        "summary": "",
+        "postId": 11173,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-09-28 08:42:57",
+        "displayTime": "2026-09-30 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260928/LizLaFnk.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260928/LizLaFnk_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/11173"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (09/14~09/20)",
         "summary": "",
         "postId": 11135,
@@ -118,35 +147,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260901/YJ0xlIvU.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260901/YJ0xlIvU_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/10991"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (08/24~08/30)",
-        "summary": "",
-        "postId": 11018,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-08-31 06:24:21",
-        "displayTime": "2026-09-02 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260831/srApa9sD.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260831/srApa9sD_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/11018"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (08/17~08/23)",
-        "summary": "",
-        "postId": 10974,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-08-24 06:35:39",
-        "displayTime": "2026-08-26 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260824/6Uy1Fb8k.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260824/6Uy1Fb8k_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/10974"
     }
 ]

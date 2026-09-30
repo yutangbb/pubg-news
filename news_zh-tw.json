@@ -1,5 +1,34 @@
 [
     {
+        "title": "PUBG Asia Stars 網頁活動獎勵公告",
+        "summary": "關於「冠軍預測活動」獎勵發放之公告",
+        "postId": 11177,
+        "category": "notice",
+        "labels": [
+            "label_pc"
+        ],
+        "createdAt": "2026-09-30 08:05:32",
+        "displayTime": "2026-09-30 09:00:00",
+        "imageUrl": "",
+        "thumbUrl": "",
+        "newsUrl": "https://pubg.com/zh-tw/news/11177"
+    },
+    {
+        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (09/21~09/27)",
+        "summary": "",
+        "postId": 11173,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-09-30 02:19:33",
+        "displayTime": "2026-09-30 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260930/9o7g3wAB.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260930/9o7g3wAB_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/11173"
+    },
+    {
         "title": "PUBG Asia Stars 賽事營運爭議調查結果與懲處措施公告",
         "summary": "",
         "postId": 11155,
@@ -117,35 +146,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260907/9HTcUDww.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260907/9HTcUDww_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/10991"
-    },
-    {
-        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (08/24~08/30)",
-        "summary": "",
-        "postId": 11018,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-09-02 09:03:04",
-        "displayTime": "2026-09-02 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260902/CPGKo3uc.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260902/CPGKo3uc_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/11018"
-    },
-    {
-        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (08/17~08/23)",
-        "summary": "",
-        "postId": 10974,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-08-26 07:46:10",
-        "displayTime": "2026-08-26 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260826/VgRtUl16.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260826/VgRtUl16_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/10974"
     }
 ]

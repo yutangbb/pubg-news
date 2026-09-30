@@ -1,5 +1,19 @@
 [
     {
+        "title": "PUBG 亚星会网页活动奖励说明",
+        "summary": "PUBG 亚星会网页活动奖励说明",
+        "postId": 11177,
+        "category": "notice",
+        "labels": [
+            "label_pc"
+        ],
+        "createdAt": "2026-09-30 07:51:13",
+        "displayTime": "2026-09-30 09:00:00",
+        "imageUrl": "",
+        "thumbUrl": "",
+        "newsUrl": "https://pubg.com/zh-cn/news/11177"
+    },
+    {
         "title": "PUBG 亚星会运营问题调查结果及处理说明",
         "summary": "PUBG 亚星会运营问题调查结果及处理说明",
         "postId": 11155,
@@ -130,20 +144,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260908/sHRm2pYX.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260908/sHRm2pYX_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/10994"
-    },
-    {
-        "title": "PUBG x 咒术回战",
-        "summary": "PUBG x 咒术回战",
-        "postId": 10991,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-09-07 02:45:41",
-        "displayTime": "2026-09-07 02:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260907/GjFhO2g4.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260907/GjFhO2g4_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/10991"
     }
 ]
