@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (09/28~10/04)",
+        "summary": "",
+        "postId": 11200,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-10-06 12:48:06",
+        "displayTime": "2026-10-07 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261006/UxO7TYlF.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261006/UxO7TYlF_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/11200"
+    },
+    {
         "title": "PUBG 아시아 스타즈 웹 이벤트 보상 안내",
         "summary": "",
         "postId": 11177,
@@ -131,20 +146,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260908/f1cC3F39.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260908/f1cC3F39_thumb.png",
         "newsUrl": "https://pubg.com/ko/news/11019"
-    },
-    {
-        "title": "2026년 9월 상점 안내",
-        "summary": "2026년 9월 상점 안내에 오신 것을 환영합니다!",
-        "postId": 10994,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-09-07 05:38:15",
-        "displayTime": "2026-09-09 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260907/cKidG1uw.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260907/cKidG1uw_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/10994"
     }
 ]

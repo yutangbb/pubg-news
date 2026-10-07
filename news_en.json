@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (09/28~10/04)",
+        "summary": "",
+        "postId": 11200,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-10-06 02:52:49",
+        "displayTime": "2026-10-07 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261006/euoyqkpm.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261006/euoyqkpm_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/11200"
+    },
+    {
         "title": "PUBG Asia Stars Web Event Reward Notice",
         "summary": "Notice regarding the Winner Prediction Event rewards ",
         "postId": 11177,
@@ -132,20 +147,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260826/LtI4hAy8.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260826/LtI4hAy8_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/10994"
-    },
-    {
-        "title": "PUBG x Jujutsu Kaisen",
-        "summary": "",
-        "postId": 10991,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-08-26 01:51:37",
-        "displayTime": "2026-09-07 02:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260901/YJ0xlIvU.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260901/YJ0xlIvU_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/10991"
     }
 ]
