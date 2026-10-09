@@ -1,5 +1,20 @@
 [
     {
+        "title": "【每周违规账号公示】 9/28~10/04",
+        "summary": "【每周违规账号公示】 9/28~10/04",
+        "postId": 11200,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-10-09 06:52:24",
+        "displayTime": "2026-10-07 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261009/npdWeYsr.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261009/npdWeYsr_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/11200"
+    },
+    {
         "title": "PUBG 亚星会网页活动奖励说明",
         "summary": "PUBG 亚星会网页活动奖励说明",
         "postId": 11177,
@@ -12,6 +27,21 @@
         "imageUrl": "",
         "thumbUrl": "",
         "newsUrl": "https://pubg.com/zh-cn/news/11177"
+    },
+    {
+        "title": "【每周违规账号公示】 9/21~9/27",
+        "summary": "【每周违规账号公示】 9/21~9/27",
+        "postId": 11173,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-10-09 06:54:00",
+        "displayTime": "2026-09-30 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261009/L0nNhDiG.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261009/L0nNhDiG_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/11173"
     },
     {
         "title": "PUBG 亚星会运营问题调查结果及处理说明",
@@ -114,35 +144,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260908/oYcTzeMN.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260908/oYcTzeMN_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/11057"
-    },
-    {
-        "title": "地图轮换报告 –43.1",
-        "summary": "欢迎查阅43.1版更新的各地区地图人气度和地图轮换报告。",
-        "postId": 11019,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-09-08 12:54:01",
-        "displayTime": "2026-09-09 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260908/kh0NqWMl.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260908/kh0NqWMl_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/11019"
-    },
-    {
-        "title": "2026年9月商店公告 ",
-        "summary": " 欢迎阅读2026年的第9份商店公告。 ",
-        "postId": 10994,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-08-26 08:44:58",
-        "displayTime": "2026-09-09 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260908/sHRm2pYX.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260908/sHRm2pYX_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/10994"
     }
 ]
