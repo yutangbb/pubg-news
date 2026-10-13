@@ -1,5 +1,65 @@
 [
     {
+        "title": "2026 年 10 月商店更新",
+        "summary": "歡迎來到 2026 年的第十次商店更新！",
+        "postId": 11182,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-10-13 03:46:47",
+        "displayTime": "2026-10-13 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261013/WXqX2yj9.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261013/WXqX2yj9_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/11182"
+    },
+    {
+        "title": "地圖營運報告 - 版本 43.2",
+        "summary": "",
+        "postId": 11137,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-10-13 03:40:00",
+        "displayTime": "2026-10-13 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261013/GparbdpI.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261013/GparbdpI_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/11137"
+    },
+    {
+        "title": "更新項目 - 版本 43.2",
+        "summary": "為您介紹版本 43.2，探索所有最新功能與改進！",
+        "postId": 11136,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-10-13 02:27:13",
+        "displayTime": "2026-10-13 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261013/xujFZ26i.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261013/xujFZ26i_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/11136"
+    },
+    {
+        "title": "PUBG x Bentley",
+        "summary": "",
+        "postId": 11181,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-10-13 03:04:52",
+        "displayTime": "2026-10-13 05:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261013/wj3XvyYO.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261013/wj3XvyYO_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/11181"
+    },
+    {
         "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (09/28~10/04)",
         "summary": "",
         "postId": 11200,
@@ -86,65 +146,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260917/vwzwugGT.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260917/vwzwugGT_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/11101"
-    },
-    {
-        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (08/31~09/06)",
-        "summary": "",
-        "postId": 11052,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-09-09 06:44:06",
-        "displayTime": "2026-09-09 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260909/SaWIQXTk.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260909/SaWIQXTk_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/11052"
-    },
-    {
-        "title": "更新項目 - 版本 43.1",
-        "summary": "為您介紹版本 43.1，探索所有最新功能與改進！",
-        "postId": 11057,
-        "category": "patch_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-09-09 02:45:57",
-        "displayTime": "2026-09-09 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260909/J09u7HPt.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260909/J09u7HPt_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/11057"
-    },
-    {
-        "title": "地圖營運報告 - 版本 43.1",
-        "summary": "",
-        "postId": 11019,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-09-08 03:40:43",
-        "displayTime": "2026-09-09 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260908/obERvxkr.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260908/obERvxkr_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/11019"
-    },
-    {
-        "title": "2026 年 9 月商店更新",
-        "summary": "",
-        "postId": 10994,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-09-08 04:23:20",
-        "displayTime": "2026-09-09 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260908/1tw50ti4.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260908/1tw50ti4_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/10994"
     }
 ]

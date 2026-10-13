@@ -1,5 +1,65 @@
 [
     {
+        "title": "2026년 10월 상점 안내",
+        "summary": "",
+        "postId": 11182,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-10-12 05:59:59",
+        "displayTime": "2026-10-13 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261012/AKS7YSVq.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261012/AKS7YSVq_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/11182"
+    },
+    {
+        "title": "맵 서비스 리포트 - 업데이트 43.2",
+        "summary": "",
+        "postId": 11137,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-10-09 10:42:01",
+        "displayTime": "2026-10-13 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261009/gcuZL3wh.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261009/gcuZL3wh_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/11137"
+    },
+    {
+        "title": "패치 노트 - 업데이트 43.2",
+        "summary": "업데이트 43.2에서 신규 기능 및 개선 사항을 만나보세요.",
+        "postId": 11136,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-10-09 12:30:41",
+        "displayTime": "2026-10-13 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261012/EZpfs6WI.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261012/EZpfs6WI_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/11136"
+    },
+    {
+        "title": "PUBG x 벤틀리",
+        "summary": "",
+        "postId": 11181,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-10-12 12:13:51",
+        "displayTime": "2026-10-13 05:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261012/nIrc05LI.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261012/nIrc05LI_thumb.png",
+        "newsUrl": "https://pubg.com/ko/news/11181"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (09/28~10/04)",
         "summary": "",
         "postId": 11200,
@@ -86,65 +146,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260916/sgK2tFdM.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260916/sgK2tFdM_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/11101"
-    },
-    {
-        "title": "개인정보 처리방침 개정 안내",
-        "summary": "",
-        "postId": 11111,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-09-16 04:36:46",
-        "displayTime": "2026-09-16 04:36:57",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260916/usergZoj.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260916/usergZoj_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/11111"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (08/31~09/06)",
-        "summary": "",
-        "postId": 11052,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-09-09 02:59:37",
-        "displayTime": "2026-09-09 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260909/zwMbehXE.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260909/zwMbehXE_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/11052"
-    },
-    {
-        "title": "패치 노트 - 업데이트 43.1",
-        "summary": "업데이트 43.1에서 신규 기능 및 개선 사항을 만나보세요.",
-        "postId": 11057,
-        "category": "patch_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-09-08 12:16:39",
-        "displayTime": "2026-09-09 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260908/46voZZwT.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260908/46voZZwT_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/11057"
-    },
-    {
-        "title": "맵 서비스 리포트 - 업데이트 43.1",
-        "summary": "",
-        "postId": 11019,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-09-08 06:08:05",
-        "displayTime": "2026-09-09 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260908/f1cC3F39.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260908/f1cC3F39_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/11019"
     }
 ]

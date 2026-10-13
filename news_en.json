@@ -1,5 +1,65 @@
 [
     {
+        "title": "October Store Update 2026",
+        "summary": " Welcome to the tenth Store Update of 2026!",
+        "postId": 11182,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-09-30 07:23:26",
+        "displayTime": "2026-10-13 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261007/V6D906a3.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261007/V6D906a3_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/11182"
+    },
+    {
+        "title": "Map Service Report - Update 43.2",
+        "summary": "",
+        "postId": 11137,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-09-21 07:19:05",
+        "displayTime": "2026-10-13 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261007/o4d96MkF.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261007/o4d96MkF_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/11137"
+    },
+    {
+        "title": "Patch Notes - Update 43.2",
+        "summary": " Introducing Update 43.2: Discover all the latest features and improvements!",
+        "postId": 11136,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-09-21 07:18:43",
+        "displayTime": "2026-10-13 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261012/7pZJbFRA.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261012/7pZJbFRA_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/11136"
+    },
+    {
+        "title": "PUBG x Bentley",
+        "summary": "",
+        "postId": 11181,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-09-30 07:22:22",
+        "displayTime": "2026-10-13 05:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261012/6gQf0z57.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261012/6gQf0z57_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/11181"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (09/28~10/04)",
         "summary": "",
         "postId": 11200,
@@ -87,65 +147,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260909/WwUxQCaO.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260909/WwUxQCaO_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/11076"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (08/31~09/06)",
-        "summary": "",
-        "postId": 11052,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-09-07 06:31:48",
-        "displayTime": "2026-09-09 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260907/wMB0b3Wk.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260907/wMB0b3Wk_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/11052"
-    },
-    {
-        "title": "Patch Notes - Update 43.1",
-        "summary": "Introducing Update 43.1: Discover all the latest features and improvements!",
-        "postId": 11057,
-        "category": "patch_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-09-08 07:19:52",
-        "displayTime": "2026-09-09 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260908/cmHiWzO2.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260908/cmHiWzO2_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/11057"
-    },
-    {
-        "title": "Map Service Report - Update 43.1",
-        "summary": "",
-        "postId": 11019,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-08-31 07:24:11",
-        "displayTime": "2026-09-09 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260831/05Bz3UJp.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260831/05Bz3UJp_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/11019"
-    },
-    {
-        "title": "September Store Update 2026",
-        "summary": "",
-        "postId": 10994,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-08-26 07:53:10",
-        "displayTime": "2026-09-09 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260826/LtI4hAy8.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260826/LtI4hAy8_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/10994"
     }
 ]

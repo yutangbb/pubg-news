@@ -1,5 +1,65 @@
 [
     {
+        "title": "2026年10月商店公告",
+        "summary": "欢迎阅读2026年的第10份商店公告!",
+        "postId": 11182,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-10-13 06:02:16",
+        "displayTime": "2026-10-13 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261013/H3MWmer0.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261013/H3MWmer0_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/11182"
+    },
+    {
+        "title": "地图轮换报告 – 43.2",
+        "summary": "亲爱的玩家朋友们，大家好！\n欢迎查阅43.2版更新的各地区地图人气度和地图轮换报告。\n",
+        "postId": 11137,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-10-13 05:59:22",
+        "displayTime": "2026-10-13 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261013/8zTgRuip.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261013/8zTgRuip_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/11137"
+    },
+    {
+        "title": "43.2版本更新公告",
+        "summary": "在42.3版本更新中体验新功能和优化内容吧！",
+        "postId": 11136,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-10-13 05:58:08",
+        "displayTime": "2026-10-13 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261013/QtCPzF5J.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261013/QtCPzF5J_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/11136"
+    },
+    {
+        "title": "PUBG x 宾利",
+        "summary": "PUBG x 宾利",
+        "postId": 11181,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-10-13 04:24:03",
+        "displayTime": "2026-10-13 05:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261013/FNkDWHyI.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261013/FNkDWHyI_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/11181"
+    },
+    {
         "title": "【每周违规账号公示】 9/28~10/04",
         "summary": "【每周违规账号公示】 9/28~10/04",
         "postId": 11200,
@@ -86,63 +146,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260916/8itk1AYV.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260916/8itk1AYV_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/11101"
-    },
-    {
-        "title": "PUBG9月生态创作激励计划重磅开启",
-        "summary": "PUBG9月生态创作激励计划重磅开启",
-        "postId": 11095,
-        "category": "notice",
-        "labels": [
-            "label_pc"
-        ],
-        "createdAt": "2026-09-11 13:51:04",
-        "displayTime": "2026-09-11 12:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260911/XZIyCX7F.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260911/XZIyCX7F_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/11095"
-    },
-    {
-        "title": "PUBG 亚星会赛事及网页活动公告",
-        "summary": "汇聚亚洲六大赛区代表 PUBG 主播的 PUBG 亚星会",
-        "postId": 11093,
-        "category": "notice",
-        "labels": [
-            "label_pc"
-        ],
-        "createdAt": "2026-09-11 03:42:29",
-        "displayTime": "2026-09-11 03:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260911/iMkpXLiv.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260911/iMkpXLiv_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/11093"
-    },
-    {
-        "title": "【每周违规账号公示】 8/31~9/6",
-        "summary": "【每周违规账号公示】 8/31~9/6",
-        "postId": 11052,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-09-28 07:35:48",
-        "displayTime": "2026-09-09 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260928/wgOp6Unb.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260928/wgOp6Unb_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/11052"
-    },
-    {
-        "title": "43.1版本更新公告",
-        "summary": "在43.1版本更新中体验新功能和优化内容吧！",
-        "postId": 11057,
-        "category": "patch_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-09-08 09:55:16",
-        "displayTime": "2026-09-09 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260908/oYcTzeMN.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260908/oYcTzeMN_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/11057"
     }
 ]
