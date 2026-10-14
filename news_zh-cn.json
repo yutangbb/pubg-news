@@ -1,5 +1,20 @@
 [
     {
+        "title": "SLB：荣都破晓者",
+        "summary": "启动发电机，挺过荣都最黑暗的夜晚生存至黎明。",
+        "postId": 11138,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-10-14 04:09:38",
+        "displayTime": "2026-10-14 05:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261014/pCIGm2nS.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261014/pCIGm2nS_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/11138"
+    },
+    {
         "title": "2026年10月商店公告",
         "summary": "欢迎阅读2026年的第10份商店公告!",
         "postId": 11182,
@@ -131,20 +146,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260928/7080xSj4.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260928/7080xSj4_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/11135"
-    },
-    {
-        "title": "【每周违规账号公示】 9/7~9/13",
-        "summary": "【每周违规账号公示】 9/7~9/13",
-        "postId": 11101,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-09-16 07:59:48",
-        "displayTime": "2026-09-16 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260916/8itk1AYV.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260916/8itk1AYV_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/11101"
     }
 ]

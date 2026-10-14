@@ -1,5 +1,35 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (10/05~10/11)",
+        "summary": "",
+        "postId": 11221,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-10-12 06:25:36",
+        "displayTime": "2026-10-14 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261012/jTzXQW2U.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261012/jTzXQW2U_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/11221"
+    },
+    {
+        "title": "SLB: DAWNBREAKERS OF RONDO",
+        "summary": " Power the generators, survive Rondo's darkest night, and live to see the dawn.",
+        "postId": 11138,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-09-21 07:19:41",
+        "displayTime": "2026-10-14 05:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261014/qHn2DRRu.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261014/qHn2DRRu_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/11138"
+    },
+    {
         "title": "October Store Update 2026",
         "summary": " Welcome to the tenth Store Update of 2026!",
         "postId": 11182,
@@ -117,35 +147,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260921/skvX2mvK.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260921/skvX2mvK_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/11135"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (09/07~09/13)",
-        "summary": "",
-        "postId": 11101,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-09-14 06:47:16",
-        "displayTime": "2026-09-16 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260914/jpmob4Tj.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260914/jpmob4Tj_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/11101"
-    },
-    {
-        "title": "PUBG Rumble Weeks: Follow the final rounds, join the challenge, and win G-Coin",
-        "summary": "",
-        "postId": 11076,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_esports"
-        ],
-        "createdAt": "2026-09-09 15:45:03",
-        "displayTime": "2026-09-09 15:44:58",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260909/WwUxQCaO.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260909/WwUxQCaO_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/11076"
     }
 ]

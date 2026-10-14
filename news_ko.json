@@ -1,5 +1,35 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (10/05~10/11)",
+        "summary": "",
+        "postId": 11221,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-10-14 05:51:44",
+        "displayTime": "2026-10-14 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261014/fEjFERvs.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261014/fEjFERvs_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/11221"
+    },
+    {
+        "title": "SLB: 새벽을 깨우는 자들",
+        "summary": "",
+        "postId": 11138,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-10-13 13:38:48",
+        "displayTime": "2026-10-14 05:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261013/EGFAqHSQ.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261013/EGFAqHSQ_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/11138"
+    },
+    {
         "title": "2026년 10월 상점 안내",
         "summary": "",
         "postId": 11182,
@@ -116,35 +146,5 @@
         "imageUrl": "",
         "thumbUrl": "",
         "newsUrl": "https://pubg.com/ko/news/11155"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (09/14~09/20)",
-        "summary": "",
-        "postId": 11135,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-09-30 05:56:37",
-        "displayTime": "2026-09-23 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260930/yoMTUagL.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260930/yoMTUagL_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/11135"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (09/07~09/13)",
-        "summary": "",
-        "postId": 11101,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-09-16 02:18:30",
-        "displayTime": "2026-09-16 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260916/sgK2tFdM.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260916/sgK2tFdM_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/11101"
     }
 ]
