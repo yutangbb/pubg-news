@@ -1,5 +1,20 @@
 [
     {
+        "title": "【每周违规账号公示】 10/05~10/11",
+        "summary": "【每周违规账号公示】 10/05~10/11",
+        "postId": 11221,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-10-15 07:58:46",
+        "displayTime": "2026-10-14 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261015/HwvHZLJz.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261015/HwvHZLJz_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/11221"
+    },
+    {
         "title": "SLB：荣都破晓者",
         "summary": "启动发电机，挺过荣都最黑暗的夜晚生存至黎明。",
         "postId": 11138,
@@ -131,20 +146,5 @@
         "imageUrl": "",
         "thumbUrl": "",
         "newsUrl": "https://pubg.com/zh-cn/news/11155"
-    },
-    {
-        "title": "【每周违规账号公示】 9/14~9/20",
-        "summary": "【每周违规账号公示】 9/14~9/20",
-        "postId": 11135,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-09-28 07:23:31",
-        "displayTime": "2026-09-23 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260928/7080xSj4.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20260928/7080xSj4_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/11135"
     }
 ]
