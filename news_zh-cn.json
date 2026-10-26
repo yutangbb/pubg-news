@@ -1,5 +1,20 @@
 [
     {
+        "title": "【每周违规账号公示】 10/12~10/18",
+        "summary": "【每周违规账号公示】 10/12~10/18",
+        "postId": 11258,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-10-26 04:41:25",
+        "displayTime": "2026-10-21 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261026/Knr1wPP0.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261026/Knr1wPP0_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/11258"
+    },
+    {
         "title": "【每周违规账号公示】 10/05~10/11",
         "summary": "【每周违规账号公示】 10/05~10/11",
         "postId": 11221,
@@ -132,19 +147,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261009/L0nNhDiG.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261009/L0nNhDiG_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/11173"
-    },
-    {
-        "title": "PUBG 亚星会运营问题调查结果及处理说明",
-        "summary": "PUBG 亚星会运营问题调查结果及处理说明",
-        "postId": 11155,
-        "category": "notice",
-        "labels": [
-            "label_pc"
-        ],
-        "createdAt": "2026-09-23 08:54:42",
-        "displayTime": "2026-09-23 09:20:00",
-        "imageUrl": "",
-        "thumbUrl": "",
-        "newsUrl": "https://pubg.com/zh-cn/news/11155"
     }
 ]
