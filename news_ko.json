@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (10/19~10/25)",
+        "summary": "",
+        "postId": 11335,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-10-28 05:10:40",
+        "displayTime": "2026-10-28 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261028/thjHzy6x.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261028/thjHzy6x_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/11335"
+    },
+    {
         "title": "[안내] 2026년 개인정보 이용·제공 내역 통지 ",
         "summary": "",
         "postId": 11297,
@@ -133,19 +148,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261006/UxO7TYlF.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261006/UxO7TYlF_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/11200"
-    },
-    {
-        "title": "PUBG 아시아 스타즈 웹 이벤트 보상 안내",
-        "summary": "",
-        "postId": 11177,
-        "category": "notice",
-        "labels": [
-            "label_pc"
-        ],
-        "createdAt": "2026-09-29 10:28:12",
-        "displayTime": "2026-09-30 09:00:00",
-        "imageUrl": "",
-        "thumbUrl": "",
-        "newsUrl": "https://pubg.com/ko/news/11177"
     }
 ]
