@@ -1,5 +1,19 @@
 [
     {
+        "title": "[개발일지] 콘솔 안티치트 대응 현황 및 향후 계획",
+        "summary": "",
+        "postId": 11345,
+        "category": "dev_notes",
+        "labels": [
+            "label_console"
+        ],
+        "createdAt": "2026-10-29 04:18:39",
+        "displayTime": "2026-10-29 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261029/K7rdBKjH.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261029/K7rdBKjH_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/11345"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (10/19~10/25)",
         "summary": "",
         "postId": 11335,
@@ -133,20 +147,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261012/nIrc05LI.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261012/nIrc05LI_thumb.png",
         "newsUrl": "https://pubg.com/ko/news/11181"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (09/28~10/04)",
-        "summary": "",
-        "postId": 11200,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-10-06 12:48:06",
-        "displayTime": "2026-10-07 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261006/UxO7TYlF.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261006/UxO7TYlF_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/11200"
     }
 ]

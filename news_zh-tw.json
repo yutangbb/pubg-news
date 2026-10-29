@@ -1,5 +1,19 @@
 [
     {
+        "title": "[開發者信件] 家機版反作弊更新與未來規劃",
+        "summary": "",
+        "postId": 11345,
+        "category": "dev_notes",
+        "labels": [
+            "label_console"
+        ],
+        "createdAt": "2026-10-29 08:20:50",
+        "displayTime": "2026-10-29 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261029/LYNXBq9x.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261029/LYNXBq9x_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/11345"
+    },
+    {
         "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (10/19~10/25)",
         "summary": "",
         "postId": 11335,
@@ -133,19 +147,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261007/Ex0qjtdt.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261007/Ex0qjtdt_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/11200"
-    },
-    {
-        "title": "PUBG Asia Stars 網頁活動獎勵公告",
-        "summary": "關於「冠軍預測活動」獎勵發放之公告",
-        "postId": 11177,
-        "category": "notice",
-        "labels": [
-            "label_pc"
-        ],
-        "createdAt": "2026-09-30 08:05:32",
-        "displayTime": "2026-09-30 09:00:00",
-        "imageUrl": "",
-        "thumbUrl": "",
-        "newsUrl": "https://pubg.com/zh-tw/news/11177"
     }
 ]

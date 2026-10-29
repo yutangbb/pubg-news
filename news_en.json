@@ -1,5 +1,33 @@
 [
     {
+        "title": "2027 PUBG Esports: What’s Changing",
+        "summary": "Discover what’s changing in PUBG Esports in 2027, including regional competition updates, four Phases, and a new points system.",
+        "postId": 11354,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2026-10-29 08:10:52",
+        "displayTime": "2026-10-29 08:09:47",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261029/n9lLnXK1.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261029/n9lLnXK1_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/11354"
+    },
+    {
+        "title": "[Dev Letter] Console Anti-Cheat Update and Future Plans",
+        "summary": "",
+        "postId": 11345,
+        "category": "dev_notes",
+        "labels": [
+            "label_console"
+        ],
+        "createdAt": "2026-10-27 09:17:44",
+        "displayTime": "2026-10-29 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261027/3pbL0nLW.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261027/3pbL0nLW_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/11345"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (10/19~10/25)",
         "summary": "",
         "postId": 11335,
@@ -118,34 +146,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261012/6gQf0z57.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261012/6gQf0z57_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/11181"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (09/28~10/04)",
-        "summary": "",
-        "postId": 11200,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-10-06 02:52:49",
-        "displayTime": "2026-10-07 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261006/euoyqkpm.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261006/euoyqkpm_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/11200"
-    },
-    {
-        "title": "PUBG Asia Stars Web Event Reward Notice",
-        "summary": "Notice regarding the Winner Prediction Event rewards ",
-        "postId": 11177,
-        "category": "notice",
-        "labels": [
-            "label_pc"
-        ],
-        "createdAt": "2026-09-30 07:27:25",
-        "displayTime": "2026-09-30 09:00:00",
-        "imageUrl": "",
-        "thumbUrl": "",
-        "newsUrl": "https://pubg.com/en/news/11177"
     }
 ]
