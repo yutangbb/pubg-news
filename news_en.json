@@ -1,5 +1,80 @@
 [
     {
+        "title": "Patch Notes - Update 44.1",
+        "summary": " Introducing Update 44.1: Discover all the latest features and improvements!",
+        "postId": 11338,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-10-26 09:24:55",
+        "displayTime": "2026-11-03 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261026/4fhxvgil.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261026/4fhxvgil_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/11338"
+    },
+    {
+        "title": "[Dev Letter] The End of the LMG Meta Rotation and What’s Next ",
+        "summary": "",
+        "postId": 11337,
+        "category": "dev_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-10-26 09:23:47",
+        "displayTime": "2026-11-03 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261026/YSRyMn4U.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261026/YSRyMn4U_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/11337"
+    },
+    {
+        "title": "Map Service Report - Update 44.1",
+        "summary": "",
+        "postId": 11336,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-10-26 06:54:42",
+        "displayTime": "2026-11-03 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261026/fubQ2vp8.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261026/fubQ2vp8_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/11336"
+    },
+    {
+        "title": "November Store Update 2026",
+        "summary": " Welcome to the Eleventh Store Update of 2026!",
+        "postId": 11306,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-10-22 05:16:39",
+        "displayTime": "2026-11-03 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261022/xf0UpJFY.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261022/xf0UpJFY_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/11306"
+    },
+    {
+        "title": "PUBG x IVE",
+        "summary": "",
+        "postId": 11307,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-10-22 05:17:43",
+        "displayTime": "2026-11-03 05:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261022/R2LcKPxf.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261022/R2LcKPxf_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/11307"
+    },
+    {
         "title": "2027 PUBG Esports: What’s Changing",
         "summary": "Discover what’s changing in PUBG Esports in 2027, including regional competition updates, four Phases, and a new points system.",
         "postId": 11354,
@@ -71,80 +146,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261012/jTzXQW2U.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261012/jTzXQW2U_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/11221"
-    },
-    {
-        "title": "SLB: DAWNBREAKERS OF RONDO",
-        "summary": " Power the generators, survive Rondo's darkest night, and live to see the dawn.",
-        "postId": 11138,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-09-21 07:19:41",
-        "displayTime": "2026-10-14 05:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261014/qHn2DRRu.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261014/qHn2DRRu_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/11138"
-    },
-    {
-        "title": "October Store Update 2026",
-        "summary": " Welcome to the tenth Store Update of 2026!",
-        "postId": 11182,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-09-30 07:23:26",
-        "displayTime": "2026-10-13 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261007/V6D906a3.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261007/V6D906a3_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/11182"
-    },
-    {
-        "title": "Map Service Report - Update 43.2",
-        "summary": "",
-        "postId": 11137,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-09-21 07:19:05",
-        "displayTime": "2026-10-13 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261007/o4d96MkF.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261007/o4d96MkF_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/11137"
-    },
-    {
-        "title": "Patch Notes - Update 43.2",
-        "summary": " Introducing Update 43.2: Discover all the latest features and improvements!",
-        "postId": 11136,
-        "category": "patch_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-09-21 07:18:43",
-        "displayTime": "2026-10-13 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261012/7pZJbFRA.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261012/7pZJbFRA_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/11136"
-    },
-    {
-        "title": "PUBG x Bentley",
-        "summary": "",
-        "postId": 11181,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-09-30 07:22:22",
-        "displayTime": "2026-10-13 05:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261012/6gQf0z57.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261012/6gQf0z57_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/11181"
     }
 ]

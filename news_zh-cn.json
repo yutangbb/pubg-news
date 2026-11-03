@@ -1,5 +1,80 @@
 [
     {
+        "title": "44.1版本更新公告 ",
+        "summary": "在44.1版本更新中体验新功能和优化内容吧！",
+        "postId": 11338,
+        "category": "patch_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-11-03 03:45:25",
+        "displayTime": "2026-11-03 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261103/KfffYfp6.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261103/KfffYfp6_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/11338"
+    },
+    {
+        "title": "[开发者日志] 轻机枪主流玩法轮换结束及后续计划",
+        "summary": "[开发者日志] 轻机枪主流玩法轮换结束及后续计划",
+        "postId": 11337,
+        "category": "dev_notes",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-11-03 03:56:46",
+        "displayTime": "2026-11-03 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261103/4T4eUfKl.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261103/4T4eUfKl_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/11337"
+    },
+    {
+        "title": "地图轮换报告 – 44.1",
+        "summary": "地图轮换报告 – 44.1",
+        "postId": 11336,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-11-03 03:58:44",
+        "displayTime": "2026-11-03 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261103/orzNnIKE.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261103/orzNnIKE_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/11336"
+    },
+    {
+        "title": "2026年11月商店公告",
+        "summary": "欢迎收看2026年的第11份商店公告。 ",
+        "postId": 11306,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-11-03 04:00:50",
+        "displayTime": "2026-11-03 06:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261103/lPemTU3f.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261103/lPemTU3f_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/11306"
+    },
+    {
+        "title": "PUBG x IVE",
+        "summary": "PUBG x IVE",
+        "postId": 11307,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-11-03 03:26:37",
+        "displayTime": "2026-11-03 05:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261103/FThbDCud.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261103/FThbDCud_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/11307"
+    },
+    {
         "title": "【每周违规账号公示】 10/19~10/25",
         "summary": "【每周违规账号公示】 10/19~10/25",
         "postId": 11335,
@@ -73,79 +148,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261013/H3MWmer0.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261013/H3MWmer0_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/11182"
-    },
-    {
-        "title": "地图轮换报告 – 43.2",
-        "summary": "亲爱的玩家朋友们，大家好！\n欢迎查阅43.2版更新的各地区地图人气度和地图轮换报告。\n",
-        "postId": 11137,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-10-13 05:59:22",
-        "displayTime": "2026-10-13 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261013/8zTgRuip.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261013/8zTgRuip_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/11137"
-    },
-    {
-        "title": "43.2版本更新公告",
-        "summary": "在42.3版本更新中体验新功能和优化内容吧！",
-        "postId": 11136,
-        "category": "patch_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-10-13 05:58:08",
-        "displayTime": "2026-10-13 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261013/QtCPzF5J.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261013/QtCPzF5J_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/11136"
-    },
-    {
-        "title": "PUBG x 宾利",
-        "summary": "PUBG x 宾利",
-        "postId": 11181,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-10-13 04:24:03",
-        "displayTime": "2026-10-13 05:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261013/FNkDWHyI.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261013/FNkDWHyI_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/11181"
-    },
-    {
-        "title": "【每周违规账号公示】 9/28~10/04",
-        "summary": "【每周违规账号公示】 9/28~10/04",
-        "postId": 11200,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-10-09 06:52:24",
-        "displayTime": "2026-10-07 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261009/npdWeYsr.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261009/npdWeYsr_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/11200"
-    },
-    {
-        "title": "PUBG 亚星会网页活动奖励说明",
-        "summary": "PUBG 亚星会网页活动奖励说明",
-        "postId": 11177,
-        "category": "notice",
-        "labels": [
-            "label_pc"
-        ],
-        "createdAt": "2026-09-30 07:51:13",
-        "displayTime": "2026-09-30 09:00:00",
-        "imageUrl": "",
-        "thumbUrl": "",
-        "newsUrl": "https://pubg.com/zh-cn/news/11177"
     }
 ]
