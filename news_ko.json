@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (10/26~11/01)",
+        "summary": "",
+        "postId": 11359,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-11-04 03:21:52",
+        "displayTime": "2026-11-04 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261104/G2Xo7CmV.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261104/G2Xo7CmV_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/11359"
+    },
+    {
         "title": "패치 노트 - 업데이트 44.1",
         "summary": "업데이트 44.1에서 신규 기능 및 개선 사항을 만나보세요.",
         "postId": 11338,
@@ -132,20 +147,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261020/FUq46wPD.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261020/FUq46wPD_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/11258"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (10/05~10/11)",
-        "summary": "",
-        "postId": 11221,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-10-14 05:51:44",
-        "displayTime": "2026-10-14 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261014/fEjFERvs.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261014/fEjFERvs_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/11221"
     }
 ]
