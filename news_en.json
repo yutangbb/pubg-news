@@ -1,5 +1,17 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (11/02~11/08) ",
+        "summary": "",
+        "postId": 11382,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2026-11-09 06:13:42",
+        "displayTime": "2026-11-11 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261109/MUyfoSmX.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261109/MUyfoSmX_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/11382"
+    },
+    {
         "title": "[Dev Letter] Anti-Cheat Update - Combating Cheat Distribution and Ban Evasion",
         "summary": "",
         "postId": 11346,
@@ -131,20 +143,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261027/3pbL0nLW.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261027/3pbL0nLW_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/11345"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (10/19~10/25)",
-        "summary": "",
-        "postId": 11335,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-10-26 06:45:41",
-        "displayTime": "2026-10-28 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261026/mmDowQZU.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261026/mmDowQZU_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/11335"
     }
 ]

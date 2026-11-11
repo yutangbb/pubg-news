@@ -1,5 +1,17 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (11/02~11/08)",
+        "summary": "",
+        "postId": 11382,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2026-11-11 03:27:48",
+        "displayTime": "2026-11-11 07:00:00",
+        "imageUrl": "",
+        "thumbUrl": "",
+        "newsUrl": "https://pubg.com/ko/news/11382"
+    },
+    {
         "title": "[개발일지] 불법 프로그램 유통 및 제재 우회 대응 현황",
         "summary": "",
         "postId": 11346,
@@ -132,20 +144,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261028/thjHzy6x.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261028/thjHzy6x_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/11335"
-    },
-    {
-        "title": "[안내] 2026년 개인정보 이용·제공 내역 통지 ",
-        "summary": "",
-        "postId": 11297,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-10-21 06:35:58",
-        "displayTime": "2026-10-28 01:00:00",
-        "imageUrl": "",
-        "thumbUrl": "",
-        "newsUrl": "https://pubg.com/ko/news/11297"
     }
 ]
