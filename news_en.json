@@ -1,5 +1,19 @@
 [
     {
+        "title": "PUBG Global Championship 2026: Tournament Details",
+        "summary": "From December 1 to 13, 32 teams that have taken different paths to reach this stage will face off in the ultimate battle for the world championship title.\n\n",
+        "postId": 11391,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2026-11-12 05:05:33",
+        "displayTime": "2026-11-12 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261112/ccOAAnZ3.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261112/ccOAAnZ3_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/11391"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (11/02~11/08) ",
         "summary": "",
         "postId": 11382,
@@ -129,19 +143,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261029/n9lLnXK1.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261029/n9lLnXK1_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/11354"
-    },
-    {
-        "title": "[Dev Letter] Console Anti-Cheat Update and Future Plans",
-        "summary": "",
-        "postId": 11345,
-        "category": "dev_notes",
-        "labels": [
-            "label_console"
-        ],
-        "createdAt": "2026-10-27 09:17:44",
-        "displayTime": "2026-10-29 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261027/3pbL0nLW.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261027/3pbL0nLW_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/11345"
     }
 ]
