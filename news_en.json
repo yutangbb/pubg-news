@@ -1,5 +1,19 @@
 [
     {
+        "title": "PGC 2026 Grand Finals Tickets on Sale",
+        "summary": "PGC 2026 Grand Finals tickets are now on sale! Secure your seat and witness the world championship live in Istanbul, December 11–13!",
+        "postId": 11402,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2026-11-16 09:26:43",
+        "displayTime": "2026-11-16 11:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261116/mjU7BfnM.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261116/mjU7BfnM_thumb.png",
+        "newsUrl": "https://pubg.com/en/news/11402"
+    },
+    {
         "title": "PUBG UNITED 2026: Together Again in Istanbul",
         "summary": "From December 11 to 13, 2026, PUBG UNITED returns to İstanbul, Türkiye, bringing fans from around the world together once again.",
         "postId": 11396,
@@ -128,20 +142,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261022/xf0UpJFY.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261022/xf0UpJFY_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/11306"
-    },
-    {
-        "title": "PUBG x IVE",
-        "summary": "",
-        "postId": 11307,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-10-22 05:17:43",
-        "displayTime": "2026-11-03 05:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261022/R2LcKPxf.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261022/R2LcKPxf_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/11307"
     }
 ]
