@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG 치키너즈 2기 크리에이터 모집 안내",
+        "summary": "",
+        "postId": 11397,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-11-16 03:09:38",
+        "displayTime": "2026-11-16 03:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261116/QFEvhXYn.webp",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261116/QFEvhXYn_thumb.webp",
+        "newsUrl": "https://pubg.com/ko/news/11397"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (11/02~11/08)",
         "summary": "",
         "postId": 11382,
@@ -129,20 +144,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261029/K7rdBKjH.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261029/K7rdBKjH_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/11345"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (10/19~10/25)",
-        "summary": "",
-        "postId": 11335,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-10-28 05:10:40",
-        "displayTime": "2026-10-28 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261028/thjHzy6x.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261028/thjHzy6x_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/11335"
     }
 ]
