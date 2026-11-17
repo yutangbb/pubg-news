@@ -1,5 +1,19 @@
 [
     {
+        "title": "PUBG UNITED 2026 Event Page Now Live",
+        "summary": "The PUBG UNITED 2026 event page is now live, bringing together the global championships of PUBG and PUBG MOBILE in one place.",
+        "postId": 11407,
+        "category": "notice",
+        "labels": [
+            "label_esports"
+        ],
+        "createdAt": "2026-11-17 05:04:31",
+        "displayTime": "2026-11-17 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261117/z2nKrdZH.png",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261117/z2nKrdZH_thumb.png",
+        "newsUrl": "https://pubg.com/en/news/11407"
+    },
+    {
         "title": "PGC 2026 Grand Finals Tickets on Sale",
         "summary": "PGC 2026 Grand Finals tickets are now on sale! Secure your seat and witness the world championship live in Istanbul, December 11–13!",
         "postId": 11402,
@@ -127,20 +141,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261026/fubQ2vp8.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261026/fubQ2vp8_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/11336"
-    },
-    {
-        "title": "November Store Update 2026",
-        "summary": " Welcome to the Eleventh Store Update of 2026!",
-        "postId": 11306,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-10-22 05:16:39",
-        "displayTime": "2026-11-03 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261022/xf0UpJFY.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261022/xf0UpJFY_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/11306"
     }
 ]
