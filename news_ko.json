@@ -1,5 +1,17 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (11/09~11/15)",
+        "summary": "",
+        "postId": 11401,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2026-11-18 03:17:26",
+        "displayTime": "2026-11-18 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261118/ovAk7WAE.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261118/ovAk7WAE_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/11401"
+    },
+    {
         "title": "PUBG 치키너즈 2기 크리에이터 모집 안내",
         "summary": "",
         "postId": 11397,
@@ -22,8 +34,8 @@
         "labels": [],
         "createdAt": "2026-11-11 03:27:48",
         "displayTime": "2026-11-11 07:00:00",
-        "imageUrl": "",
-        "thumbUrl": "",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261118/SmZElkcN.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261118/SmZElkcN_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/11382"
     },
     {
@@ -130,19 +142,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261102/qQ9cRvYY.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261102/qQ9cRvYY_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/11307"
-    },
-    {
-        "title": "[개발일지] 콘솔 안티치트 대응 현황 및 향후 계획",
-        "summary": "",
-        "postId": 11345,
-        "category": "dev_notes",
-        "labels": [
-            "label_console"
-        ],
-        "createdAt": "2026-10-29 04:18:39",
-        "displayTime": "2026-10-29 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261029/K7rdBKjH.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261029/K7rdBKjH_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/11345"
     }
 ]

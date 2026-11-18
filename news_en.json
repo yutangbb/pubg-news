@@ -1,5 +1,17 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (11/09~11/15) ",
+        "summary": "",
+        "postId": 11401,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2026-11-16 07:02:22",
+        "displayTime": "2026-11-18 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261116/gU6v9O2j.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261116/gU6v9O2j_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/11401"
+    },
+    {
         "title": "PUBG UNITED 2026 Event Page Now Live",
         "summary": "The PUBG UNITED 2026 event page is now live, bringing together the global championships of PUBG and PUBG MOBILE in one place.",
         "postId": 11407,
@@ -126,20 +138,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261026/YSRyMn4U.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261026/YSRyMn4U_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/11337"
-    },
-    {
-        "title": "Map Service Report - Update 44.1",
-        "summary": "",
-        "postId": 11336,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-10-26 06:54:42",
-        "displayTime": "2026-11-03 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261026/fubQ2vp8.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261026/fubQ2vp8_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/11336"
     }
 ]
