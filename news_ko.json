@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG x IVE 콜라보레이션 아이템 모델링 개선 안내",
+        "summary": "",
+        "postId": 11414,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-11-20 03:01:03",
+        "displayTime": "2026-11-20 07:00:00",
+        "imageUrl": "",
+        "thumbUrl": "",
+        "newsUrl": "https://pubg.com/ko/news/11414"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (11/09~11/15)",
         "summary": "",
         "postId": 11401,
@@ -127,20 +142,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261103/JN5cBWBL.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261103/JN5cBWBL_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/11306"
-    },
-    {
-        "title": "PUBG x 아이브",
-        "summary": "",
-        "postId": 11307,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-11-02 09:28:38",
-        "displayTime": "2026-11-03 05:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261102/qQ9cRvYY.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261102/qQ9cRvYY_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/11307"
     }
 ]

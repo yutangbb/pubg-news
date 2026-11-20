@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG x IVE Collaboration Model Improvements",
+        "summary": "",
+        "postId": 11414,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-11-19 04:20:36",
+        "displayTime": "2026-11-20 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261119/kSc9zZzj.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261119/kSc9zZzj_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/11414"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (11/09~11/15) ",
         "summary": "",
         "postId": 11401,
@@ -123,20 +138,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261026/4fhxvgil.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261026/4fhxvgil_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/11338"
-    },
-    {
-        "title": "[Dev Letter] The End of the LMG Meta Rotation and What’s Next ",
-        "summary": "",
-        "postId": 11337,
-        "category": "dev_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-10-26 09:23:47",
-        "displayTime": "2026-11-03 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261026/YSRyMn4U.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261026/YSRyMn4U_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/11337"
     }
 ]
