@@ -15,6 +15,18 @@
         "newsUrl": "https://pubg.com/zh-tw/news/11414"
     },
     {
+        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (11/09~11/15)",
+        "summary": "",
+        "postId": 11401,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2026-11-23 03:22:56",
+        "displayTime": "2026-11-18 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261123/bFELUe5F.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261123/bFELUe5F_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/11401"
+    },
+    {
         "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (11/02~11/08)",
         "summary": "",
         "postId": 11382,
@@ -130,19 +142,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261102/ABa2BRSa.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261102/ABa2BRSa_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/11307"
-    },
-    {
-        "title": "[開發者信件] 家機版反作弊更新與未來規劃",
-        "summary": "",
-        "postId": 11345,
-        "category": "dev_notes",
-        "labels": [
-            "label_console"
-        ],
-        "createdAt": "2026-10-29 08:20:50",
-        "displayTime": "2026-10-29 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261029/LYNXBq9x.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261029/LYNXBq9x_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/11345"
     }
 ]
