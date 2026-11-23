@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS 운영정책 개정 안내",
+        "summary": "",
+        "postId": 11411,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-11-18 02:15:11",
+        "displayTime": "2026-11-23 02:00:00",
+        "imageUrl": "",
+        "thumbUrl": "",
+        "newsUrl": "https://pubg.com/ko/news/11411"
+    },
+    {
         "title": "PUBG x IVE 콜라보레이션 아이템 모델링 개선 안내",
         "summary": "",
         "postId": 11414,
@@ -127,20 +142,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261029/Yt2vxc0U.png",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261029/Yt2vxc0U_thumb.png",
         "newsUrl": "https://pubg.com/ko/news/11336"
-    },
-    {
-        "title": "2026년 11월 상점 안내",
-        "summary": "2026년 11월 상점 안내에 오신 것을 환영합니다!",
-        "postId": 11306,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-11-03 02:29:46",
-        "displayTime": "2026-11-03 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261103/JN5cBWBL.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261103/JN5cBWBL_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/11306"
     }
 ]
