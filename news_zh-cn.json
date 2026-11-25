@@ -1,5 +1,17 @@
 [
     {
+        "title": "PUBG 幻想联赛：PGC 2026",
+        "summary": "PUBG 幻想联赛：PGC 2026",
+        "postId": 11425,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2026-11-25 02:54:15",
+        "displayTime": "2026-11-25 02:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261125/WU87KGP3.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261125/WU87KGP3_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-cn/news/11425"
+    },
+    {
         "title": "PUBG x IVE 联动道具建模优化公告",
         "summary": "PUBG x IVE 联动道具建模优化公告",
         "postId": 11414,
@@ -127,20 +139,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261103/lPemTU3f.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261103/lPemTU3f_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-cn/news/11306"
-    },
-    {
-        "title": "PUBG x IVE",
-        "summary": "PUBG x IVE",
-        "postId": 11307,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-11-03 03:26:37",
-        "displayTime": "2026-11-03 05:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261103/FThbDCud.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261103/FThbDCud_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-cn/news/11307"
     }
 ]

@@ -1,5 +1,29 @@
 [
     {
+        "title": "《絕地求生》反作弊行動！每週封鎖帳號名單 (11/16~11/22)",
+        "summary": "",
+        "postId": 11418,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2026-11-25 07:17:30",
+        "displayTime": "2026-11-25 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261125/mdX2b6BY.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261125/mdX2b6BY_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/11418"
+    },
+    {
+        "title": "PUBG 夢幻聯賽：PGC 2026",
+        "summary": "",
+        "postId": 11425,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2026-11-25 04:54:16",
+        "displayTime": "2026-11-25 02:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261125/S6MriOxr.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261125/S6MriOxr_thumb.jpg",
+        "newsUrl": "https://pubg.com/zh-tw/news/11425"
+    },
+    {
         "title": "PUBG × IVE 聯名角色外觀調整公告",
         "summary": "",
         "postId": 11414,
@@ -112,35 +136,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261102/laeq53Rt.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261102/laeq53Rt_thumb.jpg",
         "newsUrl": "https://pubg.com/zh-tw/news/11306"
-    },
-    {
-        "title": "[開發者信件] 輕機槍遊戲生態輪替結束及後續方向 ",
-        "summary": "",
-        "postId": 11337,
-        "category": "dev_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-11-04 02:04:29",
-        "displayTime": "2026-11-03 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261104/17iq7B0S.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261104/17iq7B0S_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/11337"
-    },
-    {
-        "title": "PUBG x IVE",
-        "summary": "",
-        "postId": 11307,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-11-02 05:18:17",
-        "displayTime": "2026-11-03 05:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261102/ABa2BRSa.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261102/ABa2BRSa_thumb.jpg",
-        "newsUrl": "https://pubg.com/zh-tw/news/11307"
     }
 ]

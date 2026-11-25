@@ -1,5 +1,17 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (11/16~11/22)",
+        "summary": "",
+        "postId": 11418,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2026-11-25 02:57:17",
+        "displayTime": "2026-11-25 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261125/ZNcPdhgK.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261125/ZNcPdhgK_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/11418"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS 운영정책 개정 안내",
         "summary": "",
         "postId": 11411,
@@ -127,20 +139,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261030/RhmaoORx.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261030/RhmaoORx_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/11337"
-    },
-    {
-        "title": "맵 서비스 리포트 - 업데이트 44.1",
-        "summary": "",
-        "postId": 11336,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-10-29 09:22:29",
-        "displayTime": "2026-11-03 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261029/Yt2vxc0U.png",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261029/Yt2vxc0U_thumb.png",
-        "newsUrl": "https://pubg.com/ko/news/11336"
     }
 ]

@@ -1,5 +1,17 @@
 [
     {
+        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (11/16~11/22)",
+        "summary": "",
+        "postId": 11418,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2026-11-23 06:55:48",
+        "displayTime": "2026-11-25 07:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261123/vAqUM9KJ.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261123/vAqUM9KJ_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/11418"
+    },
+    {
         "title": "PUBG Fantasy: PGC 2026",
         "summary": "PUBG Fantasy: PGC 2026",
         "postId": 11425,
@@ -120,20 +132,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261027/j54HW3w4.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261027/j54HW3w4_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/11346"
-    },
-    {
-        "title": "PUBG: BATTLEGROUNDS Weekly Bans Notice (10/26~11/01)",
-        "summary": "",
-        "postId": 11359,
-        "category": "notice",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-11-02 06:22:09",
-        "displayTime": "2026-11-04 07:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261102/i2Ei8m2W.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261102/i2Ei8m2W_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/11359"
     }
 ]
