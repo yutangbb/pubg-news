@@ -1,5 +1,17 @@
 [
     {
+        "title": "PUBG Fantasy: PGC 2026",
+        "summary": "PUBG Fantasy: PGC 2026",
+        "postId": 11425,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2026-11-24 02:58:23",
+        "displayTime": "2026-11-25 02:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261124/Z0wEYIiP.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261124/Z0wEYIiP_thumb.jpg",
+        "newsUrl": "https://pubg.com/en/news/11425"
+    },
+    {
         "title": "PUBG x IVE Collaboration Model Improvements",
         "summary": "",
         "postId": 11414,
@@ -123,20 +135,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261102/i2Ei8m2W.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261102/i2Ei8m2W_thumb.jpg",
         "newsUrl": "https://pubg.com/en/news/11359"
-    },
-    {
-        "title": "Patch Notes - Update 44.1",
-        "summary": " Introducing Update 44.1: Discover all the latest features and improvements!",
-        "postId": 11338,
-        "category": "patch_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-10-26 09:24:55",
-        "displayTime": "2026-11-03 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261026/4fhxvgil.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261026/4fhxvgil_thumb.jpg",
-        "newsUrl": "https://pubg.com/en/news/11338"
     }
 ]
