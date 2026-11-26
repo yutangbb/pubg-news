@@ -12,6 +12,18 @@
         "newsUrl": "https://pubg.com/ko/news/11418"
     },
     {
+        "title": "PUBG 판타지: PGC 2026",
+        "summary": "",
+        "postId": 11425,
+        "category": "notice",
+        "labels": [],
+        "createdAt": "2026-11-26 02:28:52",
+        "displayTime": "2026-11-25 02:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261126/6Nr0oSBK.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261126/6Nr0oSBK_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/11425"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS 운영정책 개정 안내",
         "summary": "",
         "postId": 11411,
@@ -124,20 +136,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261030/ewpVP2jG.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261030/ewpVP2jG_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/11338"
-    },
-    {
-        "title": "[개발일지] LMG 메타 로테이션 종료와 향후 방향",
-        "summary": "",
-        "postId": 11337,
-        "category": "dev_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-10-30 05:03:31",
-        "displayTime": "2026-11-03 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261030/RhmaoORx.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261030/RhmaoORx_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/11337"
     }
 ]
