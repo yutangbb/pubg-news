@@ -1,5 +1,20 @@
 [
     {
+        "title": "PUBG 오리지널 머치 FIRST DROP",
+        "summary": "",
+        "postId": 11423,
+        "category": "notice",
+        "labels": [
+            "label_pc",
+            "label_console"
+        ],
+        "createdAt": "2026-11-23 11:04:08",
+        "displayTime": "2026-11-27 02:00:00",
+        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261124/G73UPRkn.jpg",
+        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261124/G73UPRkn_thumb.jpg",
+        "newsUrl": "https://pubg.com/ko/news/11423"
+    },
+    {
         "title": "PUBG: BATTLEGROUNDS 주간 제재 현황 안내 (11/16~11/22)",
         "summary": "",
         "postId": 11418,
@@ -121,20 +136,5 @@
         "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261104/G2Xo7CmV.jpg",
         "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261104/G2Xo7CmV_thumb.jpg",
         "newsUrl": "https://pubg.com/ko/news/11359"
-    },
-    {
-        "title": "패치 노트 - 업데이트 44.1",
-        "summary": "업데이트 44.1에서 신규 기능 및 개선 사항을 만나보세요.",
-        "postId": 11338,
-        "category": "patch_notes",
-        "labels": [
-            "label_pc",
-            "label_console"
-        ],
-        "createdAt": "2026-10-30 10:35:48",
-        "displayTime": "2026-11-03 06:00:00",
-        "imageUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261030/ewpVP2jG.jpg",
-        "thumbUrl": "https://wstatic-prod-boc.krafton.com/common/content/news/20261030/ewpVP2jG_thumb.jpg",
-        "newsUrl": "https://pubg.com/ko/news/11338"
     }
 ]
